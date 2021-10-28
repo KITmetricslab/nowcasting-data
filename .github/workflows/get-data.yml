@@ -20,9 +20,9 @@ jobs:
 
     - name: Visualization
       run: |
-        cd ./code
+        #cd ./code
         Rscript ./get_snapshots.R	
-        cd ../
+        #cd ../
     - name: Commit files
       env:
         AUTH: ${{ secrets.GITHUB_TOKEN }}
