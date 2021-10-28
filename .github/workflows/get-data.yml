@@ -17,7 +17,7 @@ jobs:
 
     - name: Install requirenments
       run: |
-        install.packages(c("data.table","XML", "dplyr", "ISOweek", "RCurl", "stringi"), dependencies=TRUE)
+        Rscript -e "install.packages(c("data.table","XML", "dplyr", "ISOweek", "RCurl", "stringi"), dependencies=TRUE)"
 
     - name: Get data
       run: |
