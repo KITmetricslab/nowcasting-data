@@ -270,6 +270,7 @@ getOlapData <- function(cube, language, hierarchy, facet, filter, filterValue, f
     columnCaptionsT <- data.frame(t(data.frame(columnCaptions)))
     names(columnCaptionsT) <- "Categories"
     finalFrame <- data.frame(cbind(columnCaptionsT,trowSet))
+    setDT(finalFrame)
     rownames(finalFrame) <- 1:nrow(finalFrame)
     
     data.m <- data.table::melt(finalFrame, id.vars='Categories') 
