@@ -12,14 +12,10 @@ jobs:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 1 # otherwise, you will failed to push refs to dest repo
     
-    - name: Setup R
-      uses: r-lib/actions/setup-r@v1
-
-    - name: Install requirenments
-      run: |
-        uses: r-lib/actions/setup-r-dependencies@v1
-        with:
-          cache-version: 2
+    - uses: r-lib/actions/setup-r@v1
+    - uses: r-lib/actions/setup-r-dependencies@v1
+      with:
+        cache-version: 2
 
     - name: Get data
       run: |
