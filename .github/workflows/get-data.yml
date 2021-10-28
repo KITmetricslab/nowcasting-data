@@ -17,8 +17,9 @@ jobs:
 
     - name: Install requirenments
       run: |
+        install.packages(c("data.table","XML", "dplyr", "ISOweek", "RCurl", "stringi"), dependencies=TRUE)
 
-    - name: Visualization
+    - name: Get data
       run: |
         #cd ./code
         Rscript ./get_snapshots.R	
