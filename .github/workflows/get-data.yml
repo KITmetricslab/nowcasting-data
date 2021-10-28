@@ -17,13 +17,14 @@ jobs:
 
     - name: Install requirenments
       run: |
-        Rscript -e "install.packages(c("data.table","XML", "dplyr", "ISOweek", "RCurl", "stringi"), dependencies=TRUE)"
+        uses: r-lib/actions/setup-r-dependencies@v1
+        with:
+          cache-version: 2
 
     - name: Get data
       run: |
-        #cd ./code
         Rscript ./get_snapshots.R	
-        #cd ../
+        
     - name: Commit files
       env:
         AUTH: ${{ secrets.GITHUB_TOKEN }}
