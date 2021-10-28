@@ -15,7 +15,7 @@ jobs:
     - uses: r-lib/actions/setup-r@v1
     - uses: r-lib/actions/setup-r-dependencies@v1
       with:
-        cache-version: 2
+        cache-version: 1
 
     - name: Get data
       run: |
