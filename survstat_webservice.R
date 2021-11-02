@@ -136,7 +136,7 @@ getHierarchies <- function(cube, language){
         # Get the Children Nodes of the Hierarchy Node (These are its properties)
         children <- xmlChildren(x)
         
-        # Get the parent of the parent Node (ParentÂ² because every Hierarchy is in in Hierachies Node)
+        # Get the parent of the parent Node (ParentÃÂ² because every Hierarchy is in in Hierachies Node)
         parent <- xmlParent(xmlParent(x))
         
         # Initialize the result List
@@ -270,9 +270,8 @@ getOlapData <- function(cube, language, hierarchy, facet, filter, filterValue, f
     columnCaptionsT <- data.frame(t(data.frame(columnCaptions)))
     names(columnCaptionsT) <- "Categories"
     finalFrame <- data.frame(cbind(columnCaptionsT,trowSet))
-    setDT(finalFrame)
     rownames(finalFrame) <- 1:nrow(finalFrame)
-    
+    setDT(finalFrame)
     data.m <- data.table::melt(finalFrame, id.vars='Categories') 
     
     return(data.m)
@@ -308,7 +307,7 @@ get_weekly_timeseries_one_yr <- function(disease = "Noroviral gastroenteritis", 
     # require(dplyr)
     cube <- "SurvStat"
     language <- "English"
-    hierarchy <- "Season year and week (27)"
+    hierarchy <- "Week of notification"
     filter <- "Disease"
     filterValue <- disease
     filter2 <- "Year of notification"
@@ -316,14 +315,15 @@ get_weekly_timeseries_one_yr <- function(disease = "Noroviral gastroenteritis", 
     facet <- region_level
     
     data <- getOlapData(cube, language, hierarchy, facet, filter, filterValue, filter2, filterValue2)
-    string_season <- substr(data$Categories,1,4)
-    string_week <- substr(data$Categories,11,12)
+    string_season <- year # substr(data$Categories,1,4)
+    string_week <- data$Categories # substr(data$Categories,11,12)
     data$week <- as.numeric(string_week)
-    data$season <- as.numeric(string_season)
+    data$year <- as.numeric(string_season)
+    data$Categories <- NULL
     
     # rename columns in more meaningful way:
-    colnames(data)[colnames(data) == "Categories"] <- "time_string"
-    colnames(data)[colnames(data) == "variable"] <- "state"
+    # colnames(data)[colnames(data) == "Categories"] <- "time_string"
+    colnames(data)[colnames(data) == "variable"] <- "stratum"
     
     return(as_tibble(data))
 }
