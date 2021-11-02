@@ -14,7 +14,7 @@ jobs:
         
     - name: Install dependencies
       run: |
-        sudo apt-get install libcurl
+        sudo apt-get install libcurl4=7.64.0
     
     - uses: r-lib/actions/setup-r@v1
     - uses: r-lib/actions/setup-renv@v1
