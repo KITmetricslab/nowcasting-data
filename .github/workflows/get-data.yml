@@ -14,7 +14,7 @@ jobs:
         
     - name: Install dependencies
       run: |
-        sudo apt-get install libcurl4
+        sudo apt-get install libcurl4-openssl-dev
     
     - uses: r-lib/actions/setup-r@v1
     - uses: r-lib/actions/setup-renv@v1
