@@ -27,8 +27,7 @@ jobs:
 
     - name: Get data
       run: |
-        #Rscript ./get_snapshots.R	
-        Rscript ./test_curl.R
+        Rscript ./get_snapshots.R	
         
     - name: Commit files
       env:
