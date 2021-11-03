@@ -16,6 +16,7 @@ jobs:
       run: |
         sudo apt-get install libcurl4-openssl-dev
         curl-config --version
+        openssl version -a
         openssl s_client -connect tools.rki.de:443 -msg
     
     - uses: r-lib/actions/setup-r@v1
