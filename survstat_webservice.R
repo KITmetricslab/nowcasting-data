@@ -27,6 +27,11 @@ getXMLFromWebService <- function(body_,service_){
     #Gatherer Object to recieve response xml
     reader = basicTextGatherer()
     
+    # print("Header:")
+    # dput(headerFields)
+    # print("Body:")
+    # dput(body_)
+    
     # performe the request
     result <- curlPerform(url = webServiceUrl,
                           httpheader = headerFields,
