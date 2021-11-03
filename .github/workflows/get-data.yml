@@ -15,9 +15,9 @@ jobs:
     - name: Install dependencies
       run: |
         sudo apt-get install libcurl4-openssl-dev
-        curl-config --version
-        openssl version -a
-        openssl s_client -connect tools.rki.de:443 -msg
+        #curl-config --version
+        #openssl version -a
+        #openssl s_client -connect tools.rki.de:443 -msg
     
     - uses: r-lib/actions/setup-r@v1
     - uses: r-lib/actions/setup-renv@v1
@@ -30,7 +30,7 @@ jobs:
 
     - name: Get data
       run: |
-        Rscript ./get_snapshots.R	
+        Rscript ./test.R	
         
     - name: Commit files
       env:
