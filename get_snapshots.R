@@ -35,7 +35,7 @@ dat_influenza_age <- get_weekly_timeseries(disease = "Influenza, saisonal", year
                                            region_level = "Age stratification: 1 year intervals")
 write.csv(dat_influenza_age, file = paste0("Seasonal_Influenza/Seasonal_Influenza-age-", today, ".csv"), row.names = FALSE)
 
-dat_influenza_states <- get_weekly_timeseries(disease = "Influenza, saisonal", year = "2020",
+dat_influenza_states <- get_weekly_timeseries(disease = "Influenza, saisonal", years = years,
                                               region_level = "State")
 write.csv(dat_influenza_states, file = paste0("Seasonal_Influenza/Seasonal_Influenza-states-", today, ".csv"), row.names = FALSE)
 
@@ -49,6 +49,6 @@ dat_pneumococcal_age <- get_weekly_timeseries(disease = "Pneumococcal invasive d
                                               region_level = "Age stratification: 1 year intervals")
 write.csv(dat_pneumococcal_age, file = paste0("Pneumococcal_Disease/Pneumococcal_Disease-age-", today, ".csv"), row.names = FALSE)
 
-dat_pneumococcal_states <- get_weekly_timeseries(disease = "Pneumococcal invasive disease", years = "2020",
+dat_pneumococcal_states <- get_weekly_timeseries(disease = "Pneumococcal invasive disease", years = years,
                                                  region_level = "State")
 write.csv(dat_pneumococcal_states, file = paste0("Pneumococcal_Disease/Pneumococcal_Disease-states-", today, ".csv"), row.names = FALSE)
