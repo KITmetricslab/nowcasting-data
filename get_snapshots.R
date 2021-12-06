@@ -22,7 +22,7 @@ dat_rsv_age <- get_weekly_timeseries(disease = "RSV-Infection", years = years,
 write.csv(dat_rsv_age, file = paste0("RSV_Infection/RSV_Infection-age-", today, ".csv"), row.names = FALSE)
 
 
-dat_rsv_states <- get_weekly_timeseries(disease = "RSV-Infection", years = years,
+dat_rsv_states <- get_weekly_timeseries(disease = "RSV-Infection", years = years, 
                                         region_level = "State")
 write.csv(dat_rsv_states, file = paste0("RSV_Infection/RSV_Infection-states-", today, ".csv"), row.names = FALSE)
 
@@ -31,7 +31,7 @@ write.csv(dat_rsv_states, file = paste0("RSV_Infection/RSV_Infection-states-", t
 
 dir.create("Seasonal_Influenza")
 
-dat_influenza_age <- get_weekly_timeseries(disease = "Influenza, saisonal", years = years,
+dat_influenza_age <- get_weekly_timeseries(disease = "Influenza, saisonal", years = years, 
                                            region_level = "Age stratification: 1 year intervals")
 write.csv(dat_influenza_age, file = paste0("Seasonal_Influenza/Seasonal_Influenza-age-", today, ".csv"), row.names = FALSE)
 
@@ -45,10 +45,142 @@ write.csv(dat_influenza_states, file = paste0("Seasonal_Influenza/Seasonal_Influ
 dir.create("Pneumococcal_Disease")
 
 
-dat_pneumococcal_age <- get_weekly_timeseries(disease = "Pneumococcal invasive disease", years = years,
+dat_pneumococcal_age <- get_weekly_timeseries(disease = "Pneumococcal invasive disease", years = years, 
                                               region_level = "Age stratification: 1 year intervals")
 write.csv(dat_pneumococcal_age, file = paste0("Pneumococcal_Disease/Pneumococcal_Disease-age-", today, ".csv"), row.names = FALSE)
 
 dat_pneumococcal_states <- get_weekly_timeseries(disease = "Pneumococcal invasive disease", years = years,
                                                  region_level = "State")
 write.csv(dat_pneumococcal_states, file = paste0("Pneumococcal_Disease/Pneumococcal_Disease-states-", today, ".csv"), row.names = FALSE)
+
+
+
+########## Norovirus
+
+dir.create("Noroviral_Gastroenteritis")
+
+
+dat_noro_age <- get_weekly_timeseries(disease = "Noroviral gastroenteritis", years = years, 
+                                      region_level = "Age stratification: 1 year intervals")
+write.csv(dat_noro_age, file = paste0("Noroviral_Gastroenteritis/Noroviral_Gastroenteritis-age-", today, ".csv"), row.names = FALSE)
+
+dat_noro_states <- get_weekly_timeseries(disease = "Noroviral gastroenteritis", years = years,
+                                         region_level = "State")
+write.csv(dat_noro_states, file = paste0("Noroviral_Gastroenteritis/Noroviral_Gastroenteritis-states-", today, ".csv"), row.names = FALSE)
+
+
+########## Rotavirus
+
+dir.create("Rotavirus_Gastroenteritis")
+
+
+dat_rota_age <- get_weekly_timeseries(disease = "Rotavirus gastroenteritis", years = years, 
+                                      region_level = "Age stratification: 1 year intervals")
+write.csv(dat_rota_age, file = paste0("Rotavirus_Gastroenteritis/Rotavirus_Gastroenteritis-age-", today, ".csv"), row.names = FALSE)
+
+dat_rota_states <- get_weekly_timeseries(disease = "Rotavirus gastroenteritis", years = years,
+                                         region_level = "State")
+write.csv(dat_rota_states, file = paste0("Rotavirus_Gastroenteritis/Rotavirus_Gastroenteritis-states-", today, ".csv"), row.names = FALSE)
+
+
+
+########## Listeriosis
+
+dir.create("Listeriosis")
+
+
+dat_listeriosis_age <- get_weekly_timeseries(disease = "Listeriosis", years = years, 
+                                             region_level = "Age stratification: 1 year intervals")
+write.csv(dat_listeriosis_age, file = paste0("Listeriosis/Listeriosis-age-", today, ".csv"), row.names = FALSE)
+
+dat_listeriosis_states <- get_weekly_timeseries(disease = "Listeriosis", years = years,
+                                                region_level = "State")
+write.csv(dat_listeriosis_states, file = paste0("Listeriosis/Listeriosis-states-", today, ".csv"), row.names = FALSE)
+
+
+########## Salmonellosis
+
+dir.create("Salmonellosis")
+
+
+dat_salmonellosis_age <- get_weekly_timeseries(disease = "Salmonellosis", years = years, 
+                                               region_level = "Age stratification: 1 year intervals")
+write.csv(dat_salmonellosis_age, file = paste0("Salmonellosis/Salmonellosis-age-", today, ".csv"), row.names = FALSE)
+
+dat_salmonellosis_states <- get_weekly_timeseries(disease = "Salmonellosis", years = years,
+                                                  region_level = "State")
+write.csv(dat_salmonellosis_states, file = paste0("Salmonellosis/Salmonellosis-states-", today, ".csv"), row.names = FALSE)
+
+
+########## Campylobacteriosis
+
+dir.create("Campylobacteriosis")
+
+
+dat_campylobacteriosis_age <- get_weekly_timeseries(disease = "Campylobacteriosis", years = years, 
+                                                    region_level = "Age stratification: 1 year intervals")
+write.csv(dat_campylobacteriosis_age, file = paste0("Campylobacteriosis/Campylobacteriosis-age-", today, ".csv"), row.names = FALSE)
+
+dat_campylobacteriosis_states <- get_weekly_timeseries(disease = "Campylobacteriosis", years = years,
+                                                       region_level = "State")
+write.csv(dat_campylobacteriosis_states, file = paste0("Campylobacteriosis/Campylobacteriosis-states-", today, ".csv"), row.names = FALSE)
+
+
+
+########## Meningococcal disease
+
+dir.create("Meningococcal_Disease")
+
+
+dat_meningococcal_age <- get_weekly_timeseries(disease = "Meningococcal disease, invasive", years = years, 
+                                               region_level = "Age stratification: 1 year intervals")
+write.csv(dat_meningococcal_age, file = paste0("Meningococcal_Disease/Meningococcal_Disease-age-", today, ".csv"), row.names = FALSE)
+
+dat_meningococcal_states <- get_weekly_timeseries(disease = "Meningococcal disease, invasive", years = years,
+                                                  region_level = "State")
+write.csv(dat_meningococcal_states, file = paste0("Meningococcal_Disease/Meningococcal_Disease-states-", today, ".csv"), row.names = FALSE)
+
+
+
+########## Lyme disease
+
+dir.create("Lyme_Disease")
+
+
+dat_lyme_age <- get_weekly_timeseries(disease = "Lyme disease", years = years, 
+                                      region_level = "Age stratification: 1 year intervals")
+write.csv(dat_lyme_age, file = paste0("Lyme_Disease/Lyme_Disease-age-", today, ".csv"), row.names = FALSE)
+
+dat_lyme_states <- get_weekly_timeseries(disease = "Lyme disease", years = years,
+                                         region_level = "State")
+write.csv(dat_lyme_states, file = paste0("Lyme_Disease/Lyme_Disease-states-", today, ".csv"), row.names = FALSE)
+
+
+########## TBE
+
+dir.create("Tick-borne_encephalitis")
+
+
+dat_tbe_age <- get_weekly_timeseries(disease = "Tick-borne encephalitis (TBE)", years = years, 
+                                     region_level = "Age stratification: 1 year intervals")
+write.csv(dat_tbe_age, file = paste0("Tick-borne_encephalitis/Tick-borne_encephalitis-age-", today, ".csv"), row.names = FALSE)
+
+dat_tbe_states <- get_weekly_timeseries(disease = "Tick-borne encephalitis (TBE)", years = years,
+                                        region_level = "State")
+write.csv(dat_tbe_states, file = paste0("Tick-borne_encephalitis/Tick-borne_encephalitis-states-", today, ".csv"), row.names = FALSE)
+
+
+########## Legionnaires disease
+
+dir.create("Legionnaires_Disease")
+
+
+dat_legionnaires_age <- get_weekly_timeseries(disease = "Legionnaires' disease", years = years, 
+                                     region_level = "Age stratification: 1 year intervals")
+write.csv(dat_legionnaires_age, file = paste0("Legionnaires_Disease/Legionnaires_Disease-age-", today, ".csv"), row.names = FALSE)
+
+dat_legionnaires_states <- get_weekly_timeseries(disease = "Legionnaires' disease", years = years,
+                                        region_level = "State")
+write.csv(dat_legionnaires_states, file = paste0("Legionnaires_Disease/Legionnaires_Disease-states-", today, ".csv"), row.names = FALSE)
+
+
