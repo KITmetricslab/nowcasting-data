@@ -47,7 +47,7 @@
 "Baden.WÃ.rttemberg",18,46,2021
 "Baden.WÃ.rttemberg",13,47,2021
 "Baden.WÃ.rttemberg",12,48,2021
-"Baden.WÃ.rttemberg",6,49,2021
+"Baden.WÃ.rttemberg",7,49,2021
 "Bayern",15,1,2021
 "Bayern",22,2,2021
 "Bayern",10,3,2021
@@ -96,7 +96,7 @@
 "Bayern",29,46,2021
 "Bayern",22,47,2021
 "Bayern",16,48,2021
-"Bayern",19,49,2021
+"Bayern",21,49,2021
 "Berlin",1,1,2021
 "Berlin",5,2,2021
 "Berlin",4,3,2021
@@ -145,7 +145,7 @@
 "Berlin",4,46,2021
 "Berlin",6,47,2021
 "Berlin",7,48,2021
-"Berlin",6,49,2021
+"Berlin",7,49,2021
 "Brandenburg",7,1,2021
 "Brandenburg",2,2,2021
 "Brandenburg",5,3,2021
@@ -194,7 +194,7 @@
 "Brandenburg",5,46,2021
 "Brandenburg",7,47,2021
 "Brandenburg",2,48,2021
-"Brandenburg",NA,49,2021
+"Brandenburg",3,49,2021
 "Bremen",1,1,2021
 "Bremen",NA,2,2021
 "Bremen",NA,3,2021
@@ -243,7 +243,7 @@
 "Bremen",NA,46,2021
 "Bremen",1,47,2021
 "Bremen",1,48,2021
-"Bremen",NA,49,2021
+"Bremen",1,49,2021
 "Hamburg",1,1,2021
 "Hamburg",2,2,2021
 "Hamburg",3,3,2021
@@ -292,7 +292,7 @@
 "Hamburg",1,46,2021
 "Hamburg",6,47,2021
 "Hamburg",2,48,2021
-"Hamburg",1,49,2021
+"Hamburg",2,49,2021
 "Hessen",2,1,2021
 "Hessen",3,2,2021
 "Hessen",9,3,2021
@@ -439,7 +439,7 @@
 "Niedersachsen",15,46,2021
 "Niedersachsen",20,47,2021
 "Niedersachsen",16,48,2021
-"Niedersachsen",11,49,2021
+"Niedersachsen",14,49,2021
 "Nordrhein.Westfalen",21,1,2021
 "Nordrhein.Westfalen",19,2,2021
 "Nordrhein.Westfalen",28,3,2021
@@ -487,8 +487,8 @@
 "Nordrhein.Westfalen",32,45,2021
 "Nordrhein.Westfalen",33,46,2021
 "Nordrhein.Westfalen",38,47,2021
-"Nordrhein.Westfalen",28,48,2021
-"Nordrhein.Westfalen",28,49,2021
+"Nordrhein.Westfalen",29,48,2021
+"Nordrhein.Westfalen",34,49,2021
 "Rheinland.Pfalz",2,1,2021
 "Rheinland.Pfalz",4,2,2021
 "Rheinland.Pfalz",3,3,2021
@@ -537,7 +537,7 @@
 "Rheinland.Pfalz",5,46,2021
 "Rheinland.Pfalz",7,47,2021
 "Rheinland.Pfalz",2,48,2021
-"Rheinland.Pfalz",4,49,2021
+"Rheinland.Pfalz",6,49,2021
 "Saarland",3,1,2021
 "Saarland",NA,2,2021
 "Saarland",1,3,2021
@@ -635,7 +635,7 @@
 "Sachsen",17,46,2021
 "Sachsen",20,47,2021
 "Sachsen",19,48,2021
-"Sachsen",8,49,2021
+"Sachsen",13,49,2021
 "Sachsen.Anhalt",2,1,2021
 "Sachsen.Anhalt",2,2,2021
 "Sachsen.Anhalt",2,3,2021
