@@ -18,7 +18,8 @@
 "Baden.WÃ.rttemberg",26,17,2022
 "Baden.WÃ.rttemberg",27,18,2022
 "Baden.WÃ.rttemberg",20,19,2022
-"Baden.WÃ.rttemberg",20,20,2022
+"Baden.WÃ.rttemberg",22,20,2022
+"Baden.WÃ.rttemberg",10,21,2022
 "Bayern",9,1,2022
 "Bayern",15,2,2022
 "Bayern",19,3,2022
@@ -38,7 +39,8 @@
 "Bayern",35,17,2022
 "Bayern",25,18,2022
 "Bayern",31,19,2022
-"Bayern",38,20,2022
+"Bayern",41,20,2022
+"Bayern",11,21,2022
 "Berlin",4,1,2022
 "Berlin",7,2,2022
 "Berlin",2,3,2022
@@ -59,13 +61,14 @@
 "Berlin",10,18,2022
 "Berlin",17,19,2022
 "Berlin",3,20,2022
+"Berlin",4,21,2022
 "Brandenburg",4,1,2022
 "Brandenburg",8,2,2022
 "Brandenburg",4,3,2022
 "Brandenburg",7,4,2022
 "Brandenburg",1,5,2022
 "Brandenburg",7,6,2022
-"Brandenburg",2,7,2022
+"Brandenburg",3,7,2022
 "Brandenburg",7,8,2022
 "Brandenburg",7,9,2022
 "Brandenburg",5,10,2022
@@ -78,7 +81,8 @@
 "Brandenburg",3,17,2022
 "Brandenburg",4,18,2022
 "Brandenburg",3,19,2022
-"Brandenburg",7,20,2022
+"Brandenburg",8,20,2022
+"Brandenburg",1,21,2022
 "Bremen",2,1,2022
 "Bremen",1,2,2022
 "Bremen",2,3,2022
@@ -99,6 +103,7 @@
 "Bremen",2,18,2022
 "Bremen",2,19,2022
 "Bremen",1,20,2022
+"Bremen",1,21,2022
 "Hamburg",2,1,2022
 "Hamburg",2,2,2022
 "Hamburg",3,3,2022
@@ -119,6 +124,7 @@
 "Hamburg",6,18,2022
 "Hamburg",2,19,2022
 "Hamburg",2,20,2022
+"Hamburg",NA,21,2022
 "Hessen",7,1,2022
 "Hessen",9,2,2022
 "Hessen",10,3,2022
@@ -138,7 +144,8 @@
 "Hessen",21,17,2022
 "Hessen",19,18,2022
 "Hessen",23,19,2022
-"Hessen",9,20,2022
+"Hessen",8,20,2022
+"Hessen",3,21,2022
 "Mecklenburg.Vorpommern",3,1,2022
 "Mecklenburg.Vorpommern",NA,2,2022
 "Mecklenburg.Vorpommern",2,3,2022
@@ -158,7 +165,8 @@
 "Mecklenburg.Vorpommern",NA,17,2022
 "Mecklenburg.Vorpommern",1,18,2022
 "Mecklenburg.Vorpommern",NA,19,2022
-"Mecklenburg.Vorpommern",4,20,2022
+"Mecklenburg.Vorpommern",5,20,2022
+"Mecklenburg.Vorpommern",1,21,2022
 "Niedersachsen",10,1,2022
 "Niedersachsen",14,2,2022
 "Niedersachsen",11,3,2022
@@ -172,13 +180,14 @@
 "Niedersachsen",8,11,2022
 "Niedersachsen",10,12,2022
 "Niedersachsen",9,13,2022
-"Niedersachsen",12,14,2022
+"Niedersachsen",13,14,2022
 "Niedersachsen",17,15,2022
 "Niedersachsen",4,16,2022
 "Niedersachsen",14,17,2022
 "Niedersachsen",17,18,2022
-"Niedersachsen",16,19,2022
-"Niedersachsen",12,20,2022
+"Niedersachsen",17,19,2022
+"Niedersachsen",14,20,2022
+"Niedersachsen",4,21,2022
 "Nordrhein.Westfalen",19,1,2022
 "Nordrhein.Westfalen",26,2,2022
 "Nordrhein.Westfalen",14,3,2022
@@ -198,7 +207,8 @@
 "Nordrhein.Westfalen",30,17,2022
 "Nordrhein.Westfalen",24,18,2022
 "Nordrhein.Westfalen",43,19,2022
-"Nordrhein.Westfalen",20,20,2022
+"Nordrhein.Westfalen",22,20,2022
+"Nordrhein.Westfalen",14,21,2022
 "Rheinland.Pfalz",8,1,2022
 "Rheinland.Pfalz",6,2,2022
 "Rheinland.Pfalz",3,3,2022
@@ -218,7 +228,8 @@
 "Rheinland.Pfalz",9,17,2022
 "Rheinland.Pfalz",12,18,2022
 "Rheinland.Pfalz",7,19,2022
-"Rheinland.Pfalz",24,20,2022
+"Rheinland.Pfalz",26,20,2022
+"Rheinland.Pfalz",5,21,2022
 "Saarland",1,1,2022
 "Saarland",8,2,2022
 "Saarland",2,3,2022
@@ -239,6 +250,7 @@
 "Saarland",7,18,2022
 "Saarland",NA,19,2022
 "Saarland",1,20,2022
+"Saarland",1,21,2022
 "Sachsen",15,1,2022
 "Sachsen",15,2,2022
 "Sachsen",30,3,2022
@@ -259,6 +271,7 @@
 "Sachsen",11,18,2022
 "Sachsen",12,19,2022
 "Sachsen",11,20,2022
+"Sachsen",NA,21,2022
 "Sachsen.Anhalt",2,1,2022
 "Sachsen.Anhalt",6,2,2022
 "Sachsen.Anhalt",13,3,2022
@@ -279,6 +292,7 @@
 "Sachsen.Anhalt",7,18,2022
 "Sachsen.Anhalt",8,19,2022
 "Sachsen.Anhalt",7,20,2022
+"Sachsen.Anhalt",1,21,2022
 "Schleswig.Holstein",2,1,2022
 "Schleswig.Holstein",1,2,2022
 "Schleswig.Holstein",NA,3,2022
@@ -299,6 +313,7 @@
 "Schleswig.Holstein",2,18,2022
 "Schleswig.Holstein",3,19,2022
 "Schleswig.Holstein",2,20,2022
+"Schleswig.Holstein",2,21,2022
 "ThÃ.ringen",6,1,2022
 "ThÃ.ringen",11,2,2022
 "ThÃ.ringen",16,3,2022
@@ -318,7 +333,8 @@
 "ThÃ.ringen",11,17,2022
 "ThÃ.ringen",21,18,2022
 "ThÃ.ringen",8,19,2022
-"ThÃ.ringen",12,20,2022
+"ThÃ.ringen",13,20,2022
+"ThÃ.ringen",4,21,2022
 "Baden.WÃ.rttemberg",13,1,2021
 "Baden.WÃ.rttemberg",12,2,2021
 "Baden.WÃ.rttemberg",20,3,2021
