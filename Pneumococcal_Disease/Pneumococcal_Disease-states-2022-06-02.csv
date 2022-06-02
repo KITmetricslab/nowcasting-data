@@ -20,7 +20,7 @@
 "Baden.WÃ.rttemberg",5,19,2022
 "Baden.WÃ.rttemberg",7,20,2022
 "Baden.WÃ.rttemberg",2,21,2022
-"Baden.WÃ.rttemberg",4,22,2022
+"Baden.WÃ.rttemberg",7,22,2022
 "Bayern",8,1,2022
 "Bayern",9,2,2022
 "Bayern",1,3,2022
@@ -42,7 +42,7 @@
 "Bayern",6,19,2022
 "Bayern",7,20,2022
 "Bayern",12,21,2022
-"Bayern",4,22,2022
+"Bayern",5,22,2022
 "Berlin",1,1,2022
 "Berlin",1,2,2022
 "Berlin",3,3,2022
@@ -64,7 +64,7 @@
 "Berlin",7,19,2022
 "Berlin",4,20,2022
 "Berlin",2,21,2022
-"Berlin",NA,22,2022
+"Berlin",1,22,2022
 "Brandenburg",7,1,2022
 "Brandenburg",2,2,2022
 "Brandenburg",NA,3,2022
@@ -86,7 +86,7 @@
 "Brandenburg",3,19,2022
 "Brandenburg",4,20,2022
 "Brandenburg",2,21,2022
-"Brandenburg",2,22,2022
+"Brandenburg",3,22,2022
 "Bremen",NA,1,2022
 "Bremen",NA,2,2022
 "Bremen",NA,3,2022
@@ -108,7 +108,7 @@
 "Bremen",1,19,2022
 "Bremen",NA,20,2022
 "Bremen",1,21,2022
-"Bremen",1,22,2022
+"Bremen",2,22,2022
 "Hamburg",NA,1,2022
 "Hamburg",NA,2,2022
 "Hamburg",NA,3,2022
@@ -174,7 +174,7 @@
 "Mecklenburg.Vorpommern",5,19,2022
 "Mecklenburg.Vorpommern",1,20,2022
 "Mecklenburg.Vorpommern",1,21,2022
-"Mecklenburg.Vorpommern",4,22,2022
+"Mecklenburg.Vorpommern",6,22,2022
 "Niedersachsen",3,1,2022
 "Niedersachsen",4,2,2022
 "Niedersachsen",4,3,2022
@@ -196,7 +196,7 @@
 "Niedersachsen",5,19,2022
 "Niedersachsen",7,20,2022
 "Niedersachsen",3,21,2022
-"Niedersachsen",2,22,2022
+"Niedersachsen",4,22,2022
 "Nordrhein.Westfalen",14,1,2022
 "Nordrhein.Westfalen",7,2,2022
 "Nordrhein.Westfalen",4,3,2022
@@ -218,7 +218,7 @@
 "Nordrhein.Westfalen",14,19,2022
 "Nordrhein.Westfalen",20,20,2022
 "Nordrhein.Westfalen",9,21,2022
-"Nordrhein.Westfalen",5,22,2022
+"Nordrhein.Westfalen",7,22,2022
 "Rheinland.Pfalz",1,1,2022
 "Rheinland.Pfalz",NA,2,2022
 "Rheinland.Pfalz",NA,3,2022
@@ -284,7 +284,7 @@
 "Sachsen",4,19,2022
 "Sachsen",5,20,2022
 "Sachsen",2,21,2022
-"Sachsen",1,22,2022
+"Sachsen",2,22,2022
 "Sachsen.Anhalt",NA,1,2022
 "Sachsen.Anhalt",3,2,2022
 "Sachsen.Anhalt",2,3,2022
@@ -306,7 +306,7 @@
 "Sachsen.Anhalt",1,19,2022
 "Sachsen.Anhalt",3,20,2022
 "Sachsen.Anhalt",1,21,2022
-"Sachsen.Anhalt",NA,22,2022
+"Sachsen.Anhalt",1,22,2022
 "Schleswig.Holstein",NA,1,2022
 "Schleswig.Holstein",1,2,2022
 "Schleswig.Holstein",2,3,2022
