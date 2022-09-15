@@ -35,7 +35,7 @@
 "Bayern",111,34,2022
 "Bayern",76,35,2022
 "Bayern",98,36,2022
-"Bayern",29,37,2022
+"Bayern",46,37,2022
 "Berlin",2,1,2022
 "Berlin",6,2,2022
 "Berlin",9,3,2022
@@ -70,9 +70,9 @@
 "Berlin",28,32,2022
 "Berlin",41,33,2022
 "Berlin",37,34,2022
-"Berlin",21,35,2022
-"Berlin",21,36,2022
-"Berlin",4,37,2022
+"Berlin",23,35,2022
+"Berlin",23,36,2022
+"Berlin",9,37,2022
 "Brandenburg",2,1,2022
 "Brandenburg",6,2,2022
 "Brandenburg",6,3,2022
@@ -107,9 +107,9 @@
 "Brandenburg",40,32,2022
 "Brandenburg",57,33,2022
 "Brandenburg",43,34,2022
-"Brandenburg",35,35,2022
-"Brandenburg",40,36,2022
-"Brandenburg",9,37,2022
+"Brandenburg",36,35,2022
+"Brandenburg",43,36,2022
+"Brandenburg",15,37,2022
 "Mecklenburg.Vorpommern",NA,1,2022
 "Mecklenburg.Vorpommern",1,2,2022
 "Mecklenburg.Vorpommern",1,3,2022
@@ -146,7 +146,7 @@
 "Mecklenburg.Vorpommern",20,34,2022
 "Mecklenburg.Vorpommern",23,35,2022
 "Mecklenburg.Vorpommern",28,36,2022
-"Mecklenburg.Vorpommern",8,37,2022
+"Mecklenburg.Vorpommern",11,37,2022
 "Rheinland.Pfalz",1,1,2022
 "Rheinland.Pfalz",4,2,2022
 "Rheinland.Pfalz",2,3,2022
@@ -183,7 +183,7 @@
 "Rheinland.Pfalz",34,34,2022
 "Rheinland.Pfalz",11,35,2022
 "Rheinland.Pfalz",16,36,2022
-"Rheinland.Pfalz",15,37,2022
+"Rheinland.Pfalz",18,37,2022
 "Saarland",NA,1,2022
 "Saarland",NA,2,2022
 "Saarland",NA,3,2022
@@ -220,7 +220,7 @@
 "Saarland",NA,34,2022
 "Saarland",5,35,2022
 "Saarland",13,36,2022
-"Saarland",1,37,2022
+"Saarland",4,37,2022
 "Sachsen",10,1,2022
 "Sachsen",16,2,2022
 "Sachsen",16,3,2022
@@ -254,10 +254,10 @@
 "Sachsen",56,31,2022
 "Sachsen",49,32,2022
 "Sachsen",62,33,2022
-"Sachsen",71,34,2022
-"Sachsen",54,35,2022
-"Sachsen",43,36,2022
-"Sachsen",17,37,2022
+"Sachsen",72,34,2022
+"Sachsen",55,35,2022
+"Sachsen",44,36,2022
+"Sachsen",27,37,2022
 "Sachsen.Anhalt",3,1,2022
 "Sachsen.Anhalt",15,2,2022
 "Sachsen.Anhalt",6,3,2022
@@ -294,7 +294,7 @@
 "Sachsen.Anhalt",12,34,2022
 "Sachsen.Anhalt",34,35,2022
 "Sachsen.Anhalt",13,36,2022
-"Sachsen.Anhalt",22,37,2022
+"Sachsen.Anhalt",23,37,2022
 "ThÃ.ringen",4,1,2022
 "ThÃ.ringen",4,2,2022
 "ThÃ.ringen",1,3,2022
@@ -331,7 +331,7 @@
 "ThÃ.ringen",7,34,2022
 "ThÃ.ringen",7,35,2022
 "ThÃ.ringen",8,36,2022
-"ThÃ.ringen",3,37,2022
+"ThÃ.ringen",4,37,2022
 "Bayern",17,1,2021
 "Bayern",20,2,2021
 "Bayern",23,3,2021
