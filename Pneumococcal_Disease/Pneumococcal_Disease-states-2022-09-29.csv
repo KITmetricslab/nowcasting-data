@@ -76,7 +76,7 @@
 "Bayern",4,36,2022
 "Bayern",2,37,2022
 "Bayern",3,38,2022
-"Bayern",2,39,2022
+"Bayern",3,39,2022
 "Berlin",1,1,2022
 "Berlin",1,2,2022
 "Berlin",3,3,2022
@@ -115,7 +115,7 @@
 "Berlin",4,36,2022
 "Berlin",2,37,2022
 "Berlin",5,38,2022
-"Berlin",1,39,2022
+"Berlin",4,39,2022
 "Brandenburg",7,1,2022
 "Brandenburg",2,2,2022
 "Brandenburg",NA,3,2022
@@ -154,7 +154,7 @@
 "Brandenburg",5,36,2022
 "Brandenburg",1,37,2022
 "Brandenburg",1,38,2022
-"Brandenburg",1,39,2022
+"Brandenburg",2,39,2022
 "Bremen",NA,1,2022
 "Bremen",NA,2,2022
 "Bremen",NA,3,2022
@@ -310,7 +310,7 @@
 "Mecklenburg.Vorpommern",2,36,2022
 "Mecklenburg.Vorpommern",3,37,2022
 "Mecklenburg.Vorpommern",NA,38,2022
-"Mecklenburg.Vorpommern",NA,39,2022
+"Mecklenburg.Vorpommern",1,39,2022
 "Niedersachsen",3,1,2022
 "Niedersachsen",4,2,2022
 "Niedersachsen",4,3,2022
@@ -388,7 +388,7 @@
 "Nordrhein.Westfalen",15,36,2022
 "Nordrhein.Westfalen",20,37,2022
 "Nordrhein.Westfalen",20,38,2022
-"Nordrhein.Westfalen",11,39,2022
+"Nordrhein.Westfalen",15,39,2022
 "Rheinland.Pfalz",1,1,2022
 "Rheinland.Pfalz",NA,2,2022
 "Rheinland.Pfalz",NA,3,2022
