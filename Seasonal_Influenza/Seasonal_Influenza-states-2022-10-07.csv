@@ -38,7 +38,7 @@
 "Baden.WÃ.rttemberg",13,37,2022
 "Baden.WÃ.rttemberg",23,38,2022
 "Baden.WÃ.rttemberg",35,39,2022
-"Baden.WÃ.rttemberg",7,40,2022
+"Baden.WÃ.rttemberg",26,40,2022
 "Bayern",26,1,2022
 "Bayern",65,2,2022
 "Bayern",100,3,2022
@@ -75,10 +75,10 @@
 "Bayern",64,34,2022
 "Bayern",58,35,2022
 "Bayern",41,36,2022
-"Bayern",61,37,2022
+"Bayern",62,37,2022
 "Bayern",69,38,2022
-"Bayern",236,39,2022
-"Bayern",175,40,2022
+"Bayern",237,39,2022
+"Bayern",247,40,2022
 "Berlin",6,1,2022
 "Berlin",10,2,2022
 "Berlin",15,3,2022
@@ -118,7 +118,7 @@
 "Berlin",13,37,2022
 "Berlin",11,38,2022
 "Berlin",18,39,2022
-"Berlin",10,40,2022
+"Berlin",19,40,2022
 "Brandenburg",5,1,2022
 "Brandenburg",5,2,2022
 "Brandenburg",25,3,2022
@@ -158,7 +158,7 @@
 "Brandenburg",6,37,2022
 "Brandenburg",9,38,2022
 "Brandenburg",4,39,2022
-"Brandenburg",2,40,2022
+"Brandenburg",6,40,2022
 "Bremen",4,1,2022
 "Bremen",NA,2,2022
 "Bremen",4,3,2022
@@ -238,7 +238,7 @@
 "Hamburg",7,37,2022
 "Hamburg",10,38,2022
 "Hamburg",14,39,2022
-"Hamburg",12,40,2022
+"Hamburg",15,40,2022
 "Hessen",15,1,2022
 "Hessen",14,2,2022
 "Hessen",13,3,2022
@@ -278,7 +278,7 @@
 "Hessen",14,37,2022
 "Hessen",28,38,2022
 "Hessen",39,39,2022
-"Hessen",33,40,2022
+"Hessen",44,40,2022
 "Mecklenburg.Vorpommern",3,1,2022
 "Mecklenburg.Vorpommern",1,2,2022
 "Mecklenburg.Vorpommern",NA,3,2022
@@ -318,7 +318,7 @@
 "Mecklenburg.Vorpommern",5,37,2022
 "Mecklenburg.Vorpommern",6,38,2022
 "Mecklenburg.Vorpommern",9,39,2022
-"Mecklenburg.Vorpommern",6,40,2022
+"Mecklenburg.Vorpommern",9,40,2022
 "Niedersachsen",22,1,2022
 "Niedersachsen",22,2,2022
 "Niedersachsen",13,3,2022
@@ -358,7 +358,7 @@
 "Niedersachsen",19,37,2022
 "Niedersachsen",18,38,2022
 "Niedersachsen",12,39,2022
-"Niedersachsen",11,40,2022
+"Niedersachsen",15,40,2022
 "Nordrhein.Westfalen",31,1,2022
 "Nordrhein.Westfalen",17,2,2022
 "Nordrhein.Westfalen",21,3,2022
@@ -398,7 +398,7 @@
 "Nordrhein.Westfalen",33,37,2022
 "Nordrhein.Westfalen",32,38,2022
 "Nordrhein.Westfalen",62,39,2022
-"Nordrhein.Westfalen",27,40,2022
+"Nordrhein.Westfalen",35,40,2022
 "Rheinland.Pfalz",6,1,2022
 "Rheinland.Pfalz",7,2,2022
 "Rheinland.Pfalz",6,3,2022
@@ -438,7 +438,7 @@
 "Rheinland.Pfalz",19,37,2022
 "Rheinland.Pfalz",24,38,2022
 "Rheinland.Pfalz",67,39,2022
-"Rheinland.Pfalz",41,40,2022
+"Rheinland.Pfalz",59,40,2022
 "Saarland",NA,1,2022
 "Saarland",3,2,2022
 "Saarland",4,3,2022
@@ -518,7 +518,7 @@
 "Sachsen",22,37,2022
 "Sachsen",26,38,2022
 "Sachsen",33,39,2022
-"Sachsen",12,40,2022
+"Sachsen",29,40,2022
 "Sachsen.Anhalt",9,1,2022
 "Sachsen.Anhalt",8,2,2022
 "Sachsen.Anhalt",21,3,2022
@@ -558,7 +558,7 @@
 "Sachsen.Anhalt",21,37,2022
 "Sachsen.Anhalt",17,38,2022
 "Sachsen.Anhalt",27,39,2022
-"Sachsen.Anhalt",5,40,2022
+"Sachsen.Anhalt",19,40,2022
 "Schleswig.Holstein",1,1,2022
 "Schleswig.Holstein",7,2,2022
 "Schleswig.Holstein",5,3,2022
@@ -598,7 +598,7 @@
 "Schleswig.Holstein",1,37,2022
 "Schleswig.Holstein",9,38,2022
 "Schleswig.Holstein",8,39,2022
-"Schleswig.Holstein",8,40,2022
+"Schleswig.Holstein",15,40,2022
 "ThÃ.ringen",5,1,2022
 "ThÃ.ringen",4,2,2022
 "ThÃ.ringen",4,3,2022
@@ -638,7 +638,7 @@
 "ThÃ.ringen",4,37,2022
 "ThÃ.ringen",14,38,2022
 "ThÃ.ringen",49,39,2022
-"ThÃ.ringen",31,40,2022
+"ThÃ.ringen",41,40,2022
 "Baden.WÃ.rttemberg",6,1,2021
 "Baden.WÃ.rttemberg",2,2,2021
 "Baden.WÃ.rttemberg",NA,3,2021
