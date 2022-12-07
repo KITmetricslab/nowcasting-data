@@ -47,7 +47,7 @@
 "Bayern",61,46,2022
 "Bayern",38,47,2022
 "Bayern",43,48,2022
-"Bayern",6,49,2022
+"Bayern",12,49,2022
 "Berlin",2,1,2022
 "Berlin",6,2,2022
 "Berlin",9,3,2022
@@ -94,7 +94,7 @@
 "Berlin",17,44,2022
 "Berlin",6,45,2022
 "Berlin",16,46,2022
-"Berlin",10,47,2022
+"Berlin",11,47,2022
 "Berlin",3,48,2022
 "Berlin",NA,49,2022
 "Brandenburg",2,1,2022
@@ -145,7 +145,7 @@
 "Brandenburg",18,46,2022
 "Brandenburg",21,47,2022
 "Brandenburg",13,48,2022
-"Brandenburg",10,49,2022
+"Brandenburg",13,49,2022
 "Mecklenburg.Vorpommern",NA,1,2022
 "Mecklenburg.Vorpommern",1,2,2022
 "Mecklenburg.Vorpommern",1,3,2022
@@ -336,12 +336,12 @@
 "Sachsen",44,41,2022
 "Sachsen",35,42,2022
 "Sachsen",32,43,2022
-"Sachsen",34,44,2022
+"Sachsen",35,44,2022
 "Sachsen",34,45,2022
 "Sachsen",31,46,2022
-"Sachsen",42,47,2022
-"Sachsen",24,48,2022
-"Sachsen",1,49,2022
+"Sachsen",43,47,2022
+"Sachsen",26,48,2022
+"Sachsen",2,49,2022
 "Sachsen.Anhalt",3,1,2022
 "Sachsen.Anhalt",15,2,2022
 "Sachsen.Anhalt",9,3,2022
@@ -390,7 +390,7 @@
 "Sachsen.Anhalt",13,46,2022
 "Sachsen.Anhalt",10,47,2022
 "Sachsen.Anhalt",4,48,2022
-"Sachsen.Anhalt",2,49,2022
+"Sachsen.Anhalt",3,49,2022
 "ThÃ.ringen",4,1,2022
 "ThÃ.ringen",4,2,2022
 "ThÃ.ringen",1,3,2022
@@ -439,7 +439,7 @@
 "ThÃ.ringen",1,46,2022
 "ThÃ.ringen",4,47,2022
 "ThÃ.ringen",3,48,2022
-"ThÃ.ringen",NA,49,2022
+"ThÃ.ringen",1,49,2022
 "Bayern",17,1,2021
 "Bayern",20,2,2021
 "Bayern",23,3,2021
@@ -578,7 +578,7 @@
 "Brandenburg",59,32,2021
 "Brandenburg",51,33,2021
 "Brandenburg",56,34,2021
-"Brandenburg",71,35,2021
+"Brandenburg",70,35,2021
 "Brandenburg",64,36,2021
 "Brandenburg",53,37,2021
 "Brandenburg",49,38,2021
