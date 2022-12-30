@@ -50,7 +50,7 @@
 "Baden.WÃ.rttemberg",26,49,2022
 "Baden.WÃ.rttemberg",19,50,2022
 "Baden.WÃ.rttemberg",16,51,2022
-"Baden.WÃ.rttemberg",9,52,2022
+"Baden.WÃ.rttemberg",10,52,2022
 "Bayern",9,1,2022
 "Bayern",15,2,2022
 "Bayern",19,3,2022
@@ -154,7 +154,7 @@
 "Berlin",8,49,2022
 "Berlin",8,50,2022
 "Berlin",14,51,2022
-"Berlin",4,52,2022
+"Berlin",5,52,2022
 "Brandenburg",4,1,2022
 "Brandenburg",8,2,2022
 "Brandenburg",4,3,2022
@@ -362,7 +362,7 @@
 "Hessen",10,49,2022
 "Hessen",10,50,2022
 "Hessen",16,51,2022
-"Hessen",5,52,2022
+"Hessen",6,52,2022
 "Mecklenburg.Vorpommern",3,1,2022
 "Mecklenburg.Vorpommern",NA,2,2022
 "Mecklenburg.Vorpommern",2,3,2022
@@ -466,7 +466,7 @@
 "Niedersachsen",24,49,2022
 "Niedersachsen",25,50,2022
 "Niedersachsen",23,51,2022
-"Niedersachsen",6,52,2022
+"Niedersachsen",9,52,2022
 "Nordrhein.Westfalen",19,1,2022
 "Nordrhein.Westfalen",26,2,2022
 "Nordrhein.Westfalen",13,3,2022
@@ -515,10 +515,10 @@
 "Nordrhein.Westfalen",38,46,2022
 "Nordrhein.Westfalen",45,47,2022
 "Nordrhein.Westfalen",35,48,2022
-"Nordrhein.Westfalen",26,49,2022
+"Nordrhein.Westfalen",27,49,2022
 "Nordrhein.Westfalen",43,50,2022
-"Nordrhein.Westfalen",28,51,2022
-"Nordrhein.Westfalen",12,52,2022
+"Nordrhein.Westfalen",29,51,2022
+"Nordrhein.Westfalen",15,52,2022
 "Rheinland.Pfalz",8,1,2022
 "Rheinland.Pfalz",6,2,2022
 "Rheinland.Pfalz",3,3,2022
@@ -726,7 +726,7 @@
 "Sachsen.Anhalt",7,49,2022
 "Sachsen.Anhalt",4,50,2022
 "Sachsen.Anhalt",14,51,2022
-"Sachsen.Anhalt",5,52,2022
+"Sachsen.Anhalt",6,52,2022
 "Schleswig.Holstein",2,1,2022
 "Schleswig.Holstein",1,2,2022
 "Schleswig.Holstein",NA,3,2022
@@ -776,9 +776,9 @@
 "Schleswig.Holstein",3,47,2022
 "Schleswig.Holstein",5,48,2022
 "Schleswig.Holstein",5,49,2022
-"Schleswig.Holstein",NA,50,2022
+"Schleswig.Holstein",1,50,2022
 "Schleswig.Holstein",3,51,2022
-"Schleswig.Holstein",1,52,2022
+"Schleswig.Holstein",2,52,2022
 "ThÃ.ringen",6,1,2022
 "ThÃ.ringen",11,2,2022
 "ThÃ.ringen",16,3,2022
@@ -827,7 +827,7 @@
 "ThÃ.ringen",16,46,2022
 "ThÃ.ringen",14,47,2022
 "ThÃ.ringen",14,48,2022
-"ThÃ.ringen",4,49,2022
+"ThÃ.ringen",5,49,2022
 "ThÃ.ringen",7,50,2022
 "ThÃ.ringen",8,51,2022
 "ThÃ.ringen",9,52,2022
