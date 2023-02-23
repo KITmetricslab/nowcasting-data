@@ -1,12 +1,12 @@
 "stratum","value","week","year"
-"Baden.WÃ.rttemberg",44,1,2023
+"Baden.WÃ.rttemberg",43,1,2023
 "Baden.WÃ.rttemberg",36,2,2023
 "Baden.WÃ.rttemberg",25,3,2023
 "Baden.WÃ.rttemberg",11,4,2023
 "Baden.WÃ.rttemberg",11,5,2023
 "Baden.WÃ.rttemberg",23,6,2023
 "Baden.WÃ.rttemberg",21,7,2023
-"Baden.WÃ.rttemberg",13,8,2023
+"Baden.WÃ.rttemberg",18,8,2023
 "Bayern",58,1,2023
 "Bayern",52,2,2023
 "Bayern",18,3,2023
@@ -14,7 +14,7 @@
 "Bayern",22,5,2023
 "Bayern",29,6,2023
 "Bayern",32,7,2023
-"Bayern",14,8,2023
+"Bayern",18,8,2023
 "Berlin",22,1,2023
 "Berlin",10,2,2023
 "Berlin",9,3,2023
@@ -22,7 +22,7 @@
 "Berlin",6,5,2023
 "Berlin",8,6,2023
 "Berlin",11,7,2023
-"Berlin",2,8,2023
+"Berlin",6,8,2023
 "Brandenburg",14,1,2023
 "Brandenburg",6,2,2023
 "Brandenburg",2,3,2023
@@ -46,7 +46,7 @@
 "Hamburg",4,5,2023
 "Hamburg",1,6,2023
 "Hamburg",7,7,2023
-"Hamburg",1,8,2023
+"Hamburg",2,8,2023
 "Hessen",25,1,2023
 "Hessen",11,2,2023
 "Hessen",6,3,2023
@@ -70,7 +70,7 @@
 "Niedersachsen",9,5,2023
 "Niedersachsen",11,6,2023
 "Niedersachsen",18,7,2023
-"Niedersachsen",6,8,2023
+"Niedersachsen",9,8,2023
 "Nordrhein.Westfalen",84,1,2023
 "Nordrhein.Westfalen",50,2,2023
 "Nordrhein.Westfalen",21,3,2023
@@ -78,7 +78,7 @@
 "Nordrhein.Westfalen",25,5,2023
 "Nordrhein.Westfalen",44,6,2023
 "Nordrhein.Westfalen",47,7,2023
-"Nordrhein.Westfalen",13,8,2023
+"Nordrhein.Westfalen",25,8,2023
 "Rheinland.Pfalz",24,1,2023
 "Rheinland.Pfalz",11,2,2023
 "Rheinland.Pfalz",7,3,2023
@@ -101,8 +101,8 @@
 "Sachsen",8,4,2023
 "Sachsen",10,5,2023
 "Sachsen",19,6,2023
-"Sachsen",10,7,2023
-"Sachsen",5,8,2023
+"Sachsen",11,7,2023
+"Sachsen",7,8,2023
 "Sachsen.Anhalt",9,1,2023
 "Sachsen.Anhalt",9,2,2023
 "Sachsen.Anhalt",3,3,2023
@@ -630,7 +630,7 @@
 "Nordrhein.Westfalen",10,33,2022
 "Nordrhein.Westfalen",7,34,2022
 "Nordrhein.Westfalen",9,35,2022
-"Nordrhein.Westfalen",15,36,2022
+"Nordrhein.Westfalen",16,36,2022
 "Nordrhein.Westfalen",21,37,2022
 "Nordrhein.Westfalen",20,38,2022
 "Nordrhein.Westfalen",24,39,2022
@@ -645,7 +645,7 @@
 "Nordrhein.Westfalen",46,48,2022
 "Nordrhein.Westfalen",43,49,2022
 "Nordrhein.Westfalen",52,50,2022
-"Nordrhein.Westfalen",67,51,2022
+"Nordrhein.Westfalen",68,51,2022
 "Nordrhein.Westfalen",64,52,2022
 "Rheinland.Pfalz",1,1,2022
 "Rheinland.Pfalz",NA,2,2022
