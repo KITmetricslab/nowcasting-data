@@ -6,7 +6,7 @@
 "Baden.WÃ.rttemberg",298,5,2023
 "Baden.WÃ.rttemberg",328,6,2023
 "Baden.WÃ.rttemberg",365,7,2023
-"Baden.WÃ.rttemberg",346,8,2023
+"Baden.WÃ.rttemberg",429,8,2023
 "Bayern",2584,1,2023
 "Bayern",1396,2,2023
 "Bayern",716,3,2023
@@ -14,7 +14,7 @@
 "Bayern",466,5,2023
 "Bayern",527,6,2023
 "Bayern",595,7,2023
-"Bayern",389,8,2023
+"Bayern",476,8,2023
 "Berlin",558,1,2023
 "Berlin",282,2,2023
 "Berlin",103,3,2023
@@ -22,7 +22,7 @@
 "Berlin",111,5,2023
 "Berlin",92,6,2023
 "Berlin",122,7,2023
-"Berlin",121,8,2023
+"Berlin",144,8,2023
 "Brandenburg",590,1,2023
 "Brandenburg",260,2,2023
 "Brandenburg",130,3,2023
@@ -30,7 +30,7 @@
 "Brandenburg",114,5,2023
 "Brandenburg",73,6,2023
 "Brandenburg",57,7,2023
-"Brandenburg",38,8,2023
+"Brandenburg",48,8,2023
 "Bremen",65,1,2023
 "Bremen",12,2,2023
 "Bremen",5,3,2023
@@ -46,7 +46,7 @@
 "Hamburg",58,5,2023
 "Hamburg",59,6,2023
 "Hamburg",92,7,2023
-"Hamburg",37,8,2023
+"Hamburg",55,8,2023
 "Hessen",785,1,2023
 "Hessen",375,2,2023
 "Hessen",158,3,2023
@@ -54,7 +54,7 @@
 "Hessen",158,5,2023
 "Hessen",181,6,2023
 "Hessen",196,7,2023
-"Hessen",209,8,2023
+"Hessen",241,8,2023
 "Mecklenburg.Vorpommern",446,1,2023
 "Mecklenburg.Vorpommern",162,2,2023
 "Mecklenburg.Vorpommern",83,3,2023
@@ -62,7 +62,7 @@
 "Mecklenburg.Vorpommern",25,5,2023
 "Mecklenburg.Vorpommern",17,6,2023
 "Mecklenburg.Vorpommern",30,7,2023
-"Mecklenburg.Vorpommern",28,8,2023
+"Mecklenburg.Vorpommern",33,8,2023
 "Niedersachsen",995,1,2023
 "Niedersachsen",323,2,2023
 "Niedersachsen",159,3,2023
@@ -70,15 +70,15 @@
 "Niedersachsen",119,5,2023
 "Niedersachsen",110,6,2023
 "Niedersachsen",177,7,2023
-"Niedersachsen",127,8,2023
-"Nordrhein.Westfalen",2239,1,2023
+"Niedersachsen",152,8,2023
+"Nordrhein.Westfalen",2240,1,2023
 "Nordrhein.Westfalen",822,2,2023
 "Nordrhein.Westfalen",427,3,2023
 "Nordrhein.Westfalen",268,4,2023
-"Nordrhein.Westfalen",346,5,2023
-"Nordrhein.Westfalen",479,6,2023
-"Nordrhein.Westfalen",496,7,2023
-"Nordrhein.Westfalen",383,8,2023
+"Nordrhein.Westfalen",348,5,2023
+"Nordrhein.Westfalen",480,6,2023
+"Nordrhein.Westfalen",497,7,2023
+"Nordrhein.Westfalen",516,8,2023
 "Rheinland.Pfalz",1055,1,2023
 "Rheinland.Pfalz",331,2,2023
 "Rheinland.Pfalz",100,3,2023
@@ -86,7 +86,7 @@
 "Rheinland.Pfalz",81,5,2023
 "Rheinland.Pfalz",135,6,2023
 "Rheinland.Pfalz",184,7,2023
-"Rheinland.Pfalz",94,8,2023
+"Rheinland.Pfalz",127,8,2023
 "Saarland",198,1,2023
 "Saarland",49,2,2023
 "Saarland",18,3,2023
@@ -94,7 +94,7 @@
 "Saarland",14,5,2023
 "Saarland",13,6,2023
 "Saarland",6,7,2023
-"Saarland",9,8,2023
+"Saarland",11,8,2023
 "Sachsen",1661,1,2023
 "Sachsen",542,2,2023
 "Sachsen",230,3,2023
@@ -102,7 +102,7 @@
 "Sachsen",145,5,2023
 "Sachsen",129,6,2023
 "Sachsen",87,7,2023
-"Sachsen",77,8,2023
+"Sachsen",98,8,2023
 "Sachsen.Anhalt",557,1,2023
 "Sachsen.Anhalt",234,2,2023
 "Sachsen.Anhalt",54,3,2023
@@ -110,7 +110,7 @@
 "Sachsen.Anhalt",68,5,2023
 "Sachsen.Anhalt",59,6,2023
 "Sachsen.Anhalt",64,7,2023
-"Sachsen.Anhalt",42,8,2023
+"Sachsen.Anhalt",50,8,2023
 "Schleswig.Holstein",319,1,2023
 "Schleswig.Holstein",124,2,2023
 "Schleswig.Holstein",56,3,2023
@@ -118,7 +118,7 @@
 "Schleswig.Holstein",23,5,2023
 "Schleswig.Holstein",23,6,2023
 "Schleswig.Holstein",23,7,2023
-"Schleswig.Holstein",24,8,2023
+"Schleswig.Holstein",29,8,2023
 "ThÃ.ringen",660,1,2023
 "ThÃ.ringen",196,2,2023
 "ThÃ.ringen",94,3,2023
@@ -126,7 +126,7 @@
 "ThÃ.ringen",58,5,2023
 "ThÃ.ringen",36,6,2023
 "ThÃ.ringen",28,7,2023
-"ThÃ.ringen",27,8,2023
+"ThÃ.ringen",38,8,2023
 "Baden.WÃ.rttemberg",27,1,2022
 "Baden.WÃ.rttemberg",55,2,2022
 "Baden.WÃ.rttemberg",39,3,2022
@@ -437,7 +437,7 @@
 "Hamburg",533,48,2022
 "Hamburg",868,49,2022
 "Hamburg",1083,50,2022
-"Hamburg",871,51,2022
+"Hamburg",872,51,2022
 "Hamburg",422,52,2022
 "Hessen",15,1,2022
 "Hessen",14,2,2022
@@ -639,11 +639,11 @@
 "Nordrhein.Westfalen",144,42,2022
 "Nordrhein.Westfalen",235,43,2022
 "Nordrhein.Westfalen",298,44,2022
-"Nordrhein.Westfalen",525,45,2022
+"Nordrhein.Westfalen",526,45,2022
 "Nordrhein.Westfalen",1124,46,2022
-"Nordrhein.Westfalen",2111,47,2022
-"Nordrhein.Westfalen",3723,48,2022
-"Nordrhein.Westfalen",5587,49,2022
+"Nordrhein.Westfalen",2112,47,2022
+"Nordrhein.Westfalen",3724,48,2022
+"Nordrhein.Westfalen",5591,49,2022
 "Nordrhein.Westfalen",7408,50,2022
 "Nordrhein.Westfalen",7653,51,2022
 "Nordrhein.Westfalen",2975,52,2022
