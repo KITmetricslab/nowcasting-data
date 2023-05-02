@@ -158,16 +158,16 @@ write.csv(dat_lyme_states, file = paste0("Lyme_Disease/Lyme_Disease-states-", to
 
 ########## TBE
 
-dir.create("Tick-borne_encephalitis")
-
-
-dat_tbe_age <- get_weekly_timeseries(disease = "Tick-borne encephalitis (TBE)", years = years, 
-                                     region_level = "Age stratification: 1 year intervals")
-write.csv(dat_tbe_age, file = paste0("Tick-borne_encephalitis/Tick-borne_encephalitis-age-", today, ".csv"), row.names = FALSE)
-
-dat_tbe_states <- get_weekly_timeseries(disease = "Tick-borne encephalitis (TBE)", years = years,
-                                        region_level = "State")
-write.csv(dat_tbe_states, file = paste0("Tick-borne_encephalitis/Tick-borne_encephalitis-states-", today, ".csv"), row.names = FALSE)
+# dir.create("Tick-borne_encephalitis")
+# 
+# 
+# dat_tbe_age <- get_weekly_timeseries(disease = "Tick-borne encephalitis (TBE)", years = years, 
+#                                      region_level = "Age stratification: 1 year intervals")
+# write.csv(dat_tbe_age, file = paste0("Tick-borne_encephalitis/Tick-borne_encephalitis-age-", today, ".csv"), row.names = FALSE)
+# 
+# dat_tbe_states <- get_weekly_timeseries(disease = "Tick-borne encephalitis (TBE)", years = years,
+#                                         region_level = "State")
+# write.csv(dat_tbe_states, file = paste0("Tick-borne_encephalitis/Tick-borne_encephalitis-states-", today, ".csv"), row.names = FALSE)
 
 
 ########## Legionnaires disease

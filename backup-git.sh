@@ -11,7 +11,7 @@ git add Salmonellosis/*
 git add Campylobacteriosis/*
 git add Meningococcal_Disease/*
 git add Lyme_Disease/*
-git add Tick-borne_encephalitis/*
+# git add Tick-borne_encephalitis/*
 git add Legionnaires_Disease/*
 git commit --allow-empty -m "update data"
 git push
