@@ -14,9 +14,9 @@
 "Baden.WÃ.rttemberg",24,13,2023
 "Baden.WÃ.rttemberg",12,14,2023
 "Baden.WÃ.rttemberg",8,15,2023
-"Baden.WÃ.rttemberg",23,16,2023
+"Baden.WÃ.rttemberg",22,16,2023
 "Baden.WÃ.rttemberg",24,17,2023
-"Baden.WÃ.rttemberg",12,18,2023
+"Baden.WÃ.rttemberg",16,18,2023
 "Bayern",10,1,2023
 "Bayern",21,2,2023
 "Bayern",26,3,2023
@@ -34,7 +34,7 @@
 "Bayern",25,15,2023
 "Bayern",28,16,2023
 "Bayern",31,17,2023
-"Bayern",26,18,2023
+"Bayern",30,18,2023
 "Berlin",3,1,2023
 "Berlin",4,2,2023
 "Berlin",9,3,2023
@@ -50,7 +50,7 @@
 "Berlin",11,13,2023
 "Berlin",5,14,2023
 "Berlin",7,15,2023
-"Berlin",12,16,2023
+"Berlin",13,16,2023
 "Berlin",8,17,2023
 "Berlin",4,18,2023
 "Brandenburg",2,1,2023
@@ -121,10 +121,10 @@
 "Hessen",9,12,2023
 "Hessen",16,13,2023
 "Hessen",9,14,2023
-"Hessen",11,15,2023
+"Hessen",12,15,2023
 "Hessen",10,16,2023
 "Hessen",9,17,2023
-"Hessen",5,18,2023
+"Hessen",8,18,2023
 "Mecklenburg.Vorpommern",4,1,2023
 "Mecklenburg.Vorpommern",6,2,2023
 "Mecklenburg.Vorpommern",4,3,2023
@@ -159,8 +159,8 @@
 "Niedersachsen",16,14,2023
 "Niedersachsen",8,15,2023
 "Niedersachsen",12,16,2023
-"Niedersachsen",16,17,2023
-"Niedersachsen",5,18,2023
+"Niedersachsen",17,17,2023
+"Niedersachsen",11,18,2023
 "Nordrhein.Westfalen",42,1,2023
 "Nordrhein.Westfalen",52,2,2023
 "Nordrhein.Westfalen",53,3,2023
@@ -174,11 +174,11 @@
 "Nordrhein.Westfalen",36,11,2023
 "Nordrhein.Westfalen",34,12,2023
 "Nordrhein.Westfalen",27,13,2023
-"Nordrhein.Westfalen",33,14,2023
-"Nordrhein.Westfalen",35,15,2023
+"Nordrhein.Westfalen",34,14,2023
+"Nordrhein.Westfalen",36,15,2023
 "Nordrhein.Westfalen",35,16,2023
 "Nordrhein.Westfalen",37,17,2023
-"Nordrhein.Westfalen",13,18,2023
+"Nordrhein.Westfalen",18,18,2023
 "Rheinland.Pfalz",8,1,2023
 "Rheinland.Pfalz",17,2,2023
 "Rheinland.Pfalz",11,3,2023
@@ -196,7 +196,7 @@
 "Rheinland.Pfalz",14,15,2023
 "Rheinland.Pfalz",10,16,2023
 "Rheinland.Pfalz",12,17,2023
-"Rheinland.Pfalz",3,18,2023
+"Rheinland.Pfalz",5,18,2023
 "Saarland",4,1,2023
 "Saarland",1,2,2023
 "Saarland",NA,3,2023
@@ -285,7 +285,7 @@
 "ThÃ.ringen",11,14,2023
 "ThÃ.ringen",5,15,2023
 "ThÃ.ringen",11,16,2023
-"ThÃ.ringen",14,17,2023
+"ThÃ.ringen",15,17,2023
 "ThÃ.ringen",3,18,2023
 "Baden.WÃ.rttemberg",9,1,2022
 "Baden.WÃ.rttemberg",19,2,2022
