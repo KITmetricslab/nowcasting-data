@@ -19,8 +19,8 @@
 "Baden.WÃ.rttemberg",78,18,2023
 "Baden.WÃ.rttemberg",77,19,2023
 "Baden.WÃ.rttemberg",76,20,2023
-"Baden.WÃ.rttemberg",45,21,2023
-"Baden.WÃ.rttemberg",17,22,2023
+"Baden.WÃ.rttemberg",46,21,2023
+"Baden.WÃ.rttemberg",33,22,2023
 "Bayern",22,1,2023
 "Bayern",41,2,2023
 "Bayern",66,3,2023
@@ -41,8 +41,8 @@
 "Bayern",149,18,2023
 "Bayern",145,19,2023
 "Bayern",124,20,2023
-"Bayern",118,21,2023
-"Bayern",44,22,2023
+"Bayern",119,21,2023
+"Bayern",60,22,2023
 "Berlin",7,1,2023
 "Berlin",15,2,2023
 "Berlin",15,3,2023
@@ -64,7 +64,7 @@
 "Berlin",30,19,2023
 "Berlin",43,20,2023
 "Berlin",39,21,2023
-"Berlin",11,22,2023
+"Berlin",19,22,2023
 "Brandenburg",8,1,2023
 "Brandenburg",9,2,2023
 "Brandenburg",9,3,2023
@@ -85,8 +85,8 @@
 "Brandenburg",52,18,2023
 "Brandenburg",48,19,2023
 "Brandenburg",47,20,2023
-"Brandenburg",51,21,2023
-"Brandenburg",7,22,2023
+"Brandenburg",53,21,2023
+"Brandenburg",13,22,2023
 "Bremen",2,1,2023
 "Bremen",1,2,2023
 "Bremen",1,3,2023
@@ -108,7 +108,7 @@
 "Bremen",2,19,2023
 "Bremen",3,20,2023
 "Bremen",3,21,2023
-"Bremen",NA,22,2023
+"Bremen",2,22,2023
 "Hamburg",5,1,2023
 "Hamburg",8,2,2023
 "Hamburg",17,3,2023
@@ -130,7 +130,7 @@
 "Hamburg",25,19,2023
 "Hamburg",23,20,2023
 "Hamburg",30,21,2023
-"Hamburg",4,22,2023
+"Hamburg",9,22,2023
 "Hessen",11,1,2023
 "Hessen",22,2,2023
 "Hessen",25,3,2023
@@ -152,7 +152,7 @@
 "Hessen",110,19,2023
 "Hessen",51,20,2023
 "Hessen",68,21,2023
-"Hessen",40,22,2023
+"Hessen",51,22,2023
 "Mecklenburg.Vorpommern",7,1,2023
 "Mecklenburg.Vorpommern",17,2,2023
 "Mecklenburg.Vorpommern",17,3,2023
@@ -173,8 +173,8 @@
 "Mecklenburg.Vorpommern",47,18,2023
 "Mecklenburg.Vorpommern",60,19,2023
 "Mecklenburg.Vorpommern",50,20,2023
-"Mecklenburg.Vorpommern",104,21,2023
-"Mecklenburg.Vorpommern",9,22,2023
+"Mecklenburg.Vorpommern",105,21,2023
+"Mecklenburg.Vorpommern",14,22,2023
 "Niedersachsen",20,1,2023
 "Niedersachsen",42,2,2023
 "Niedersachsen",27,3,2023
@@ -195,8 +195,8 @@
 "Niedersachsen",129,18,2023
 "Niedersachsen",110,19,2023
 "Niedersachsen",102,20,2023
-"Niedersachsen",107,21,2023
-"Niedersachsen",12,22,2023
+"Niedersachsen",117,21,2023
+"Niedersachsen",37,22,2023
 "Nordrhein.Westfalen",34,1,2023
 "Nordrhein.Westfalen",51,2,2023
 "Nordrhein.Westfalen",47,3,2023
@@ -217,8 +217,8 @@
 "Nordrhein.Westfalen",207,18,2023
 "Nordrhein.Westfalen",232,19,2023
 "Nordrhein.Westfalen",182,20,2023
-"Nordrhein.Westfalen",203,21,2023
-"Nordrhein.Westfalen",42,22,2023
+"Nordrhein.Westfalen",205,21,2023
+"Nordrhein.Westfalen",67,22,2023
 "Rheinland.Pfalz",3,1,2023
 "Rheinland.Pfalz",22,2,2023
 "Rheinland.Pfalz",6,3,2023
@@ -239,8 +239,8 @@
 "Rheinland.Pfalz",51,18,2023
 "Rheinland.Pfalz",38,19,2023
 "Rheinland.Pfalz",40,20,2023
-"Rheinland.Pfalz",38,21,2023
-"Rheinland.Pfalz",9,22,2023
+"Rheinland.Pfalz",39,21,2023
+"Rheinland.Pfalz",15,22,2023
 "Saarland",2,1,2023
 "Saarland",1,2,2023
 "Saarland",1,3,2023
@@ -262,7 +262,7 @@
 "Saarland",18,19,2023
 "Saarland",16,20,2023
 "Saarland",12,21,2023
-"Saarland",5,22,2023
+"Saarland",6,22,2023
 "Sachsen",34,1,2023
 "Sachsen",33,2,2023
 "Sachsen",43,3,2023
@@ -283,8 +283,8 @@
 "Sachsen",118,18,2023
 "Sachsen",115,19,2023
 "Sachsen",85,20,2023
-"Sachsen",127,21,2023
-"Sachsen",21,22,2023
+"Sachsen",128,21,2023
+"Sachsen",56,22,2023
 "Sachsen.Anhalt",14,1,2023
 "Sachsen.Anhalt",22,2,2023
 "Sachsen.Anhalt",19,3,2023
@@ -306,7 +306,7 @@
 "Sachsen.Anhalt",84,19,2023
 "Sachsen.Anhalt",36,20,2023
 "Sachsen.Anhalt",60,21,2023
-"Sachsen.Anhalt",7,22,2023
+"Sachsen.Anhalt",16,22,2023
 "Schleswig.Holstein",8,1,2023
 "Schleswig.Holstein",5,2,2023
 "Schleswig.Holstein",16,3,2023
@@ -328,7 +328,7 @@
 "Schleswig.Holstein",23,19,2023
 "Schleswig.Holstein",25,20,2023
 "Schleswig.Holstein",35,21,2023
-"Schleswig.Holstein",13,22,2023
+"Schleswig.Holstein",17,22,2023
 "ThÃ.ringen",31,1,2023
 "ThÃ.ringen",62,2,2023
 "ThÃ.ringen",42,3,2023
@@ -350,7 +350,7 @@
 "ThÃ.ringen",83,19,2023
 "ThÃ.ringen",54,20,2023
 "ThÃ.ringen",110,21,2023
-"ThÃ.ringen",13,22,2023
+"ThÃ.ringen",30,22,2023
 "Baden.WÃ.rttemberg",9,1,2022
 "Baden.WÃ.rttemberg",20,2,2022
 "Baden.WÃ.rttemberg",13,3,2022
