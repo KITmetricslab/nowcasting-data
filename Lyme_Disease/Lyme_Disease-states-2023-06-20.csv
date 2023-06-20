@@ -21,8 +21,9 @@
 "Bayern",63,20,2023
 "Bayern",99,21,2023
 "Bayern",80,22,2023
-"Bayern",62,23,2023
-"Bayern",125,24,2023
+"Bayern",63,23,2023
+"Bayern",133,24,2023
+"Bayern",14,25,2023
 "Berlin",10,1,2023
 "Berlin",15,2,2023
 "Berlin",14,3,2023
@@ -46,7 +47,8 @@
 "Berlin",9,21,2023
 "Berlin",13,22,2023
 "Berlin",15,23,2023
-"Berlin",16,24,2023
+"Berlin",20,24,2023
+"Berlin",1,25,2023
 "Brandenburg",16,1,2023
 "Brandenburg",9,2,2023
 "Brandenburg",10,3,2023
@@ -70,7 +72,8 @@
 "Brandenburg",25,21,2023
 "Brandenburg",39,22,2023
 "Brandenburg",36,23,2023
-"Brandenburg",48,24,2023
+"Brandenburg",50,24,2023
+"Brandenburg",4,25,2023
 "Mecklenburg.Vorpommern",2,1,2023
 "Mecklenburg.Vorpommern",8,2,2023
 "Mecklenburg.Vorpommern",2,3,2023
@@ -95,6 +98,7 @@
 "Mecklenburg.Vorpommern",7,22,2023
 "Mecklenburg.Vorpommern",12,23,2023
 "Mecklenburg.Vorpommern",7,24,2023
+"Mecklenburg.Vorpommern",NA,25,2023
 "Rheinland.Pfalz",3,1,2023
 "Rheinland.Pfalz",1,2,2023
 "Rheinland.Pfalz",3,3,2023
@@ -118,7 +122,8 @@
 "Rheinland.Pfalz",22,21,2023
 "Rheinland.Pfalz",10,22,2023
 "Rheinland.Pfalz",9,23,2023
-"Rheinland.Pfalz",17,24,2023
+"Rheinland.Pfalz",18,24,2023
+"Rheinland.Pfalz",1,25,2023
 "Saarland",NA,1,2023
 "Saarland",NA,2,2023
 "Saarland",NA,3,2023
@@ -142,7 +147,8 @@
 "Saarland",2,21,2023
 "Saarland",2,22,2023
 "Saarland",9,23,2023
-"Saarland",8,24,2023
+"Saarland",10,24,2023
+"Saarland",NA,25,2023
 "Sachsen",9,1,2023
 "Sachsen",13,2,2023
 "Sachsen",20,3,2023
@@ -164,9 +170,10 @@
 "Sachsen",15,19,2023
 "Sachsen",16,20,2023
 "Sachsen",22,21,2023
-"Sachsen",26,22,2023
+"Sachsen",27,22,2023
 "Sachsen",34,23,2023
-"Sachsen",20,24,2023
+"Sachsen",26,24,2023
+"Sachsen",NA,25,2023
 "Sachsen.Anhalt",5,1,2023
 "Sachsen.Anhalt",11,2,2023
 "Sachsen.Anhalt",11,3,2023
@@ -190,7 +197,8 @@
 "Sachsen.Anhalt",14,21,2023
 "Sachsen.Anhalt",8,22,2023
 "Sachsen.Anhalt",12,23,2023
-"Sachsen.Anhalt",16,24,2023
+"Sachsen.Anhalt",20,24,2023
+"Sachsen.Anhalt",1,25,2023
 "ThÃ.ringen",2,1,2023
 "ThÃ.ringen",1,2,2023
 "ThÃ.ringen",NA,3,2023
@@ -215,6 +223,7 @@
 "ThÃ.ringen",4,22,2023
 "ThÃ.ringen",3,23,2023
 "ThÃ.ringen",9,24,2023
+"ThÃ.ringen",1,25,2023
 "Bayern",10,1,2022
 "Bayern",12,2,2022
 "Bayern",19,3,2022
