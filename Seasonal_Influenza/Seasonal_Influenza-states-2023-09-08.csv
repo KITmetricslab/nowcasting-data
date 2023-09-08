@@ -34,7 +34,7 @@
 "Baden.WÃ.rttemberg",4,33,2023
 "Baden.WÃ.rttemberg",13,34,2023
 "Baden.WÃ.rttemberg",9,35,2023
-"Baden.WÃ.rttemberg",7,36,2023
+"Baden.WÃ.rttemberg",8,36,2023
 "Bayern",2584,1,2023
 "Bayern",1400,2,2023
 "Bayern",717,3,2023
@@ -70,7 +70,7 @@
 "Bayern",8,33,2023
 "Bayern",13,34,2023
 "Bayern",10,35,2023
-"Bayern",5,36,2023
+"Bayern",6,36,2023
 "Berlin",558,1,2023
 "Berlin",282,2,2023
 "Berlin",103,3,2023
@@ -106,7 +106,7 @@
 "Berlin",4,33,2023
 "Berlin",11,34,2023
 "Berlin",6,35,2023
-"Berlin",1,36,2023
+"Berlin",2,36,2023
 "Brandenburg",591,1,2023
 "Brandenburg",260,2,2023
 "Brandenburg",130,3,2023
@@ -178,7 +178,7 @@
 "Bremen",NA,33,2023
 "Bremen",NA,34,2023
 "Bremen",NA,35,2023
-"Bremen",NA,36,2023
+"Bremen",1,36,2023
 "Hamburg",328,1,2023
 "Hamburg",163,2,2023
 "Hamburg",65,3,2023
@@ -250,7 +250,7 @@
 "Hessen",5,33,2023
 "Hessen",4,34,2023
 "Hessen",7,35,2023
-"Hessen",3,36,2023
+"Hessen",5,36,2023
 "Mecklenburg.Vorpommern",445,1,2023
 "Mecklenburg.Vorpommern",161,2,2023
 "Mecklenburg.Vorpommern",83,3,2023
@@ -358,7 +358,7 @@
 "Nordrhein.Westfalen",7,33,2023
 "Nordrhein.Westfalen",13,34,2023
 "Nordrhein.Westfalen",12,35,2023
-"Nordrhein.Westfalen",1,36,2023
+"Nordrhein.Westfalen",2,36,2023
 "Rheinland.Pfalz",1056,1,2023
 "Rheinland.Pfalz",331,2,2023
 "Rheinland.Pfalz",101,3,2023
@@ -394,7 +394,7 @@
 "Rheinland.Pfalz",3,33,2023
 "Rheinland.Pfalz",2,34,2023
 "Rheinland.Pfalz",2,35,2023
-"Rheinland.Pfalz",3,36,2023
+"Rheinland.Pfalz",5,36,2023
 "Saarland",198,1,2023
 "Saarland",49,2,2023
 "Saarland",19,3,2023
@@ -466,7 +466,7 @@
 "Sachsen",1,33,2023
 "Sachsen",4,34,2023
 "Sachsen",2,35,2023
-"Sachsen",11,36,2023
+"Sachsen",18,36,2023
 "Sachsen.Anhalt",559,1,2023
 "Sachsen.Anhalt",235,2,2023
 "Sachsen.Anhalt",54,3,2023
@@ -538,7 +538,7 @@
 "Schleswig.Holstein",4,33,2023
 "Schleswig.Holstein",4,34,2023
 "Schleswig.Holstein",3,35,2023
-"Schleswig.Holstein",2,36,2023
+"Schleswig.Holstein",3,36,2023
 "ThÃ.ringen",660,1,2023
 "ThÃ.ringen",189,2,2023
 "ThÃ.ringen",94,3,2023
@@ -1038,7 +1038,7 @@
 "Niedersachsen",115,45,2022
 "Niedersachsen",255,46,2022
 "Niedersachsen",731,47,2022
-"Niedersachsen",1706,48,2022
+"Niedersachsen",1705,48,2022
 "Niedersachsen",3202,49,2022
 "Niedersachsen",3708,50,2022
 "Niedersachsen",3745,51,2022
