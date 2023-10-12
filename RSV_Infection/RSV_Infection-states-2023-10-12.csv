@@ -121,7 +121,7 @@
 "Berlin",NA,38,2023
 "Berlin",3,39,2023
 "Berlin",NA,40,2023
-"Berlin",NA,41,2023
+"Berlin",1,41,2023
 "Brandenburg",NA,1,2023
 "Brandenburg",NA,2,2023
 "Brandenburg",NA,3,2023
@@ -199,10 +199,10 @@
 "Hamburg",NA,34,2023
 "Hamburg",NA,35,2023
 "Hamburg",NA,36,2023
-"Hamburg",NA,37,2023
+"Hamburg",1,37,2023
 "Hamburg",NA,38,2023
 "Hamburg",NA,39,2023
-"Hamburg",NA,40,2023
+"Hamburg",1,40,2023
 "Hamburg",1,41,2023
 "Hessen",6,1,2023
 "Hessen",3,2,2023
@@ -367,7 +367,7 @@
 "Nordrhein.Westfalen",1,38,2023
 "Nordrhein.Westfalen",4,39,2023
 "Nordrhein.Westfalen",2,40,2023
-"Nordrhein.Westfalen",3,41,2023
+"Nordrhein.Westfalen",4,41,2023
 "Rheinland.Pfalz",NA,1,2023
 "Rheinland.Pfalz",NA,2,2023
 "Rheinland.Pfalz",NA,3,2023
