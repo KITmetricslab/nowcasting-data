@@ -43,7 +43,7 @@
 "Baden.WÃ.rttemberg",1,42,2023
 "Baden.WÃ.rttemberg",NA,43,2023
 "Baden.WÃ.rttemberg",3,44,2023
-"Baden.WÃ.rttemberg",1,45,2023
+"Baden.WÃ.rttemberg",2,45,2023
 "Bayern",3,1,2023
 "Bayern",3,2,2023
 "Bayern",3,3,2023
@@ -133,7 +133,7 @@
 "Berlin",NA,42,2023
 "Berlin",1,43,2023
 "Berlin",NA,44,2023
-"Berlin",NA,45,2023
+"Berlin",2,45,2023
 "Brandenburg",1,1,2023
 "Brandenburg",NA,2,2023
 "Brandenburg",NA,3,2023
@@ -178,7 +178,7 @@
 "Brandenburg",1,42,2023
 "Brandenburg",NA,43,2023
 "Brandenburg",NA,44,2023
-"Brandenburg",NA,45,2023
+"Brandenburg",1,45,2023
 "Bremen",NA,1,2023
 "Bremen",NA,2,2023
 "Bremen",NA,3,2023
@@ -493,7 +493,7 @@
 "Rheinland.Pfalz",NA,42,2023
 "Rheinland.Pfalz",NA,43,2023
 "Rheinland.Pfalz",NA,44,2023
-"Rheinland.Pfalz",NA,45,2023
+"Rheinland.Pfalz",1,45,2023
 "Saarland",NA,1,2023
 "Saarland",NA,2,2023
 "Saarland",NA,3,2023
