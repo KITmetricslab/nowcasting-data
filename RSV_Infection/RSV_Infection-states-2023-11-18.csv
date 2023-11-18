@@ -136,7 +136,7 @@
 "Berlin",3,43,2023
 "Berlin",2,44,2023
 "Berlin",7,45,2023
-"Berlin",3,46,2023
+"Berlin",4,46,2023
 "Brandenburg",NA,1,2023
 "Brandenburg",NA,2,2023
 "Brandenburg",NA,3,2023
@@ -182,7 +182,7 @@
 "Brandenburg",NA,43,2023
 "Brandenburg",NA,44,2023
 "Brandenburg",6,45,2023
-"Brandenburg",8,46,2023
+"Brandenburg",11,46,2023
 "Bremen",NA,1,2023
 "Bremen",NA,2,2023
 "Bremen",NA,3,2023
@@ -274,7 +274,7 @@
 "Hamburg",7,43,2023
 "Hamburg",14,44,2023
 "Hamburg",8,45,2023
-"Hamburg",19,46,2023
+"Hamburg",29,46,2023
 "Hessen",6,1,2023
 "Hessen",3,2,2023
 "Hessen",5,3,2023
@@ -366,7 +366,7 @@
 "Mecklenburg.Vorpommern",NA,43,2023
 "Mecklenburg.Vorpommern",NA,44,2023
 "Mecklenburg.Vorpommern",3,45,2023
-"Mecklenburg.Vorpommern",2,46,2023
+"Mecklenburg.Vorpommern",3,46,2023
 "Niedersachsen",NA,1,2023
 "Niedersachsen",NA,2,2023
 "Niedersachsen",NA,3,2023
@@ -458,7 +458,7 @@
 "Nordrhein.Westfalen",18,43,2023
 "Nordrhein.Westfalen",24,44,2023
 "Nordrhein.Westfalen",54,45,2023
-"Nordrhein.Westfalen",76,46,2023
+"Nordrhein.Westfalen",105,46,2023
 "Rheinland.Pfalz",NA,1,2023
 "Rheinland.Pfalz",NA,2,2023
 "Rheinland.Pfalz",NA,3,2023
@@ -504,7 +504,7 @@
 "Rheinland.Pfalz",6,43,2023
 "Rheinland.Pfalz",NA,44,2023
 "Rheinland.Pfalz",2,45,2023
-"Rheinland.Pfalz",6,46,2023
+"Rheinland.Pfalz",9,46,2023
 "Saarland",NA,1,2023
 "Saarland",NA,2,2023
 "Saarland",NA,3,2023
@@ -596,7 +596,7 @@
 "Sachsen",10,43,2023
 "Sachsen",16,44,2023
 "Sachsen",50,45,2023
-"Sachsen",36,46,2023
+"Sachsen",50,46,2023
 "Sachsen.Anhalt",NA,1,2023
 "Sachsen.Anhalt",NA,2,2023
 "Sachsen.Anhalt",NA,3,2023
@@ -642,7 +642,7 @@
 "Sachsen.Anhalt",NA,43,2023
 "Sachsen.Anhalt",1,44,2023
 "Sachsen.Anhalt",9,45,2023
-"Sachsen.Anhalt",28,46,2023
+"Sachsen.Anhalt",36,46,2023
 "Schleswig.Holstein",NA,1,2023
 "Schleswig.Holstein",NA,2,2023
 "Schleswig.Holstein",NA,3,2023
@@ -688,7 +688,7 @@
 "Schleswig.Holstein",2,43,2023
 "Schleswig.Holstein",3,44,2023
 "Schleswig.Holstein",5,45,2023
-"Schleswig.Holstein",7,46,2023
+"Schleswig.Holstein",10,46,2023
 "ThÃ.ringen",NA,1,2023
 "ThÃ.ringen",NA,2,2023
 "ThÃ.ringen",NA,3,2023
