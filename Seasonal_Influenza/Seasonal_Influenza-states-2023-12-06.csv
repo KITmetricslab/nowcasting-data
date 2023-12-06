@@ -46,7 +46,8 @@
 "Baden.WÃ.rttemberg",37,45,2023
 "Baden.WÃ.rttemberg",48,46,2023
 "Baden.WÃ.rttemberg",50,47,2023
-"Baden.WÃ.rttemberg",70,48,2023
+"Baden.WÃ.rttemberg",77,48,2023
+"Baden.WÃ.rttemberg",45,49,2023
 "Bayern",2584,1,2023
 "Bayern",1400,2,2023
 "Bayern",717,3,2023
@@ -94,7 +95,8 @@
 "Bayern",42,45,2023
 "Bayern",46,46,2023
 "Bayern",79,47,2023
-"Bayern",97,48,2023
+"Bayern",105,48,2023
+"Bayern",54,49,2023
 "Berlin",558,1,2023
 "Berlin",282,2,2023
 "Berlin",103,3,2023
@@ -141,8 +143,9 @@
 "Berlin",10,44,2023
 "Berlin",13,45,2023
 "Berlin",32,46,2023
-"Berlin",26,47,2023
+"Berlin",25,47,2023
 "Berlin",37,48,2023
+"Berlin",26,49,2023
 "Brandenburg",591,1,2023
 "Brandenburg",260,2,2023
 "Brandenburg",130,3,2023
@@ -190,7 +193,8 @@
 "Brandenburg",12,45,2023
 "Brandenburg",12,46,2023
 "Brandenburg",11,47,2023
-"Brandenburg",23,48,2023
+"Brandenburg",24,48,2023
+"Brandenburg",10,49,2023
 "Bremen",65,1,2023
 "Bremen",12,2,2023
 "Bremen",5,3,2023
@@ -239,6 +243,7 @@
 "Bremen",NA,46,2023
 "Bremen",4,47,2023
 "Bremen",2,48,2023
+"Bremen",NA,49,2023
 "Hamburg",328,1,2023
 "Hamburg",163,2,2023
 "Hamburg",65,3,2023
@@ -286,7 +291,8 @@
 "Hamburg",12,45,2023
 "Hamburg",21,46,2023
 "Hamburg",24,47,2023
-"Hamburg",29,48,2023
+"Hamburg",30,48,2023
+"Hamburg",33,49,2023
 "Hessen",787,1,2023
 "Hessen",376,2,2023
 "Hessen",158,3,2023
@@ -335,6 +341,7 @@
 "Hessen",21,46,2023
 "Hessen",52,47,2023
 "Hessen",57,48,2023
+"Hessen",40,49,2023
 "Mecklenburg.Vorpommern",445,1,2023
 "Mecklenburg.Vorpommern",161,2,2023
 "Mecklenburg.Vorpommern",83,3,2023
@@ -382,7 +389,8 @@
 "Mecklenburg.Vorpommern",15,45,2023
 "Mecklenburg.Vorpommern",2,46,2023
 "Mecklenburg.Vorpommern",8,47,2023
-"Mecklenburg.Vorpommern",12,48,2023
+"Mecklenburg.Vorpommern",20,48,2023
+"Mecklenburg.Vorpommern",1,49,2023
 "Niedersachsen",995,1,2023
 "Niedersachsen",323,2,2023
 "Niedersachsen",159,3,2023
@@ -430,7 +438,8 @@
 "Niedersachsen",12,45,2023
 "Niedersachsen",12,46,2023
 "Niedersachsen",23,47,2023
-"Niedersachsen",21,48,2023
+"Niedersachsen",23,48,2023
+"Niedersachsen",15,49,2023
 "Nordrhein.Westfalen",2245,1,2023
 "Nordrhein.Westfalen",822,2,2023
 "Nordrhein.Westfalen",427,3,2023
@@ -478,7 +487,8 @@
 "Nordrhein.Westfalen",68,45,2023
 "Nordrhein.Westfalen",92,46,2023
 "Nordrhein.Westfalen",101,47,2023
-"Nordrhein.Westfalen",119,48,2023
+"Nordrhein.Westfalen",136,48,2023
+"Nordrhein.Westfalen",77,49,2023
 "Rheinland.Pfalz",1056,1,2023
 "Rheinland.Pfalz",331,2,2023
 "Rheinland.Pfalz",101,3,2023
@@ -526,7 +536,8 @@
 "Rheinland.Pfalz",15,45,2023
 "Rheinland.Pfalz",12,46,2023
 "Rheinland.Pfalz",17,47,2023
-"Rheinland.Pfalz",17,48,2023
+"Rheinland.Pfalz",26,48,2023
+"Rheinland.Pfalz",18,49,2023
 "Saarland",198,1,2023
 "Saarland",49,2,2023
 "Saarland",19,3,2023
@@ -575,6 +586,7 @@
 "Saarland",8,46,2023
 "Saarland",6,47,2023
 "Saarland",9,48,2023
+"Saarland",5,49,2023
 "Sachsen",1661,1,2023
 "Sachsen",542,2,2023
 "Sachsen",231,3,2023
@@ -622,7 +634,8 @@
 "Sachsen",20,45,2023
 "Sachsen",35,46,2023
 "Sachsen",27,47,2023
-"Sachsen",43,48,2023
+"Sachsen",51,48,2023
+"Sachsen",8,49,2023
 "Sachsen.Anhalt",559,1,2023
 "Sachsen.Anhalt",235,2,2023
 "Sachsen.Anhalt",54,3,2023
@@ -670,7 +683,8 @@
 "Sachsen.Anhalt",29,45,2023
 "Sachsen.Anhalt",14,46,2023
 "Sachsen.Anhalt",39,47,2023
-"Sachsen.Anhalt",50,48,2023
+"Sachsen.Anhalt",53,48,2023
+"Sachsen.Anhalt",17,49,2023
 "Schleswig.Holstein",319,1,2023
 "Schleswig.Holstein",124,2,2023
 "Schleswig.Holstein",56,3,2023
@@ -718,7 +732,8 @@
 "Schleswig.Holstein",8,45,2023
 "Schleswig.Holstein",9,46,2023
 "Schleswig.Holstein",6,47,2023
-"Schleswig.Holstein",48,48,2023
+"Schleswig.Holstein",47,48,2023
+"Schleswig.Holstein",8,49,2023
 "ThÃ.ringen",660,1,2023
 "ThÃ.ringen",189,2,2023
 "ThÃ.ringen",94,3,2023
@@ -767,6 +782,7 @@
 "ThÃ.ringen",12,46,2023
 "ThÃ.ringen",10,47,2023
 "ThÃ.ringen",28,48,2023
+"ThÃ.ringen",12,49,2023
 "Baden.WÃ.rttemberg",27,1,2022
 "Baden.WÃ.rttemberg",55,2,2022
 "Baden.WÃ.rttemberg",40,3,2022
@@ -870,7 +886,7 @@
 "Bayern",9727,49,2022
 "Bayern",10810,50,2022
 "Bayern",9780,51,2022
-"Bayern",4422,52,2022
+"Bayern",4423,52,2022
 "Berlin",6,1,2022
 "Berlin",10,2,2022
 "Berlin",15,3,2022
