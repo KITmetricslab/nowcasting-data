@@ -14,17 +14,19 @@ today <- Sys.Date()
 
 years <- as.character(year(Sys.Date()) - 0:2)
 
+
 ########## RSV
-dir.create("RSV_Infection")
-
-dat_rsv_age <- get_weekly_timeseries(disease = "RSV-Infection", years = years, 
-                                     region_level = "Age stratification: 1 year intervals")
-write.csv(dat_rsv_age, file = paste0("RSV_Infection/RSV_Infection-age-", today, ".csv"), row.names = FALSE)
-
-
-dat_rsv_states <- get_weekly_timeseries(disease = "RSV-Infection", years = years, 
-                                        region_level = "State")
-write.csv(dat_rsv_states, file = paste0("RSV_Infection/RSV_Infection-states-", today, ".csv"), row.names = FALSE)
+# dir.create("RSV_Infection")
+# 
+# dat_rsv_age <- get_weekly_timeseries(disease = "RSV (Meldepflicht gem&#228;&#223; IfSG)", years = "2024",
+#                                      region_level = "Age stratification: 1 year intervals")
+# 
+# write.csv(dat_rsv_age, file = paste0("RSV_Infection/RSV_Infection-age-", today, ".csv"), row.names = FALSE)
+# 
+# 
+# dat_rsv_states <- get_weekly_timeseries(disease = "RSV-Infection", years = years,
+#                                         region_level = "State")
+# write.csv(dat_rsv_states, file = paste0("RSV_Infection/RSV_Infection-states-", today, ".csv"), row.names = FALSE)
 
 
 ########## Seasonal influenza
@@ -42,16 +44,16 @@ write.csv(dat_influenza_states, file = paste0("Seasonal_Influenza/Seasonal_Influ
 
 ########## Pneumococcal disease
 
-dir.create("Pneumococcal_Disease")
-
-
-dat_pneumococcal_age <- get_weekly_timeseries(disease = "Pneumococcal invasive disease", years = years, 
-                                              region_level = "Age stratification: 1 year intervals")
-write.csv(dat_pneumococcal_age, file = paste0("Pneumococcal_Disease/Pneumococcal_Disease-age-", today, ".csv"), row.names = FALSE)
-
-dat_pneumococcal_states <- get_weekly_timeseries(disease = "Pneumococcal invasive disease", years = years,
-                                                 region_level = "State")
-write.csv(dat_pneumococcal_states, file = paste0("Pneumococcal_Disease/Pneumococcal_Disease-states-", today, ".csv"), row.names = FALSE)
+# dir.create("Pneumococcal_Disease")
+# 
+# 
+# dat_pneumococcal_age <- get_weekly_timeseries(disease = "Pneumococcal invasive disease", years = years, 
+#                                               region_level = "Age stratification: 1 year intervals")
+#  write.csv(dat_pneumococcal_age, file = paste0("Pneumococcal_Disease/Pneumococcal_Disease-age-", today, ".csv"), row.names = FALSE)
+# 
+# dat_pneumococcal_states <- get_weekly_timeseries(disease = "Pneumococcal invasive disease", years = years,
+#                                                  region_level = "State")
+# write.csv(dat_pneumococcal_states, file = paste0("Pneumococcal_Disease/Pneumococcal_Disease-states-", today, ".csv"), row.names = FALSE)
 
 
 
