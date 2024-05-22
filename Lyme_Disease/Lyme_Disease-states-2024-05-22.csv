@@ -18,7 +18,8 @@
 "Bayern",51,17,2024
 "Bayern",68,18,2024
 "Bayern",55,19,2024
-"Bayern",66,20,2024
+"Bayern",71,20,2024
+"Bayern",14,21,2024
 "Berlin",1,1,2024
 "Berlin",4,2,2024
 "Berlin",6,3,2024
@@ -37,8 +38,9 @@
 "Berlin",11,16,2024
 "Berlin",8,17,2024
 "Berlin",13,18,2024
-"Berlin",8,19,2024
-"Berlin",6,20,2024
+"Berlin",9,19,2024
+"Berlin",7,20,2024
+"Berlin",1,21,2024
 "Brandenburg",4,1,2024
 "Brandenburg",10,2,2024
 "Brandenburg",7,3,2024
@@ -58,7 +60,8 @@
 "Brandenburg",15,17,2024
 "Brandenburg",20,18,2024
 "Brandenburg",22,19,2024
-"Brandenburg",37,20,2024
+"Brandenburg",38,20,2024
+"Brandenburg",3,21,2024
 "Mecklenburg.Vorpommern",1,1,2024
 "Mecklenburg.Vorpommern",8,2,2024
 "Mecklenburg.Vorpommern",3,3,2024
@@ -79,6 +82,7 @@
 "Mecklenburg.Vorpommern",NA,18,2024
 "Mecklenburg.Vorpommern",2,19,2024
 "Mecklenburg.Vorpommern",3,20,2024
+"Mecklenburg.Vorpommern",NA,21,2024
 "Rheinland.Pfalz",2,1,2024
 "Rheinland.Pfalz",NA,2,2024
 "Rheinland.Pfalz",1,3,2024
@@ -98,7 +102,8 @@
 "Rheinland.Pfalz",9,17,2024
 "Rheinland.Pfalz",8,18,2024
 "Rheinland.Pfalz",5,19,2024
-"Rheinland.Pfalz",14,20,2024
+"Rheinland.Pfalz",16,20,2024
+"Rheinland.Pfalz",1,21,2024
 "Saarland",NA,1,2024
 "Saarland",NA,2,2024
 "Saarland",NA,3,2024
@@ -119,6 +124,7 @@
 "Saarland",NA,18,2024
 "Saarland",2,19,2024
 "Saarland",4,20,2024
+"Saarland",1,21,2024
 "Sachsen",4,1,2024
 "Sachsen",14,2,2024
 "Sachsen",19,3,2024
@@ -138,7 +144,8 @@
 "Sachsen",25,17,2024
 "Sachsen",17,18,2024
 "Sachsen",16,19,2024
-"Sachsen",18,20,2024
+"Sachsen",24,20,2024
+"Sachsen",1,21,2024
 "Sachsen.Anhalt",6,1,2024
 "Sachsen.Anhalt",12,2,2024
 "Sachsen.Anhalt",6,3,2024
@@ -158,7 +165,8 @@
 "Sachsen.Anhalt",11,17,2024
 "Sachsen.Anhalt",6,18,2024
 "Sachsen.Anhalt",7,19,2024
-"Sachsen.Anhalt",14,20,2024
+"Sachsen.Anhalt",18,20,2024
+"Sachsen.Anhalt",NA,21,2024
 "ThÃ.ringen",3,1,2024
 "ThÃ.ringen",1,2,2024
 "ThÃ.ringen",1,3,2024
@@ -179,6 +187,7 @@
 "ThÃ.ringen",6,18,2024
 "ThÃ.ringen",4,19,2024
 "ThÃ.ringen",3,20,2024
+"ThÃ.ringen",2,21,2024
 "Bayern",16,1,2023
 "Bayern",23,2,2023
 "Bayern",23,3,2023
