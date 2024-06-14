@@ -21,8 +21,8 @@
 "Bayern",76,20,2024
 "Bayern",66,21,2024
 "Bayern",78,22,2024
-"Bayern",169,23,2024
-"Bayern",120,24,2024
+"Bayern",170,23,2024
+"Bayern",152,24,2024
 "Berlin",1,1,2024
 "Berlin",4,2,2024
 "Berlin",6,3,2024
@@ -45,8 +45,8 @@
 "Berlin",12,20,2024
 "Berlin",14,21,2024
 "Berlin",16,22,2024
-"Berlin",15,23,2024
-"Berlin",6,24,2024
+"Berlin",16,23,2024
+"Berlin",14,24,2024
 "Brandenburg",4,1,2024
 "Brandenburg",10,2,2024
 "Brandenburg",7,3,2024
@@ -70,7 +70,7 @@
 "Brandenburg",20,21,2024
 "Brandenburg",51,22,2024
 "Brandenburg",51,23,2024
-"Brandenburg",21,24,2024
+"Brandenburg",27,24,2024
 "Mecklenburg.Vorpommern",1,1,2024
 "Mecklenburg.Vorpommern",8,2,2024
 "Mecklenburg.Vorpommern",3,3,2024
@@ -94,7 +94,7 @@
 "Mecklenburg.Vorpommern",3,21,2024
 "Mecklenburg.Vorpommern",4,22,2024
 "Mecklenburg.Vorpommern",14,23,2024
-"Mecklenburg.Vorpommern",NA,24,2024
+"Mecklenburg.Vorpommern",7,24,2024
 "Rheinland.Pfalz",2,1,2024
 "Rheinland.Pfalz",NA,2,2024
 "Rheinland.Pfalz",1,3,2024
@@ -117,8 +117,8 @@
 "Rheinland.Pfalz",17,20,2024
 "Rheinland.Pfalz",14,21,2024
 "Rheinland.Pfalz",12,22,2024
-"Rheinland.Pfalz",38,23,2024
-"Rheinland.Pfalz",20,24,2024
+"Rheinland.Pfalz",37,23,2024
+"Rheinland.Pfalz",21,24,2024
 "Saarland",NA,1,2024
 "Saarland",NA,2,2024
 "Saarland",NA,3,2024
@@ -142,7 +142,7 @@
 "Saarland",3,21,2024
 "Saarland",2,22,2024
 "Saarland",8,23,2024
-"Saarland",1,24,2024
+"Saarland",6,24,2024
 "Sachsen",4,1,2024
 "Sachsen",14,2,2024
 "Sachsen",19,3,2024
@@ -165,8 +165,8 @@
 "Sachsen",26,20,2024
 "Sachsen",18,21,2024
 "Sachsen",43,22,2024
-"Sachsen",39,23,2024
-"Sachsen",20,24,2024
+"Sachsen",41,23,2024
+"Sachsen",32,24,2024
 "Sachsen.Anhalt",6,1,2024
 "Sachsen.Anhalt",12,2,2024
 "Sachsen.Anhalt",6,3,2024
