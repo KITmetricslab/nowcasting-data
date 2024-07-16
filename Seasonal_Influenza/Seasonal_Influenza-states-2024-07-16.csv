@@ -27,7 +27,7 @@
 "Baden.WÃ.rttemberg",14,26,2024
 "Baden.WÃ.rttemberg",14,27,2024
 "Baden.WÃ.rttemberg",9,28,2024
-"Baden.WÃ.rttemberg",1,29,2024
+"Baden.WÃ.rttemberg",2,29,2024
 "Bayern",1101,1,2024
 "Bayern",1815,2,2024
 "Bayern",3103,3,2024
@@ -55,8 +55,8 @@
 "Bayern",23,25,2024
 "Bayern",29,26,2024
 "Bayern",19,27,2024
-"Bayern",19,28,2024
-"Bayern",NA,29,2024
+"Bayern",20,28,2024
+"Bayern",5,29,2024
 "Berlin",411,1,2024
 "Berlin",455,2,2024
 "Berlin",578,3,2024
@@ -84,8 +84,8 @@
 "Berlin",3,25,2024
 "Berlin",7,26,2024
 "Berlin",6,27,2024
-"Berlin",2,28,2024
-"Berlin",NA,29,2024
+"Berlin",3,28,2024
+"Berlin",2,29,2024
 "Brandenburg",227,1,2024
 "Brandenburg",296,2,2024
 "Brandenburg",546,3,2024
@@ -143,7 +143,7 @@
 "Bremen",5,26,2024
 "Bremen",NA,27,2024
 "Bremen",1,28,2024
-"Bremen",NA,29,2024
+"Bremen",1,29,2024
 "Hamburg",145,1,2024
 "Hamburg",209,2,2024
 "Hamburg",301,3,2024
@@ -201,7 +201,7 @@
 "Hessen",8,26,2024
 "Hessen",5,27,2024
 "Hessen",6,28,2024
-"Hessen",1,29,2024
+"Hessen",2,29,2024
 "Mecklenburg.Vorpommern",150,1,2024
 "Mecklenburg.Vorpommern",281,2,2024
 "Mecklenburg.Vorpommern",412,3,2024
@@ -288,7 +288,7 @@
 "Nordrhein.Westfalen",21,26,2024
 "Nordrhein.Westfalen",15,27,2024
 "Nordrhein.Westfalen",14,28,2024
-"Nordrhein.Westfalen",NA,29,2024
+"Nordrhein.Westfalen",3,29,2024
 "Rheinland.Pfalz",285,1,2024
 "Rheinland.Pfalz",303,2,2024
 "Rheinland.Pfalz",629,3,2024
@@ -374,7 +374,7 @@
 "Sachsen",14,25,2024
 "Sachsen",13,26,2024
 "Sachsen",10,27,2024
-"Sachsen",8,28,2024
+"Sachsen",10,28,2024
 "Sachsen",NA,29,2024
 "Sachsen.Anhalt",350,1,2024
 "Sachsen.Anhalt",398,2,2024
@@ -433,7 +433,7 @@
 "Schleswig.Holstein",4,26,2024
 "Schleswig.Holstein",2,27,2024
 "Schleswig.Holstein",6,28,2024
-"Schleswig.Holstein",NA,29,2024
+"Schleswig.Holstein",1,29,2024
 "ThÃ.ringen",215,1,2024
 "ThÃ.ringen",237,2,2024
 "ThÃ.ringen",477,3,2024
@@ -462,7 +462,7 @@
 "ThÃ.ringen",3,26,2024
 "ThÃ.ringen",3,27,2024
 "ThÃ.ringen",4,28,2024
-"ThÃ.ringen",NA,29,2024
+"ThÃ.ringen",1,29,2024
 "Baden.WÃ.rttemberg",1333,1,2023
 "Baden.WÃ.rttemberg",722,2,2023
 "Baden.WÃ.rttemberg",346,3,2023
