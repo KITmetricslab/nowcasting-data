@@ -28,8 +28,8 @@
 "Bayern",225,27,2024
 "Bayern",263,28,2024
 "Bayern",215,29,2024
-"Bayern",182,30,2024
-"Bayern",16,31,2024
+"Bayern",183,30,2024
+"Bayern",77,31,2024
 "Berlin",1,1,2024
 "Berlin",4,2,2024
 "Berlin",6,3,2024
@@ -59,7 +59,7 @@
 "Berlin",38,27,2024
 "Berlin",47,28,2024
 "Berlin",39,29,2024
-"Berlin",29,30,2024
+"Berlin",31,30,2024
 "Berlin",3,31,2024
 "Brandenburg",4,1,2024
 "Brandenburg",10,2,2024
@@ -91,7 +91,7 @@
 "Brandenburg",80,28,2024
 "Brandenburg",68,29,2024
 "Brandenburg",68,30,2024
-"Brandenburg",8,31,2024
+"Brandenburg",20,31,2024
 "Mecklenburg.Vorpommern",1,1,2024
 "Mecklenburg.Vorpommern",8,2,2024
 "Mecklenburg.Vorpommern",3,3,2024
@@ -119,10 +119,10 @@
 "Mecklenburg.Vorpommern",16,25,2024
 "Mecklenburg.Vorpommern",8,26,2024
 "Mecklenburg.Vorpommern",15,27,2024
-"Mecklenburg.Vorpommern",17,28,2024
+"Mecklenburg.Vorpommern",16,28,2024
 "Mecklenburg.Vorpommern",25,29,2024
 "Mecklenburg.Vorpommern",21,30,2024
-"Mecklenburg.Vorpommern",NA,31,2024
+"Mecklenburg.Vorpommern",3,31,2024
 "Rheinland.Pfalz",2,1,2024
 "Rheinland.Pfalz",NA,2,2024
 "Rheinland.Pfalz",1,3,2024
@@ -153,7 +153,7 @@
 "Rheinland.Pfalz",46,28,2024
 "Rheinland.Pfalz",35,29,2024
 "Rheinland.Pfalz",20,30,2024
-"Rheinland.Pfalz",1,31,2024
+"Rheinland.Pfalz",12,31,2024
 "Saarland",NA,1,2024
 "Saarland",NA,2,2024
 "Saarland",NA,3,2024
@@ -183,8 +183,8 @@
 "Saarland",16,27,2024
 "Saarland",15,28,2024
 "Saarland",7,29,2024
-"Saarland",7,30,2024
-"Saarland",3,31,2024
+"Saarland",8,30,2024
+"Saarland",5,31,2024
 "Sachsen",4,1,2024
 "Sachsen",14,2,2024
 "Sachsen",19,3,2024
@@ -210,12 +210,12 @@
 "Sachsen",43,23,2024
 "Sachsen",56,24,2024
 "Sachsen",55,25,2024
-"Sachsen",52,26,2024
+"Sachsen",53,26,2024
 "Sachsen",54,27,2024
 "Sachsen",69,28,2024
-"Sachsen",50,29,2024
-"Sachsen",59,30,2024
-"Sachsen",1,31,2024
+"Sachsen",52,29,2024
+"Sachsen",64,30,2024
+"Sachsen",6,31,2024
 "Sachsen.Anhalt",6,1,2024
 "Sachsen.Anhalt",12,2,2024
 "Sachsen.Anhalt",6,3,2024
@@ -246,7 +246,7 @@
 "Sachsen.Anhalt",30,28,2024
 "Sachsen.Anhalt",37,29,2024
 "Sachsen.Anhalt",38,30,2024
-"Sachsen.Anhalt",2,31,2024
+"Sachsen.Anhalt",3,31,2024
 "ThÃ.ringen",3,1,2024
 "ThÃ.ringen",1,2,2024
 "ThÃ.ringen",1,3,2024
