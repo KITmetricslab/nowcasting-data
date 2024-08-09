@@ -30,15 +30,15 @@
 "Baden.WÃ.rttemberg",12,29,2024
 "Baden.WÃ.rttemberg",17,30,2024
 "Baden.WÃ.rttemberg",16,31,2024
-"Baden.WÃ.rttemberg",6,32,2024
+"Baden.WÃ.rttemberg",10,32,2024
 "Bayern",1101,1,2024
 "Bayern",1815,2,2024
 "Bayern",3103,3,2024
 "Bayern",5831,4,2024
 "Bayern",7681,5,2024
-"Bayern",8264,6,2024
+"Bayern",8263,6,2024
 "Bayern",5649,7,2024
-"Bayern",4382,8,2024
+"Bayern",4381,8,2024
 "Bayern",2178,9,2024
 "Bayern",1527,10,2024
 "Bayern",1109,11,2024
@@ -62,7 +62,7 @@
 "Bayern",12,29,2024
 "Bayern",15,30,2024
 "Bayern",7,31,2024
-"Bayern",4,32,2024
+"Bayern",5,32,2024
 "Berlin",411,1,2024
 "Berlin",455,2,2024
 "Berlin",578,3,2024
@@ -222,7 +222,7 @@
 "Hessen",6,29,2024
 "Hessen",7,30,2024
 "Hessen",8,31,2024
-"Hessen",1,32,2024
+"Hessen",3,32,2024
 "Mecklenburg.Vorpommern",150,1,2024
 "Mecklenburg.Vorpommern",281,2,2024
 "Mecklenburg.Vorpommern",412,3,2024
@@ -286,7 +286,7 @@
 "Niedersachsen",8,29,2024
 "Niedersachsen",6,30,2024
 "Niedersachsen",2,31,2024
-"Niedersachsen",3,32,2024
+"Niedersachsen",5,32,2024
 "Nordrhein.Westfalen",1158,1,2024
 "Nordrhein.Westfalen",1206,2,2024
 "Nordrhein.Westfalen",2057,3,2024
@@ -295,7 +295,7 @@
 "Nordrhein.Westfalen",4435,6,2024
 "Nordrhein.Westfalen",3397,7,2024
 "Nordrhein.Westfalen",3007,8,2024
-"Nordrhein.Westfalen",1636,9,2024
+"Nordrhein.Westfalen",1637,9,2024
 "Nordrhein.Westfalen",1077,10,2024
 "Nordrhein.Westfalen",749,11,2024
 "Nordrhein.Westfalen",412,12,2024
@@ -306,7 +306,7 @@
 "Nordrhein.Westfalen",59,17,2024
 "Nordrhein.Westfalen",66,18,2024
 "Nordrhein.Westfalen",62,19,2024
-"Nordrhein.Westfalen",92,20,2024
+"Nordrhein.Westfalen",93,20,2024
 "Nordrhein.Westfalen",28,21,2024
 "Nordrhein.Westfalen",22,22,2024
 "Nordrhein.Westfalen",13,23,2024
@@ -318,7 +318,7 @@
 "Nordrhein.Westfalen",26,29,2024
 "Nordrhein.Westfalen",12,30,2024
 "Nordrhein.Westfalen",15,31,2024
-"Nordrhein.Westfalen",14,32,2024
+"Nordrhein.Westfalen",16,32,2024
 "Rheinland.Pfalz",285,1,2024
 "Rheinland.Pfalz",303,2,2024
 "Rheinland.Pfalz",629,3,2024
@@ -350,7 +350,7 @@
 "Rheinland.Pfalz",11,29,2024
 "Rheinland.Pfalz",2,30,2024
 "Rheinland.Pfalz",3,31,2024
-"Rheinland.Pfalz",1,32,2024
+"Rheinland.Pfalz",2,32,2024
 "Saarland",45,1,2024
 "Saarland",39,2,2024
 "Saarland",67,3,2024
@@ -446,7 +446,7 @@
 "Sachsen.Anhalt",4,29,2024
 "Sachsen.Anhalt",6,30,2024
 "Sachsen.Anhalt",9,31,2024
-"Sachsen.Anhalt",4,32,2024
+"Sachsen.Anhalt",5,32,2024
 "Schleswig.Holstein",125,1,2024
 "Schleswig.Holstein",144,2,2024
 "Schleswig.Holstein",263,3,2024
