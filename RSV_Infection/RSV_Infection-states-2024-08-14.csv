@@ -97,7 +97,7 @@
 "Berlin",3,30,2024
 "Berlin",NA,31,2024
 "Berlin",2,32,2024
-"Berlin",NA,33,2024
+"Berlin",1,33,2024
 "Brandenburg",91,1,2024
 "Brandenburg",111,2,2024
 "Brandenburg",156,3,2024
@@ -130,7 +130,7 @@
 "Brandenburg",NA,30,2024
 "Brandenburg",NA,31,2024
 "Brandenburg",4,32,2024
-"Brandenburg",NA,33,2024
+"Brandenburg",1,33,2024
 "Bremen",38,1,2024
 "Bremen",39,2,2024
 "Bremen",25,3,2024
@@ -328,7 +328,7 @@
 "Nordrhein.Westfalen",1,30,2024
 "Nordrhein.Westfalen",1,31,2024
 "Nordrhein.Westfalen",3,32,2024
-"Nordrhein.Westfalen",NA,33,2024
+"Nordrhein.Westfalen",1,33,2024
 "Rheinland.Pfalz",199,1,2024
 "Rheinland.Pfalz",133,2,2024
 "Rheinland.Pfalz",141,3,2024
@@ -526,4 +526,4 @@
 "ThÃ.ringen",NA,30,2024
 "ThÃ.ringen",NA,31,2024
 "ThÃ.ringen",NA,32,2024
-"ThÃ.ringen",NA,33,2024
+"ThÃ.ringen",1,33,2024
