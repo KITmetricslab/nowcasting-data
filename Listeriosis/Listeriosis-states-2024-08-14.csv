@@ -31,7 +31,7 @@
 "Baden.WÃ.rttemberg",2,30,2024
 "Baden.WÃ.rttemberg",1,31,2024
 "Baden.WÃ.rttemberg",NA,32,2024
-"Baden.WÃ.rttemberg",NA,33,2024
+"Baden.WÃ.rttemberg",1,33,2024
 "Bayern",1,1,2024
 "Bayern",1,2,2024
 "Bayern",3,3,2024
@@ -130,7 +130,7 @@
 "Brandenburg",2,30,2024
 "Brandenburg",1,31,2024
 "Brandenburg",NA,32,2024
-"Brandenburg",NA,33,2024
+"Brandenburg",1,33,2024
 "Bremen",NA,1,2024
 "Bremen",NA,2,2024
 "Bremen",NA,3,2024
@@ -262,7 +262,7 @@
 "Mecklenburg.Vorpommern",NA,30,2024
 "Mecklenburg.Vorpommern",NA,31,2024
 "Mecklenburg.Vorpommern",NA,32,2024
-"Mecklenburg.Vorpommern",NA,33,2024
+"Mecklenburg.Vorpommern",1,33,2024
 "Niedersachsen",2,1,2024
 "Niedersachsen",1,2,2024
 "Niedersachsen",NA,3,2024
@@ -293,7 +293,7 @@
 "Niedersachsen",2,28,2024
 "Niedersachsen",NA,29,2024
 "Niedersachsen",NA,30,2024
-"Niedersachsen",NA,31,2024
+"Niedersachsen",1,31,2024
 "Niedersachsen",1,32,2024
 "Niedersachsen",NA,33,2024
 "Nordrhein.Westfalen",2,1,2024
@@ -460,7 +460,7 @@
 "Sachsen.Anhalt",NA,30,2024
 "Sachsen.Anhalt",NA,31,2024
 "Sachsen.Anhalt",1,32,2024
-"Sachsen.Anhalt",1,33,2024
+"Sachsen.Anhalt",2,33,2024
 "Schleswig.Holstein",NA,1,2024
 "Schleswig.Holstein",3,2,2024
 "Schleswig.Holstein",1,3,2024
