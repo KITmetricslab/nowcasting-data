@@ -34,7 +34,8 @@
 "Baden.WÃ.rttemberg",175,33,2024
 "Baden.WÃ.rttemberg",182,34,2024
 "Baden.WÃ.rttemberg",182,35,2024
-"Baden.WÃ.rttemberg",166,36,2024
+"Baden.WÃ.rttemberg",172,36,2024
+"Baden.WÃ.rttemberg",36,37,2024
 "Bayern",63,1,2024
 "Bayern",190,2,2024
 "Bayern",122,3,2024
@@ -68,9 +69,10 @@
 "Bayern",280,31,2024
 "Bayern",247,32,2024
 "Bayern",207,33,2024
-"Bayern",217,34,2024
+"Bayern",218,34,2024
 "Bayern",212,35,2024
-"Bayern",183,36,2024
+"Bayern",192,36,2024
+"Bayern",59,37,2024
 "Berlin",22,1,2024
 "Berlin",42,2,2024
 "Berlin",26,3,2024
@@ -106,7 +108,8 @@
 "Berlin",50,33,2024
 "Berlin",48,34,2024
 "Berlin",37,35,2024
-"Berlin",50,36,2024
+"Berlin",57,36,2024
+"Berlin",9,37,2024
 "Brandenburg",20,1,2024
 "Brandenburg",31,2,2024
 "Brandenburg",38,3,2024
@@ -142,7 +145,8 @@
 "Brandenburg",47,33,2024
 "Brandenburg",47,34,2024
 "Brandenburg",42,35,2024
-"Brandenburg",49,36,2024
+"Brandenburg",52,36,2024
+"Brandenburg",20,37,2024
 "Bremen",3,1,2024
 "Bremen",5,2,2024
 "Bremen",3,3,2024
@@ -179,6 +183,7 @@
 "Bremen",7,34,2024
 "Bremen",5,35,2024
 "Bremen",5,36,2024
+"Bremen",4,37,2024
 "Hamburg",21,1,2024
 "Hamburg",29,2,2024
 "Hamburg",16,3,2024
@@ -214,7 +219,8 @@
 "Hamburg",30,33,2024
 "Hamburg",25,34,2024
 "Hamburg",39,35,2024
-"Hamburg",48,36,2024
+"Hamburg",49,36,2024
+"Hamburg",9,37,2024
 "Hessen",54,1,2024
 "Hessen",57,2,2024
 "Hessen",62,3,2024
@@ -250,7 +256,8 @@
 "Hessen",96,33,2024
 "Hessen",134,34,2024
 "Hessen",146,35,2024
-"Hessen",112,36,2024
+"Hessen",115,36,2024
+"Hessen",31,37,2024
 "Mecklenburg.Vorpommern",13,1,2024
 "Mecklenburg.Vorpommern",23,2,2024
 "Mecklenburg.Vorpommern",18,3,2024
@@ -287,6 +294,7 @@
 "Mecklenburg.Vorpommern",42,34,2024
 "Mecklenburg.Vorpommern",38,35,2024
 "Mecklenburg.Vorpommern",34,36,2024
+"Mecklenburg.Vorpommern",NA,37,2024
 "Niedersachsen",58,1,2024
 "Niedersachsen",106,2,2024
 "Niedersachsen",71,3,2024
@@ -322,7 +330,8 @@
 "Niedersachsen",193,33,2024
 "Niedersachsen",161,34,2024
 "Niedersachsen",142,35,2024
-"Niedersachsen",115,36,2024
+"Niedersachsen",140,36,2024
+"Niedersachsen",6,37,2024
 "Nordrhein.Westfalen",232,1,2024
 "Nordrhein.Westfalen",304,2,2024
 "Nordrhein.Westfalen",192,3,2024
@@ -357,8 +366,9 @@
 "Nordrhein.Westfalen",358,32,2024
 "Nordrhein.Westfalen",329,33,2024
 "Nordrhein.Westfalen",404,34,2024
-"Nordrhein.Westfalen",376,35,2024
-"Nordrhein.Westfalen",304,36,2024
+"Nordrhein.Westfalen",377,35,2024
+"Nordrhein.Westfalen",334,36,2024
+"Nordrhein.Westfalen",64,37,2024
 "Rheinland.Pfalz",43,1,2024
 "Rheinland.Pfalz",58,2,2024
 "Rheinland.Pfalz",47,3,2024
@@ -394,7 +404,8 @@
 "Rheinland.Pfalz",88,33,2024
 "Rheinland.Pfalz",112,34,2024
 "Rheinland.Pfalz",122,35,2024
-"Rheinland.Pfalz",88,36,2024
+"Rheinland.Pfalz",99,36,2024
+"Rheinland.Pfalz",29,37,2024
 "Saarland",17,1,2024
 "Saarland",19,2,2024
 "Saarland",13,3,2024
@@ -431,6 +442,7 @@
 "Saarland",24,34,2024
 "Saarland",35,35,2024
 "Saarland",27,36,2024
+"Saarland",10,37,2024
 "Sachsen",31,1,2024
 "Sachsen",74,2,2024
 "Sachsen",56,3,2024
@@ -466,7 +478,8 @@
 "Sachsen",98,33,2024
 "Sachsen",111,34,2024
 "Sachsen",106,35,2024
-"Sachsen",71,36,2024
+"Sachsen",86,36,2024
+"Sachsen",20,37,2024
 "Sachsen.Anhalt",17,1,2024
 "Sachsen.Anhalt",26,2,2024
 "Sachsen.Anhalt",27,3,2024
@@ -502,7 +515,8 @@
 "Sachsen.Anhalt",33,33,2024
 "Sachsen.Anhalt",64,34,2024
 "Sachsen.Anhalt",42,35,2024
-"Sachsen.Anhalt",37,36,2024
+"Sachsen.Anhalt",46,36,2024
+"Sachsen.Anhalt",11,37,2024
 "Schleswig.Holstein",36,1,2024
 "Schleswig.Holstein",59,2,2024
 "Schleswig.Holstein",40,3,2024
@@ -538,7 +552,8 @@
 "Schleswig.Holstein",57,33,2024
 "Schleswig.Holstein",65,34,2024
 "Schleswig.Holstein",70,35,2024
-"Schleswig.Holstein",39,36,2024
+"Schleswig.Holstein",49,36,2024
+"Schleswig.Holstein",10,37,2024
 "ThÃ.ringen",14,1,2024
 "ThÃ.ringen",33,2,2024
 "ThÃ.ringen",40,3,2024
@@ -574,7 +589,8 @@
 "ThÃ.ringen",50,33,2024
 "ThÃ.ringen",47,34,2024
 "ThÃ.ringen",51,35,2024
-"ThÃ.ringen",42,36,2024
+"ThÃ.ringen",43,36,2024
+"ThÃ.ringen",16,37,2024
 "Baden.WÃ.rttemberg",81,1,2023
 "Baden.WÃ.rttemberg",142,2,2023
 "Baden.WÃ.rttemberg",118,3,2023
