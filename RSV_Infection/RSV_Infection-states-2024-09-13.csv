@@ -109,7 +109,7 @@
 "Berlin",NA,34,2024
 "Berlin",1,35,2024
 "Berlin",NA,36,2024
-"Berlin",NA,37,2024
+"Berlin",1,37,2024
 "Brandenburg",91,1,2024
 "Brandenburg",111,2,2024
 "Brandenburg",156,3,2024
@@ -220,7 +220,7 @@
 "Hamburg",NA,34,2024
 "Hamburg",3,35,2024
 "Hamburg",2,36,2024
-"Hamburg",NA,37,2024
+"Hamburg",1,37,2024
 "Hessen",371,1,2024
 "Hessen",258,2,2024
 "Hessen",219,3,2024
@@ -476,10 +476,10 @@
 "Sachsen",3,31,2024
 "Sachsen",4,32,2024
 "Sachsen",15,33,2024
-"Sachsen",36,34,2024
+"Sachsen",37,34,2024
 "Sachsen",18,35,2024
 "Sachsen",8,36,2024
-"Sachsen",4,37,2024
+"Sachsen",7,37,2024
 "Sachsen.Anhalt",201,1,2024
 "Sachsen.Anhalt",218,2,2024
 "Sachsen.Anhalt",327,3,2024
@@ -553,7 +553,7 @@
 "Schleswig.Holstein",NA,34,2024
 "Schleswig.Holstein",NA,35,2024
 "Schleswig.Holstein",NA,36,2024
-"Schleswig.Holstein",NA,37,2024
+"Schleswig.Holstein",1,37,2024
 "ThÃ.ringen",61,1,2024
 "ThÃ.ringen",93,2,2024
 "ThÃ.ringen",244,3,2024
