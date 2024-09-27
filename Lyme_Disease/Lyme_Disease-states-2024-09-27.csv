@@ -34,10 +34,10 @@
 "Bayern",107,33,2024
 "Bayern",110,34,2024
 "Bayern",110,35,2024
-"Bayern",98,36,2024
+"Bayern",99,36,2024
 "Bayern",88,37,2024
-"Bayern",77,38,2024
-"Bayern",35,39,2024
+"Bayern",78,38,2024
+"Bayern",48,39,2024
 "Berlin",1,1,2024
 "Berlin",4,2,2024
 "Berlin",6,3,2024
@@ -74,9 +74,9 @@
 "Berlin",31,34,2024
 "Berlin",46,35,2024
 "Berlin",34,36,2024
-"Berlin",16,37,2024
-"Berlin",15,38,2024
-"Berlin",9,39,2024
+"Berlin",17,37,2024
+"Berlin",18,38,2024
+"Berlin",11,39,2024
 "Brandenburg",4,1,2024
 "Brandenburg",10,2,2024
 "Brandenburg",7,3,2024
@@ -112,10 +112,10 @@
 "Brandenburg",57,33,2024
 "Brandenburg",52,34,2024
 "Brandenburg",64,35,2024
-"Brandenburg",50,36,2024
-"Brandenburg",46,37,2024
+"Brandenburg",51,36,2024
+"Brandenburg",47,37,2024
 "Brandenburg",31,38,2024
-"Brandenburg",24,39,2024
+"Brandenburg",30,39,2024
 "Mecklenburg.Vorpommern",1,1,2024
 "Mecklenburg.Vorpommern",8,2,2024
 "Mecklenburg.Vorpommern",3,3,2024
@@ -154,7 +154,7 @@
 "Mecklenburg.Vorpommern",18,36,2024
 "Mecklenburg.Vorpommern",11,37,2024
 "Mecklenburg.Vorpommern",9,38,2024
-"Mecklenburg.Vorpommern",2,39,2024
+"Mecklenburg.Vorpommern",8,39,2024
 "Rheinland.Pfalz",2,1,2024
 "Rheinland.Pfalz",NA,2,2024
 "Rheinland.Pfalz",1,3,2024
@@ -193,7 +193,7 @@
 "Rheinland.Pfalz",22,36,2024
 "Rheinland.Pfalz",20,37,2024
 "Rheinland.Pfalz",13,38,2024
-"Rheinland.Pfalz",6,39,2024
+"Rheinland.Pfalz",8,39,2024
 "Saarland",NA,1,2024
 "Saarland",NA,2,2024
 "Saarland",NA,3,2024
@@ -232,7 +232,7 @@
 "Saarland",3,36,2024
 "Saarland",4,37,2024
 "Saarland",7,38,2024
-"Saarland",1,39,2024
+"Saarland",3,39,2024
 "Sachsen",4,1,2024
 "Sachsen",14,2,2024
 "Sachsen",19,3,2024
@@ -271,7 +271,7 @@
 "Sachsen",36,36,2024
 "Sachsen",49,37,2024
 "Sachsen",43,38,2024
-"Sachsen",12,39,2024
+"Sachsen",15,39,2024
 "Sachsen.Anhalt",6,1,2024
 "Sachsen.Anhalt",12,2,2024
 "Sachsen.Anhalt",6,3,2024
@@ -310,7 +310,7 @@
 "Sachsen.Anhalt",37,36,2024
 "Sachsen.Anhalt",33,37,2024
 "Sachsen.Anhalt",30,38,2024
-"Sachsen.Anhalt",14,39,2024
+"Sachsen.Anhalt",19,39,2024
 "ThÃ.ringen",3,1,2024
 "ThÃ.ringen",1,2,2024
 "ThÃ.ringen",1,3,2024
