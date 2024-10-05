@@ -36,9 +36,9 @@
 "Baden.WÃ.rttemberg",182,35,2024
 "Baden.WÃ.rttemberg",173,36,2024
 "Baden.WÃ.rttemberg",176,37,2024
-"Baden.WÃ.rttemberg",176,38,2024
+"Baden.WÃ.rttemberg",175,38,2024
 "Baden.WÃ.rttemberg",196,39,2024
-"Baden.WÃ.rttemberg",55,40,2024
+"Baden.WÃ.rttemberg",91,40,2024
 "Bayern",63,1,2024
 "Bayern",190,2,2024
 "Bayern",122,3,2024
@@ -78,7 +78,7 @@
 "Bayern",219,37,2024
 "Bayern",186,38,2024
 "Bayern",198,39,2024
-"Bayern",106,40,2024
+"Bayern",152,40,2024
 "Berlin",22,1,2024
 "Berlin",42,2,2024
 "Berlin",26,3,2024
@@ -118,7 +118,7 @@
 "Berlin",63,37,2024
 "Berlin",40,38,2024
 "Berlin",54,39,2024
-"Berlin",26,40,2024
+"Berlin",38,40,2024
 "Brandenburg",20,1,2024
 "Brandenburg",31,2,2024
 "Brandenburg",38,3,2024
@@ -158,7 +158,7 @@
 "Brandenburg",53,37,2024
 "Brandenburg",46,38,2024
 "Brandenburg",38,39,2024
-"Brandenburg",28,40,2024
+"Brandenburg",31,40,2024
 "Bremen",3,1,2024
 "Bremen",5,2,2024
 "Bremen",3,3,2024
@@ -198,7 +198,7 @@
 "Bremen",9,37,2024
 "Bremen",1,38,2024
 "Bremen",8,39,2024
-"Bremen",5,40,2024
+"Bremen",6,40,2024
 "Hamburg",21,1,2024
 "Hamburg",29,2,2024
 "Hamburg",16,3,2024
@@ -238,7 +238,7 @@
 "Hamburg",44,37,2024
 "Hamburg",38,38,2024
 "Hamburg",31,39,2024
-"Hamburg",11,40,2024
+"Hamburg",24,40,2024
 "Hessen",54,1,2024
 "Hessen",57,2,2024
 "Hessen",62,3,2024
@@ -278,7 +278,7 @@
 "Hessen",130,37,2024
 "Hessen",99,38,2024
 "Hessen",91,39,2024
-"Hessen",54,40,2024
+"Hessen",82,40,2024
 "Mecklenburg.Vorpommern",13,1,2024
 "Mecklenburg.Vorpommern",23,2,2024
 "Mecklenburg.Vorpommern",18,3,2024
@@ -318,7 +318,7 @@
 "Mecklenburg.Vorpommern",39,37,2024
 "Mecklenburg.Vorpommern",41,38,2024
 "Mecklenburg.Vorpommern",39,39,2024
-"Mecklenburg.Vorpommern",11,40,2024
+"Mecklenburg.Vorpommern",16,40,2024
 "Niedersachsen",58,1,2024
 "Niedersachsen",106,2,2024
 "Niedersachsen",71,3,2024
@@ -358,7 +358,7 @@
 "Niedersachsen",149,37,2024
 "Niedersachsen",127,38,2024
 "Niedersachsen",106,39,2024
-"Niedersachsen",38,40,2024
+"Niedersachsen",70,40,2024
 "Nordrhein.Westfalen",232,1,2024
 "Nordrhein.Westfalen",304,2,2024
 "Nordrhein.Westfalen",191,3,2024
@@ -397,8 +397,8 @@
 "Nordrhein.Westfalen",353,36,2024
 "Nordrhein.Westfalen",368,37,2024
 "Nordrhein.Westfalen",302,38,2024
-"Nordrhein.Westfalen",306,39,2024
-"Nordrhein.Westfalen",142,40,2024
+"Nordrhein.Westfalen",307,39,2024
+"Nordrhein.Westfalen",229,40,2024
 "Rheinland.Pfalz",43,1,2024
 "Rheinland.Pfalz",58,2,2024
 "Rheinland.Pfalz",47,3,2024
@@ -438,7 +438,7 @@
 "Rheinland.Pfalz",102,37,2024
 "Rheinland.Pfalz",86,38,2024
 "Rheinland.Pfalz",70,39,2024
-"Rheinland.Pfalz",54,40,2024
+"Rheinland.Pfalz",64,40,2024
 "Saarland",17,1,2024
 "Saarland",19,2,2024
 "Saarland",13,3,2024
@@ -478,7 +478,7 @@
 "Saarland",30,37,2024
 "Saarland",16,38,2024
 "Saarland",26,39,2024
-"Saarland",17,40,2024
+"Saarland",20,40,2024
 "Sachsen",31,1,2024
 "Sachsen",74,2,2024
 "Sachsen",56,3,2024
@@ -518,7 +518,7 @@
 "Sachsen",115,37,2024
 "Sachsen",82,38,2024
 "Sachsen",92,39,2024
-"Sachsen",31,40,2024
+"Sachsen",57,40,2024
 "Sachsen.Anhalt",17,1,2024
 "Sachsen.Anhalt",26,2,2024
 "Sachsen.Anhalt",27,3,2024
@@ -558,7 +558,7 @@
 "Sachsen.Anhalt",40,37,2024
 "Sachsen.Anhalt",44,38,2024
 "Sachsen.Anhalt",30,39,2024
-"Sachsen.Anhalt",15,40,2024
+"Sachsen.Anhalt",18,40,2024
 "Schleswig.Holstein",36,1,2024
 "Schleswig.Holstein",59,2,2024
 "Schleswig.Holstein",40,3,2024
@@ -598,7 +598,7 @@
 "Schleswig.Holstein",69,37,2024
 "Schleswig.Holstein",47,38,2024
 "Schleswig.Holstein",54,39,2024
-"Schleswig.Holstein",30,40,2024
+"Schleswig.Holstein",39,40,2024
 "ThÃ.ringen",14,1,2024
 "ThÃ.ringen",33,2,2024
 "ThÃ.ringen",40,3,2024
@@ -638,7 +638,7 @@
 "ThÃ.ringen",47,37,2024
 "ThÃ.ringen",40,38,2024
 "ThÃ.ringen",36,39,2024
-"ThÃ.ringen",19,40,2024
+"ThÃ.ringen",24,40,2024
 "Baden.WÃ.rttemberg",81,1,2023
 "Baden.WÃ.rttemberg",142,2,2023
 "Baden.WÃ.rttemberg",118,3,2023
