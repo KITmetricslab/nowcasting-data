@@ -1,6 +1,7 @@
 #!/bin/sh
 cd /home/wolffram/nowcasting-data/
 git pull --no-rebase
+git add covid19/*
 git add RSV_Infection/*
 git add Seasonal_Influenza/*
 git add Pneumococcal_Disease/*

@@ -28,6 +28,21 @@ years_short <- years[years >= 2024]
 years <- as.character(years)
 years_short <- as.character(years_short)
 
+########## COVID-19
+try({
+  dir.create("covid19")
+  
+  dat_covid_age <- get_weekly_timeseries(disease = "COVID-19", years = years,
+                                       region_level = "Age stratification: 1 year intervals")
+  
+  write.csv(dat_covid_age, file = paste0("covid19/covid19-age-", today, ".csv"), row.names = FALSE)
+  
+  
+  dat_covid_states <- get_weekly_timeseries(disease = "COVID-19", years = years,
+                                          region_level = "State")
+  write.csv(dat_covid_states, file = paste0("covid19/covid19-states-", today, ".csv"), row.names = FALSE)
+})
+
 
 ########## RSV
 try({
