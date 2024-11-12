@@ -43,7 +43,8 @@
 "Baden.WÃ.rttemberg",93,42,2024
 "Baden.WÃ.rttemberg",75,43,2024
 "Baden.WÃ.rttemberg",58,44,2024
-"Baden.WÃ.rttemberg",67,45,2024
+"Baden.WÃ.rttemberg",74,45,2024
+"Baden.WÃ.rttemberg",23,46,2024
 "Bayern",412,1,2024
 "Bayern",565,2,2024
 "Bayern",674,3,2024
@@ -88,7 +89,8 @@
 "Bayern",162,42,2024
 "Bayern",151,43,2024
 "Bayern",107,44,2024
-"Bayern",130,45,2024
+"Bayern",136,45,2024
+"Bayern",22,46,2024
 "Berlin",63,1,2024
 "Berlin",133,2,2024
 "Berlin",371,3,2024
@@ -134,6 +136,7 @@
 "Berlin",38,43,2024
 "Berlin",61,44,2024
 "Berlin",45,45,2024
+"Berlin",4,46,2024
 "Brandenburg",139,1,2024
 "Brandenburg",346,2,2024
 "Brandenburg",364,3,2024
@@ -179,6 +182,7 @@
 "Brandenburg",30,43,2024
 "Brandenburg",31,44,2024
 "Brandenburg",55,45,2024
+"Brandenburg",21,46,2024
 "Bremen",8,1,2024
 "Bremen",9,2,2024
 "Bremen",42,3,2024
@@ -224,6 +228,7 @@
 "Bremen",4,43,2024
 "Bremen",6,44,2024
 "Bremen",17,45,2024
+"Bremen",5,46,2024
 "Hamburg",145,1,2024
 "Hamburg",91,2,2024
 "Hamburg",144,3,2024
@@ -268,7 +273,8 @@
 "Hamburg",33,42,2024
 "Hamburg",22,43,2024
 "Hamburg",37,44,2024
-"Hamburg",37,45,2024
+"Hamburg",39,45,2024
+"Hamburg",21,46,2024
 "Hessen",79,1,2024
 "Hessen",223,2,2024
 "Hessen",177,3,2024
@@ -313,7 +319,8 @@
 "Hessen",77,42,2024
 "Hessen",78,43,2024
 "Hessen",128,44,2024
-"Hessen",114,45,2024
+"Hessen",115,45,2024
+"Hessen",82,46,2024
 "Mecklenburg.Vorpommern",53,1,2024
 "Mecklenburg.Vorpommern",103,2,2024
 "Mecklenburg.Vorpommern",203,3,2024
@@ -358,7 +365,8 @@
 "Mecklenburg.Vorpommern",134,42,2024
 "Mecklenburg.Vorpommern",96,43,2024
 "Mecklenburg.Vorpommern",101,44,2024
-"Mecklenburg.Vorpommern",128,45,2024
+"Mecklenburg.Vorpommern",165,45,2024
+"Mecklenburg.Vorpommern",NA,46,2024
 "Niedersachsen",102,1,2024
 "Niedersachsen",177,2,2024
 "Niedersachsen",288,3,2024
@@ -401,9 +409,10 @@
 "Niedersachsen",89,40,2024
 "Niedersachsen",87,41,2024
 "Niedersachsen",123,42,2024
-"Niedersachsen",115,43,2024
+"Niedersachsen",116,43,2024
 "Niedersachsen",102,44,2024
-"Niedersachsen",86,45,2024
+"Niedersachsen",97,45,2024
+"Niedersachsen",10,46,2024
 "Nordrhein.Westfalen",529,1,2024
 "Nordrhein.Westfalen",716,2,2024
 "Nordrhein.Westfalen",819,3,2024
@@ -448,7 +457,8 @@
 "Nordrhein.Westfalen",249,42,2024
 "Nordrhein.Westfalen",260,43,2024
 "Nordrhein.Westfalen",211,44,2024
-"Nordrhein.Westfalen",311,45,2024
+"Nordrhein.Westfalen",332,45,2024
+"Nordrhein.Westfalen",62,46,2024
 "Rheinland.Pfalz",85,1,2024
 "Rheinland.Pfalz",77,2,2024
 "Rheinland.Pfalz",272,3,2024
@@ -493,7 +503,8 @@
 "Rheinland.Pfalz",62,42,2024
 "Rheinland.Pfalz",72,43,2024
 "Rheinland.Pfalz",63,44,2024
-"Rheinland.Pfalz",101,45,2024
+"Rheinland.Pfalz",110,45,2024
+"Rheinland.Pfalz",5,46,2024
 "Saarland",31,1,2024
 "Saarland",46,2,2024
 "Saarland",62,3,2024
@@ -538,7 +549,8 @@
 "Saarland",11,42,2024
 "Saarland",9,43,2024
 "Saarland",6,44,2024
-"Saarland",32,45,2024
+"Saarland",41,45,2024
+"Saarland",15,46,2024
 "Sachsen",300,1,2024
 "Sachsen",381,2,2024
 "Sachsen",452,3,2024
@@ -583,7 +595,8 @@
 "Sachsen",60,42,2024
 "Sachsen",125,43,2024
 "Sachsen",80,44,2024
-"Sachsen",78,45,2024
+"Sachsen",100,45,2024
+"Sachsen",12,46,2024
 "Sachsen.Anhalt",99,1,2024
 "Sachsen.Anhalt",224,2,2024
 "Sachsen.Anhalt",253,3,2024
@@ -628,7 +641,8 @@
 "Sachsen.Anhalt",183,42,2024
 "Sachsen.Anhalt",116,43,2024
 "Sachsen.Anhalt",50,44,2024
-"Sachsen.Anhalt",64,45,2024
+"Sachsen.Anhalt",66,45,2024
+"Sachsen.Anhalt",25,46,2024
 "Schleswig.Holstein",53,1,2024
 "Schleswig.Holstein",223,2,2024
 "Schleswig.Holstein",231,3,2024
@@ -673,7 +687,8 @@
 "Schleswig.Holstein",34,42,2024
 "Schleswig.Holstein",29,43,2024
 "Schleswig.Holstein",34,44,2024
-"Schleswig.Holstein",46,45,2024
+"Schleswig.Holstein",48,45,2024
+"Schleswig.Holstein",10,46,2024
 "ThÃ.ringen",182,1,2024
 "ThÃ.ringen",267,2,2024
 "ThÃ.ringen",422,3,2024
@@ -718,7 +733,8 @@
 "ThÃ.ringen",92,42,2024
 "ThÃ.ringen",92,43,2024
 "ThÃ.ringen",48,44,2024
-"ThÃ.ringen",50,45,2024
+"ThÃ.ringen",52,45,2024
+"ThÃ.ringen",13,46,2024
 "Baden.WÃ.rttemberg",57,1,2023
 "Baden.WÃ.rttemberg",77,2,2023
 "Baden.WÃ.rttemberg",74,3,2023
