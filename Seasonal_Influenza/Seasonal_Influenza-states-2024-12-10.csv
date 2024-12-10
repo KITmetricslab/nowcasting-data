@@ -47,7 +47,8 @@
 "Baden.WÃ.rttemberg",35,46,2024
 "Baden.WÃ.rttemberg",36,47,2024
 "Baden.WÃ.rttemberg",76,48,2024
-"Baden.WÃ.rttemberg",88,49,2024
+"Baden.WÃ.rttemberg",89,49,2024
+"Baden.WÃ.rttemberg",30,50,2024
 "Bayern",1100,1,2024
 "Bayern",1815,2,2024
 "Bayern",3103,3,2024
@@ -96,7 +97,8 @@
 "Bayern",58,46,2024
 "Bayern",92,47,2024
 "Bayern",148,48,2024
-"Bayern",187,49,2024
+"Bayern",212,49,2024
+"Bayern",64,50,2024
 "Berlin",411,1,2024
 "Berlin",455,2,2024
 "Berlin",578,3,2024
@@ -144,8 +146,9 @@
 "Berlin",17,45,2024
 "Berlin",17,46,2024
 "Berlin",31,47,2024
-"Berlin",78,48,2024
-"Berlin",70,49,2024
+"Berlin",79,48,2024
+"Berlin",75,49,2024
+"Berlin",31,50,2024
 "Brandenburg",227,1,2024
 "Brandenburg",296,2,2024
 "Brandenburg",546,3,2024
@@ -194,7 +197,8 @@
 "Brandenburg",15,46,2024
 "Brandenburg",26,47,2024
 "Brandenburg",46,48,2024
-"Brandenburg",60,49,2024
+"Brandenburg",62,49,2024
+"Brandenburg",18,50,2024
 "Bremen",22,1,2024
 "Bremen",33,2,2024
 "Bremen",88,3,2024
@@ -244,6 +248,7 @@
 "Bremen",1,47,2024
 "Bremen",2,48,2024
 "Bremen",7,49,2024
+"Bremen",3,50,2024
 "Hamburg",145,1,2024
 "Hamburg",209,2,2024
 "Hamburg",301,3,2024
@@ -293,6 +298,7 @@
 "Hamburg",36,47,2024
 "Hamburg",45,48,2024
 "Hamburg",66,49,2024
+"Hamburg",27,50,2024
 "Hessen",400,1,2024
 "Hessen",380,2,2024
 "Hessen",677,3,2024
@@ -341,7 +347,8 @@
 "Hessen",24,46,2024
 "Hessen",34,47,2024
 "Hessen",45,48,2024
-"Hessen",48,49,2024
+"Hessen",53,49,2024
+"Hessen",19,50,2024
 "Mecklenburg.Vorpommern",150,1,2024
 "Mecklenburg.Vorpommern",281,2,2024
 "Mecklenburg.Vorpommern",412,3,2024
@@ -390,7 +397,8 @@
 "Mecklenburg.Vorpommern",11,46,2024
 "Mecklenburg.Vorpommern",19,47,2024
 "Mecklenburg.Vorpommern",27,48,2024
-"Mecklenburg.Vorpommern",10,49,2024
+"Mecklenburg.Vorpommern",20,49,2024
+"Mecklenburg.Vorpommern",NA,50,2024
 "Niedersachsen",229,1,2024
 "Niedersachsen",356,2,2024
 "Niedersachsen",782,3,2024
@@ -439,7 +447,8 @@
 "Niedersachsen",31,46,2024
 "Niedersachsen",38,47,2024
 "Niedersachsen",35,48,2024
-"Niedersachsen",38,49,2024
+"Niedersachsen",45,49,2024
+"Niedersachsen",12,50,2024
 "Nordrhein.Westfalen",1158,1,2024
 "Nordrhein.Westfalen",1206,2,2024
 "Nordrhein.Westfalen",2057,3,2024
@@ -488,7 +497,8 @@
 "Nordrhein.Westfalen",76,46,2024
 "Nordrhein.Westfalen",139,47,2024
 "Nordrhein.Westfalen",176,48,2024
-"Nordrhein.Westfalen",212,49,2024
+"Nordrhein.Westfalen",223,49,2024
+"Nordrhein.Westfalen",50,50,2024
 "Rheinland.Pfalz",285,1,2024
 "Rheinland.Pfalz",303,2,2024
 "Rheinland.Pfalz",629,3,2024
@@ -537,7 +547,8 @@
 "Rheinland.Pfalz",10,46,2024
 "Rheinland.Pfalz",13,47,2024
 "Rheinland.Pfalz",17,48,2024
-"Rheinland.Pfalz",20,49,2024
+"Rheinland.Pfalz",33,49,2024
+"Rheinland.Pfalz",11,50,2024
 "Saarland",45,1,2024
 "Saarland",39,2,2024
 "Saarland",67,3,2024
@@ -586,7 +597,8 @@
 "Saarland",3,46,2024
 "Saarland",2,47,2024
 "Saarland",10,48,2024
-"Saarland",10,49,2024
+"Saarland",12,49,2024
+"Saarland",7,50,2024
 "Sachsen",662,1,2024
 "Sachsen",855,2,2024
 "Sachsen",1671,3,2024
@@ -635,7 +647,8 @@
 "Sachsen",46,46,2024
 "Sachsen",37,47,2024
 "Sachsen",97,48,2024
-"Sachsen",123,49,2024
+"Sachsen",135,49,2024
+"Sachsen",18,50,2024
 "Sachsen.Anhalt",350,1,2024
 "Sachsen.Anhalt",398,2,2024
 "Sachsen.Anhalt",995,3,2024
@@ -684,7 +697,8 @@
 "Sachsen.Anhalt",16,46,2024
 "Sachsen.Anhalt",38,47,2024
 "Sachsen.Anhalt",36,48,2024
-"Sachsen.Anhalt",42,49,2024
+"Sachsen.Anhalt",45,49,2024
+"Sachsen.Anhalt",14,50,2024
 "Schleswig.Holstein",125,1,2024
 "Schleswig.Holstein",144,2,2024
 "Schleswig.Holstein",263,3,2024
@@ -733,7 +747,8 @@
 "Schleswig.Holstein",6,46,2024
 "Schleswig.Holstein",18,47,2024
 "Schleswig.Holstein",18,48,2024
-"Schleswig.Holstein",54,49,2024
+"Schleswig.Holstein",58,49,2024
+"Schleswig.Holstein",32,50,2024
 "ThÃ.ringen",215,1,2024
 "ThÃ.ringen",237,2,2024
 "ThÃ.ringen",477,3,2024
@@ -782,7 +797,8 @@
 "ThÃ.ringen",13,46,2024
 "ThÃ.ringen",22,47,2024
 "ThÃ.ringen",51,48,2024
-"ThÃ.ringen",74,49,2024
+"ThÃ.ringen",80,49,2024
+"ThÃ.ringen",17,50,2024
 "Baden.WÃ.rttemberg",1332,1,2023
 "Baden.WÃ.rttemberg",722,2,2023
 "Baden.WÃ.rttemberg",346,3,2023
