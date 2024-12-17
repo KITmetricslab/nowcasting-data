@@ -48,7 +48,8 @@
 "Baden.WÃ.rttemberg",36,47,2024
 "Baden.WÃ.rttemberg",75,48,2024
 "Baden.WÃ.rttemberg",79,49,2024
-"Baden.WÃ.rttemberg",154,50,2024
+"Baden.WÃ.rttemberg",166,50,2024
+"Baden.WÃ.rttemberg",31,51,2024
 "Bayern",1100,1,2024
 "Bayern",1815,2,2024
 "Bayern",3103,3,2024
@@ -57,7 +58,7 @@
 "Bayern",8264,6,2024
 "Bayern",5649,7,2024
 "Bayern",4381,8,2024
-"Bayern",2178,9,2024
+"Bayern",2179,9,2024
 "Bayern",1527,10,2024
 "Bayern",1109,11,2024
 "Bayern",811,12,2024
@@ -96,9 +97,10 @@
 "Bayern",43,45,2024
 "Bayern",59,46,2024
 "Bayern",92,47,2024
-"Bayern",148,48,2024
+"Bayern",149,48,2024
 "Bayern",214,49,2024
-"Bayern",338,50,2024
+"Bayern",371,50,2024
+"Bayern",136,51,2024
 "Berlin",411,1,2024
 "Berlin",455,2,2024
 "Berlin",578,3,2024
@@ -148,7 +150,8 @@
 "Berlin",31,47,2024
 "Berlin",80,48,2024
 "Berlin",79,49,2024
-"Berlin",131,50,2024
+"Berlin",144,50,2024
+"Berlin",54,51,2024
 "Brandenburg",227,1,2024
 "Brandenburg",296,2,2024
 "Brandenburg",546,3,2024
@@ -198,7 +201,8 @@
 "Brandenburg",26,47,2024
 "Brandenburg",46,48,2024
 "Brandenburg",63,49,2024
-"Brandenburg",101,50,2024
+"Brandenburg",107,50,2024
+"Brandenburg",49,51,2024
 "Bremen",22,1,2024
 "Bremen",33,2,2024
 "Bremen",88,3,2024
@@ -249,6 +253,7 @@
 "Bremen",2,48,2024
 "Bremen",7,49,2024
 "Bremen",7,50,2024
+"Bremen",1,51,2024
 "Hamburg",145,1,2024
 "Hamburg",209,2,2024
 "Hamburg",301,3,2024
@@ -298,7 +303,8 @@
 "Hamburg",37,47,2024
 "Hamburg",45,48,2024
 "Hamburg",71,49,2024
-"Hamburg",100,50,2024
+"Hamburg",102,50,2024
+"Hamburg",37,51,2024
 "Hessen",400,1,2024
 "Hessen",380,2,2024
 "Hessen",677,3,2024
@@ -348,7 +354,8 @@
 "Hessen",34,47,2024
 "Hessen",45,48,2024
 "Hessen",54,49,2024
-"Hessen",91,50,2024
+"Hessen",93,50,2024
+"Hessen",59,51,2024
 "Mecklenburg.Vorpommern",150,1,2024
 "Mecklenburg.Vorpommern",281,2,2024
 "Mecklenburg.Vorpommern",412,3,2024
@@ -398,7 +405,8 @@
 "Mecklenburg.Vorpommern",19,47,2024
 "Mecklenburg.Vorpommern",27,48,2024
 "Mecklenburg.Vorpommern",21,49,2024
-"Mecklenburg.Vorpommern",37,50,2024
+"Mecklenburg.Vorpommern",53,50,2024
+"Mecklenburg.Vorpommern",NA,51,2024
 "Niedersachsen",229,1,2024
 "Niedersachsen",356,2,2024
 "Niedersachsen",782,3,2024
@@ -448,7 +456,8 @@
 "Niedersachsen",38,47,2024
 "Niedersachsen",35,48,2024
 "Niedersachsen",51,49,2024
-"Niedersachsen",92,50,2024
+"Niedersachsen",98,50,2024
+"Niedersachsen",7,51,2024
 "Nordrhein.Westfalen",1158,1,2024
 "Nordrhein.Westfalen",1206,2,2024
 "Nordrhein.Westfalen",2057,3,2024
@@ -498,7 +507,8 @@
 "Nordrhein.Westfalen",140,47,2024
 "Nordrhein.Westfalen",177,48,2024
 "Nordrhein.Westfalen",229,49,2024
-"Nordrhein.Westfalen",288,50,2024
+"Nordrhein.Westfalen",319,50,2024
+"Nordrhein.Westfalen",55,51,2024
 "Rheinland.Pfalz",285,1,2024
 "Rheinland.Pfalz",303,2,2024
 "Rheinland.Pfalz",629,3,2024
@@ -548,7 +558,8 @@
 "Rheinland.Pfalz",13,47,2024
 "Rheinland.Pfalz",17,48,2024
 "Rheinland.Pfalz",33,49,2024
-"Rheinland.Pfalz",55,50,2024
+"Rheinland.Pfalz",63,50,2024
+"Rheinland.Pfalz",20,51,2024
 "Saarland",45,1,2024
 "Saarland",39,2,2024
 "Saarland",67,3,2024
@@ -599,6 +610,7 @@
 "Saarland",10,48,2024
 "Saarland",12,49,2024
 "Saarland",23,50,2024
+"Saarland",NA,51,2024
 "Sachsen",662,1,2024
 "Sachsen",855,2,2024
 "Sachsen",1671,3,2024
@@ -648,7 +660,8 @@
 "Sachsen",37,47,2024
 "Sachsen",98,48,2024
 "Sachsen",140,49,2024
-"Sachsen",200,50,2024
+"Sachsen",219,50,2024
+"Sachsen",44,51,2024
 "Sachsen.Anhalt",350,1,2024
 "Sachsen.Anhalt",398,2,2024
 "Sachsen.Anhalt",995,3,2024
@@ -698,7 +711,8 @@
 "Sachsen.Anhalt",38,47,2024
 "Sachsen.Anhalt",36,48,2024
 "Sachsen.Anhalt",45,49,2024
-"Sachsen.Anhalt",83,50,2024
+"Sachsen.Anhalt",92,50,2024
+"Sachsen.Anhalt",30,51,2024
 "Schleswig.Holstein",125,1,2024
 "Schleswig.Holstein",144,2,2024
 "Schleswig.Holstein",263,3,2024
@@ -748,7 +762,8 @@
 "Schleswig.Holstein",18,47,2024
 "Schleswig.Holstein",18,48,2024
 "Schleswig.Holstein",59,49,2024
-"Schleswig.Holstein",154,50,2024
+"Schleswig.Holstein",156,50,2024
+"Schleswig.Holstein",56,51,2024
 "ThÃ.ringen",215,1,2024
 "ThÃ.ringen",237,2,2024
 "ThÃ.ringen",477,3,2024
@@ -798,7 +813,8 @@
 "ThÃ.ringen",22,47,2024
 "ThÃ.ringen",51,48,2024
 "ThÃ.ringen",84,49,2024
-"ThÃ.ringen",108,50,2024
+"ThÃ.ringen",137,50,2024
+"ThÃ.ringen",29,51,2024
 "Baden.WÃ.rttemberg",1332,1,2023
 "Baden.WÃ.rttemberg",722,2,2023
 "Baden.WÃ.rttemberg",346,3,2023
