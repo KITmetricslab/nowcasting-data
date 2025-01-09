@@ -1,8 +1,8 @@
 "stratum","value","week","year"
 "Baden.WÃ.rttemberg",5,1,2025
-"Baden.WÃ.rttemberg",1,2,2025
-"Bayern",5,1,2025
-"Bayern",3,2,2025
+"Baden.WÃ.rttemberg",2,2,2025
+"Bayern",6,1,2025
+"Bayern",5,2,2025
 "Berlin",3,1,2025
 "Berlin",2,2,2025
 "Brandenburg",1,1,2025
@@ -22,11 +22,13 @@
 "Saarland",1,1,2025
 "Saarland",1,2,2025
 "Sachsen",2,1,2025
-"Sachsen",1,2,2025
+"Sachsen",2,2,2025
 "Sachsen.Anhalt",2,1,2025
 "Sachsen.Anhalt",NA,2,2025
+"Schleswig.Holstein",NA,1,2025
+"Schleswig.Holstein",1,2,2025
 "ThÃ.ringen",1,1,2025
-"ThÃ.ringen",NA,2,2025
+"ThÃ.ringen",1,2,2025
 "Baden.WÃ.rttemberg",12,1,2024
 "Baden.WÃ.rttemberg",7,2,2024
 "Baden.WÃ.rttemberg",3,3,2024
@@ -77,7 +79,7 @@
 "Baden.WÃ.rttemberg",6,48,2024
 "Baden.WÃ.rttemberg",7,49,2024
 "Baden.WÃ.rttemberg",3,50,2024
-"Baden.WÃ.rttemberg",6,51,2024
+"Baden.WÃ.rttemberg",5,51,2024
 "Baden.WÃ.rttemberg",8,52,2024
 "Bayern",8,1,2024
 "Bayern",8,2,2024
