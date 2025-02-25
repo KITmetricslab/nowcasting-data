@@ -7,14 +7,16 @@
 "Bayern",13,6,2025
 "Bayern",8,7,2025
 "Bayern",15,8,2025
+"Bayern",1,9,2025
 "Berlin",2,1,2025
 "Berlin",11,2,2025
 "Berlin",10,3,2025
 "Berlin",3,4,2025
 "Berlin",11,5,2025
 "Berlin",3,6,2025
-"Berlin",6,7,2025
+"Berlin",7,7,2025
 "Berlin",NA,8,2025
+"Berlin",NA,9,2025
 "Brandenburg",7,1,2025
 "Brandenburg",15,2,2025
 "Brandenburg",13,3,2025
@@ -23,6 +25,7 @@
 "Brandenburg",5,6,2025
 "Brandenburg",7,7,2025
 "Brandenburg",3,8,2025
+"Brandenburg",1,9,2025
 "Mecklenburg.Vorpommern",7,1,2025
 "Mecklenburg.Vorpommern",3,2,2025
 "Mecklenburg.Vorpommern",3,3,2025
@@ -31,6 +34,7 @@
 "Mecklenburg.Vorpommern",3,6,2025
 "Mecklenburg.Vorpommern",6,7,2025
 "Mecklenburg.Vorpommern",NA,8,2025
+"Mecklenburg.Vorpommern",NA,9,2025
 "Rheinland.Pfalz",1,1,2025
 "Rheinland.Pfalz",4,2,2025
 "Rheinland.Pfalz",2,3,2025
@@ -39,6 +43,7 @@
 "Rheinland.Pfalz",2,6,2025
 "Rheinland.Pfalz",4,7,2025
 "Rheinland.Pfalz",1,8,2025
+"Rheinland.Pfalz",NA,9,2025
 "Saarland",NA,1,2025
 "Saarland",2,2,2025
 "Saarland",NA,3,2025
@@ -47,6 +52,7 @@
 "Saarland",1,6,2025
 "Saarland",NA,7,2025
 "Saarland",NA,8,2025
+"Saarland",NA,9,2025
 "Sachsen",4,1,2025
 "Sachsen",15,2,2025
 "Sachsen",20,3,2025
@@ -54,7 +60,8 @@
 "Sachsen",12,5,2025
 "Sachsen",13,6,2025
 "Sachsen",9,7,2025
-"Sachsen",9,8,2025
+"Sachsen",11,8,2025
+"Sachsen",NA,9,2025
 "Sachsen.Anhalt",4,1,2025
 "Sachsen.Anhalt",17,2,2025
 "Sachsen.Anhalt",19,3,2025
@@ -63,6 +70,7 @@
 "Sachsen.Anhalt",8,6,2025
 "Sachsen.Anhalt",9,7,2025
 "Sachsen.Anhalt",12,8,2025
+"Sachsen.Anhalt",1,9,2025
 "ThÃ.ringen",3,1,2025
 "ThÃ.ringen",3,2,2025
 "ThÃ.ringen",5,3,2025
@@ -71,6 +79,7 @@
 "ThÃ.ringen",NA,6,2025
 "ThÃ.ringen",1,7,2025
 "ThÃ.ringen",1,8,2025
+"ThÃ.ringen",NA,9,2025
 "Bayern",22,1,2024
 "Bayern",19,2,2024
 "Bayern",9,3,2024
@@ -201,7 +210,7 @@
 "Brandenburg",41,24,2024
 "Brandenburg",68,25,2024
 "Brandenburg",69,26,2024
-"Brandenburg",80,27,2024
+"Brandenburg",84,27,2024
 "Brandenburg",85,28,2024
 "Brandenburg",73,29,2024
 "Brandenburg",70,30,2024
@@ -410,7 +419,7 @@
 "Sachsen",54,25,2024
 "Sachsen",54,26,2024
 "Sachsen",56,27,2024
-"Sachsen",74,28,2024
+"Sachsen",73,28,2024
 "Sachsen",59,29,2024
 "Sachsen",71,30,2024
 "Sachsen",63,31,2024

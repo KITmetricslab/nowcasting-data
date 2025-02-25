@@ -6,15 +6,17 @@
 "Baden.WÃ.rttemberg",35,5,2025
 "Baden.WÃ.rttemberg",41,6,2025
 "Baden.WÃ.rttemberg",51,7,2025
-"Baden.WÃ.rttemberg",52,8,2025
+"Baden.WÃ.rttemberg",54,8,2025
+"Baden.WÃ.rttemberg",15,9,2025
 "Bayern",51,1,2025
 "Bayern",61,2,2025
 "Bayern",43,3,2025
 "Bayern",34,4,2025
 "Bayern",38,5,2025
 "Bayern",60,6,2025
-"Bayern",63,7,2025
+"Bayern",64,7,2025
 "Bayern",64,8,2025
+"Bayern",12,9,2025
 "Berlin",17,1,2025
 "Berlin",16,2,2025
 "Berlin",12,3,2025
@@ -22,7 +24,8 @@
 "Berlin",14,5,2025
 "Berlin",22,6,2025
 "Berlin",13,7,2025
-"Berlin",10,8,2025
+"Berlin",8,8,2025
+"Berlin",6,9,2025
 "Brandenburg",11,1,2025
 "Brandenburg",11,2,2025
 "Brandenburg",4,3,2025
@@ -30,7 +33,8 @@
 "Brandenburg",9,5,2025
 "Brandenburg",13,6,2025
 "Brandenburg",8,7,2025
-"Brandenburg",8,8,2025
+"Brandenburg",9,8,2025
+"Brandenburg",1,9,2025
 "Bremen",11,1,2025
 "Bremen",NA,2,2025
 "Bremen",2,3,2025
@@ -39,6 +43,7 @@
 "Bremen",5,6,2025
 "Bremen",2,7,2025
 "Bremen",NA,8,2025
+"Bremen",NA,9,2025
 "Hamburg",10,1,2025
 "Hamburg",7,2,2025
 "Hamburg",2,3,2025
@@ -47,14 +52,16 @@
 "Hamburg",4,6,2025
 "Hamburg",7,7,2025
 "Hamburg",7,8,2025
+"Hamburg",3,9,2025
 "Hessen",27,1,2025
 "Hessen",21,2,2025
 "Hessen",13,3,2025
-"Hessen",24,4,2025
+"Hessen",25,4,2025
 "Hessen",19,5,2025
 "Hessen",22,6,2025
 "Hessen",24,7,2025
 "Hessen",24,8,2025
+"Hessen",7,9,2025
 "Mecklenburg.Vorpommern",5,1,2025
 "Mecklenburg.Vorpommern",10,2,2025
 "Mecklenburg.Vorpommern",6,3,2025
@@ -62,7 +69,8 @@
 "Mecklenburg.Vorpommern",5,5,2025
 "Mecklenburg.Vorpommern",4,6,2025
 "Mecklenburg.Vorpommern",7,7,2025
-"Mecklenburg.Vorpommern",3,8,2025
+"Mecklenburg.Vorpommern",5,8,2025
+"Mecklenburg.Vorpommern",NA,9,2025
 "Niedersachsen",33,1,2025
 "Niedersachsen",31,2,2025
 "Niedersachsen",19,3,2025
@@ -70,7 +78,8 @@
 "Niedersachsen",34,5,2025
 "Niedersachsen",34,6,2025
 "Niedersachsen",26,7,2025
-"Niedersachsen",33,8,2025
+"Niedersachsen",36,8,2025
+"Niedersachsen",2,9,2025
 "Nordrhein.Westfalen",74,1,2025
 "Nordrhein.Westfalen",92,2,2025
 "Nordrhein.Westfalen",38,3,2025
@@ -78,7 +87,8 @@
 "Nordrhein.Westfalen",60,5,2025
 "Nordrhein.Westfalen",91,6,2025
 "Nordrhein.Westfalen",104,7,2025
-"Nordrhein.Westfalen",78,8,2025
+"Nordrhein.Westfalen",81,8,2025
+"Nordrhein.Westfalen",19,9,2025
 "Rheinland.Pfalz",18,1,2025
 "Rheinland.Pfalz",19,2,2025
 "Rheinland.Pfalz",10,3,2025
@@ -86,7 +96,8 @@
 "Rheinland.Pfalz",10,5,2025
 "Rheinland.Pfalz",10,6,2025
 "Rheinland.Pfalz",23,7,2025
-"Rheinland.Pfalz",10,8,2025
+"Rheinland.Pfalz",11,8,2025
+"Rheinland.Pfalz",1,9,2025
 "Saarland",5,1,2025
 "Saarland",4,2,2025
 "Saarland",2,3,2025
@@ -95,6 +106,7 @@
 "Saarland",5,6,2025
 "Saarland",4,7,2025
 "Saarland",5,8,2025
+"Saarland",NA,9,2025
 "Sachsen",19,1,2025
 "Sachsen",17,2,2025
 "Sachsen",14,3,2025
@@ -103,6 +115,7 @@
 "Sachsen",15,6,2025
 "Sachsen",24,7,2025
 "Sachsen",15,8,2025
+"Sachsen",1,9,2025
 "Sachsen.Anhalt",10,1,2025
 "Sachsen.Anhalt",4,2,2025
 "Sachsen.Anhalt",6,3,2025
@@ -111,6 +124,7 @@
 "Sachsen.Anhalt",14,6,2025
 "Sachsen.Anhalt",10,7,2025
 "Sachsen.Anhalt",6,8,2025
+"Sachsen.Anhalt",2,9,2025
 "Schleswig.Holstein",13,1,2025
 "Schleswig.Holstein",17,2,2025
 "Schleswig.Holstein",6,3,2025
@@ -118,7 +132,8 @@
 "Schleswig.Holstein",7,5,2025
 "Schleswig.Holstein",4,6,2025
 "Schleswig.Holstein",17,7,2025
-"Schleswig.Holstein",14,8,2025
+"Schleswig.Holstein",15,8,2025
+"Schleswig.Holstein",2,9,2025
 "ThÃ.ringen",7,1,2025
 "ThÃ.ringen",7,2,2025
 "ThÃ.ringen",5,3,2025
@@ -127,6 +142,7 @@
 "ThÃ.ringen",8,6,2025
 "ThÃ.ringen",8,7,2025
 "ThÃ.ringen",4,8,2025
+"ThÃ.ringen",3,9,2025
 "Baden.WÃ.rttemberg",49,1,2024
 "Baden.WÃ.rttemberg",34,2,2024
 "Baden.WÃ.rttemberg",26,3,2024
@@ -643,7 +659,7 @@
 "Nordrhein.Westfalen",29,46,2024
 "Nordrhein.Westfalen",36,47,2024
 "Nordrhein.Westfalen",56,48,2024
-"Nordrhein.Westfalen",49,49,2024
+"Nordrhein.Westfalen",50,49,2024
 "Nordrhein.Westfalen",54,50,2024
 "Nordrhein.Westfalen",60,51,2024
 "Nordrhein.Westfalen",47,52,2024
@@ -933,7 +949,7 @@
 "ThÃ.ringen",1,24,2024
 "ThÃ.ringen",2,25,2024
 "ThÃ.ringen",3,26,2024
-"ThÃ.ringen",2,27,2024
+"ThÃ.ringen",3,27,2024
 "ThÃ.ringen",1,28,2024
 "ThÃ.ringen",1,29,2024
 "ThÃ.ringen",NA,30,2024
