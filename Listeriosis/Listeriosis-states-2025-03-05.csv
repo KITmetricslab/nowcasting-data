@@ -38,7 +38,7 @@
 "Brandenburg",NA,7,2025
 "Brandenburg",NA,8,2025
 "Brandenburg",NA,9,2025
-"Brandenburg",NA,10,2025
+"Brandenburg",1,10,2025
 "Bremen",NA,1,2025
 "Bremen",NA,2,2025
 "Bremen",NA,3,2025
@@ -68,7 +68,7 @@
 "Niedersachsen",1,7,2025
 "Niedersachsen",NA,8,2025
 "Niedersachsen",2,9,2025
-"Niedersachsen",NA,10,2025
+"Niedersachsen",1,10,2025
 "Nordrhein.Westfalen",3,1,2025
 "Nordrhein.Westfalen",5,2,2025
 "Nordrhein.Westfalen",4,3,2025
@@ -78,7 +78,7 @@
 "Nordrhein.Westfalen",NA,7,2025
 "Nordrhein.Westfalen",2,8,2025
 "Nordrhein.Westfalen",2,9,2025
-"Nordrhein.Westfalen",NA,10,2025
+"Nordrhein.Westfalen",1,10,2025
 "Rheinland.Pfalz",NA,1,2025
 "Rheinland.Pfalz",NA,2,2025
 "Rheinland.Pfalz",NA,3,2025
@@ -88,7 +88,7 @@
 "Rheinland.Pfalz",NA,7,2025
 "Rheinland.Pfalz",NA,8,2025
 "Rheinland.Pfalz",2,9,2025
-"Rheinland.Pfalz",1,10,2025
+"Rheinland.Pfalz",2,10,2025
 "Sachsen",1,1,2025
 "Sachsen",1,2,2025
 "Sachsen",NA,3,2025
