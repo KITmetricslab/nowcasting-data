@@ -7,8 +7,9 @@
 "Baden.WÃ.rttemberg",244,6,2025
 "Baden.WÃ.rttemberg",198,7,2025
 "Baden.WÃ.rttemberg",164,8,2025
-"Baden.WÃ.rttemberg",211,9,2025
-"Baden.WÃ.rttemberg",98,10,2025
+"Baden.WÃ.rttemberg",212,9,2025
+"Baden.WÃ.rttemberg",103,10,2025
+"Baden.WÃ.rttemberg",22,11,2025
 "Bayern",697,1,2025
 "Bayern",564,2,2025
 "Bayern",464,3,2025
@@ -19,6 +20,7 @@
 "Bayern",267,8,2025
 "Bayern",236,9,2025
 "Bayern",182,10,2025
+"Bayern",15,11,2025
 "Berlin",221,1,2025
 "Berlin",325,2,2025
 "Berlin",266,3,2025
@@ -29,6 +31,7 @@
 "Berlin",114,8,2025
 "Berlin",69,9,2025
 "Berlin",50,10,2025
+"Berlin",NA,11,2025
 "Brandenburg",245,1,2025
 "Brandenburg",252,2,2025
 "Brandenburg",163,3,2025
@@ -39,6 +42,7 @@
 "Brandenburg",103,8,2025
 "Brandenburg",98,9,2025
 "Brandenburg",82,10,2025
+"Brandenburg",6,11,2025
 "Bremen",24,1,2025
 "Bremen",18,2,2025
 "Bremen",13,3,2025
@@ -49,6 +53,7 @@
 "Bremen",27,8,2025
 "Bremen",13,9,2025
 "Bremen",6,10,2025
+"Bremen",NA,11,2025
 "Hamburg",84,1,2025
 "Hamburg",70,2,2025
 "Hamburg",77,3,2025
@@ -59,6 +64,7 @@
 "Hamburg",66,8,2025
 "Hamburg",55,9,2025
 "Hamburg",48,10,2025
+"Hamburg",NA,11,2025
 "Hessen",403,1,2025
 "Hessen",307,2,2025
 "Hessen",207,3,2025
@@ -68,7 +74,8 @@
 "Hessen",158,7,2025
 "Hessen",144,8,2025
 "Hessen",128,9,2025
-"Hessen",89,10,2025
+"Hessen",91,10,2025
+"Hessen",13,11,2025
 "Mecklenburg.Vorpommern",130,1,2025
 "Mecklenburg.Vorpommern",125,2,2025
 "Mecklenburg.Vorpommern",119,3,2025
@@ -78,7 +85,8 @@
 "Mecklenburg.Vorpommern",56,7,2025
 "Mecklenburg.Vorpommern",65,8,2025
 "Mecklenburg.Vorpommern",60,9,2025
-"Mecklenburg.Vorpommern",46,10,2025
+"Mecklenburg.Vorpommern",52,10,2025
+"Mecklenburg.Vorpommern",NA,11,2025
 "Niedersachsen",326,1,2025
 "Niedersachsen",288,2,2025
 "Niedersachsen",248,3,2025
@@ -88,7 +96,8 @@
 "Niedersachsen",158,7,2025
 "Niedersachsen",193,8,2025
 "Niedersachsen",149,9,2025
-"Niedersachsen",83,10,2025
+"Niedersachsen",89,10,2025
+"Niedersachsen",8,11,2025
 "Nordrhein.Westfalen",883,1,2025
 "Nordrhein.Westfalen",756,2,2025
 "Nordrhein.Westfalen",646,3,2025
@@ -98,7 +107,8 @@
 "Nordrhein.Westfalen",407,7,2025
 "Nordrhein.Westfalen",445,8,2025
 "Nordrhein.Westfalen",388,9,2025
-"Nordrhein.Westfalen",240,10,2025
+"Nordrhein.Westfalen",251,10,2025
+"Nordrhein.Westfalen",49,11,2025
 "Rheinland.Pfalz",269,1,2025
 "Rheinland.Pfalz",205,2,2025
 "Rheinland.Pfalz",176,3,2025
@@ -108,7 +118,8 @@
 "Rheinland.Pfalz",135,7,2025
 "Rheinland.Pfalz",94,8,2025
 "Rheinland.Pfalz",78,9,2025
-"Rheinland.Pfalz",54,10,2025
+"Rheinland.Pfalz",61,10,2025
+"Rheinland.Pfalz",8,11,2025
 "Saarland",72,1,2025
 "Saarland",73,2,2025
 "Saarland",59,3,2025
@@ -119,6 +130,7 @@
 "Saarland",25,8,2025
 "Saarland",28,9,2025
 "Saarland",27,10,2025
+"Saarland",2,11,2025
 "Sachsen",275,1,2025
 "Sachsen",514,2,2025
 "Sachsen",347,3,2025
@@ -126,9 +138,10 @@
 "Sachsen",311,5,2025
 "Sachsen",223,6,2025
 "Sachsen",206,7,2025
-"Sachsen",124,8,2025
+"Sachsen",125,8,2025
 "Sachsen",125,9,2025
-"Sachsen",89,10,2025
+"Sachsen",100,10,2025
+"Sachsen",10,11,2025
 "Sachsen.Anhalt",194,1,2025
 "Sachsen.Anhalt",151,2,2025
 "Sachsen.Anhalt",158,3,2025
@@ -139,6 +152,7 @@
 "Sachsen.Anhalt",113,8,2025
 "Sachsen.Anhalt",56,9,2025
 "Sachsen.Anhalt",46,10,2025
+"Sachsen.Anhalt",NA,11,2025
 "Schleswig.Holstein",181,1,2025
 "Schleswig.Holstein",164,2,2025
 "Schleswig.Holstein",145,3,2025
@@ -149,6 +163,7 @@
 "Schleswig.Holstein",98,8,2025
 "Schleswig.Holstein",84,9,2025
 "Schleswig.Holstein",63,10,2025
+"Schleswig.Holstein",NA,11,2025
 "ThÃ.ringen",128,1,2025
 "ThÃ.ringen",142,2,2025
 "ThÃ.ringen",101,3,2025
@@ -159,6 +174,7 @@
 "ThÃ.ringen",57,8,2025
 "ThÃ.ringen",31,9,2025
 "ThÃ.ringen",26,10,2025
+"ThÃ.ringen",2,11,2025
 "Baden.WÃ.rttemberg",2142,1,2024
 "Baden.WÃ.rttemberg",1394,2,2024
 "Baden.WÃ.rttemberg",1065,3,2024
@@ -645,7 +661,7 @@
 "Nordrhein.Westfalen",144,16,2024
 "Nordrhein.Westfalen",230,17,2024
 "Nordrhein.Westfalen",267,18,2024
-"Nordrhein.Westfalen",254,19,2024
+"Nordrhein.Westfalen",255,19,2024
 "Nordrhein.Westfalen",448,20,2024
 "Nordrhein.Westfalen",231,21,2024
 "Nordrhein.Westfalen",257,22,2024
