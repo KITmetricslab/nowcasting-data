@@ -22,7 +22,7 @@
 "Bayern",9,9,2025
 "Bayern",4,10,2025
 "Bayern",4,11,2025
-"Bayern",NA,12,2025
+"Bayern",2,12,2025
 "Berlin",3,1,2025
 "Berlin",3,2,2025
 "Berlin",1,3,2025
@@ -34,7 +34,7 @@
 "Berlin",1,9,2025
 "Berlin",2,10,2025
 "Berlin",2,11,2025
-"Berlin",NA,12,2025
+"Berlin",1,12,2025
 "Brandenburg",1,1,2025
 "Brandenburg",NA,2,2025
 "Brandenburg",3,3,2025
@@ -106,7 +106,7 @@
 "Niedersachsen",NA,9,2025
 "Niedersachsen",NA,10,2025
 "Niedersachsen",2,11,2025
-"Niedersachsen",NA,12,2025
+"Niedersachsen",1,12,2025
 "Nordrhein.Westfalen",7,1,2025
 "Nordrhein.Westfalen",10,2,2025
 "Nordrhein.Westfalen",8,3,2025
@@ -118,7 +118,7 @@
 "Nordrhein.Westfalen",10,9,2025
 "Nordrhein.Westfalen",9,10,2025
 "Nordrhein.Westfalen",8,11,2025
-"Nordrhein.Westfalen",4,12,2025
+"Nordrhein.Westfalen",5,12,2025
 "Rheinland.Pfalz",3,1,2025
 "Rheinland.Pfalz",3,2,2025
 "Rheinland.Pfalz",2,3,2025
@@ -130,7 +130,7 @@
 "Rheinland.Pfalz",3,9,2025
 "Rheinland.Pfalz",5,10,2025
 "Rheinland.Pfalz",2,11,2025
-"Rheinland.Pfalz",3,12,2025
+"Rheinland.Pfalz",4,12,2025
 "Saarland",1,1,2025
 "Saarland",1,2,2025
 "Saarland",1,3,2025
@@ -154,7 +154,7 @@
 "Sachsen",6,9,2025
 "Sachsen",3,10,2025
 "Sachsen",4,11,2025
-"Sachsen",3,12,2025
+"Sachsen",4,12,2025
 "Sachsen.Anhalt",2,1,2025
 "Sachsen.Anhalt",1,2,2025
 "Sachsen.Anhalt",2,3,2025
@@ -190,7 +190,7 @@
 "ThÃ.ringen",1,9,2025
 "ThÃ.ringen",1,10,2025
 "ThÃ.ringen",2,11,2025
-"ThÃ.ringen",1,12,2025
+"ThÃ.ringen",2,12,2025
 "Baden.WÃ.rttemberg",12,1,2024
 "Baden.WÃ.rttemberg",7,2,2024
 "Baden.WÃ.rttemberg",3,3,2024
