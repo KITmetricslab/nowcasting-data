@@ -22,7 +22,7 @@
 "Bayern",9,9,2025
 "Bayern",4,10,2025
 "Bayern",4,11,2025
-"Bayern",2,12,2025
+"Bayern",4,12,2025
 "Berlin",3,1,2025
 "Berlin",3,2,2025
 "Berlin",1,3,2025
@@ -82,7 +82,7 @@
 "Hessen",2,9,2025
 "Hessen",2,10,2025
 "Hessen",4,11,2025
-"Hessen",NA,12,2025
+"Hessen",3,12,2025
 "Mecklenburg.Vorpommern",NA,1,2025
 "Mecklenburg.Vorpommern",NA,2,2025
 "Mecklenburg.Vorpommern",1,3,2025
@@ -105,8 +105,8 @@
 "Niedersachsen",2,8,2025
 "Niedersachsen",NA,9,2025
 "Niedersachsen",NA,10,2025
-"Niedersachsen",2,11,2025
-"Niedersachsen",1,12,2025
+"Niedersachsen",3,11,2025
+"Niedersachsen",4,12,2025
 "Nordrhein.Westfalen",7,1,2025
 "Nordrhein.Westfalen",10,2,2025
 "Nordrhein.Westfalen",8,3,2025
@@ -118,7 +118,7 @@
 "Nordrhein.Westfalen",10,9,2025
 "Nordrhein.Westfalen",9,10,2025
 "Nordrhein.Westfalen",8,11,2025
-"Nordrhein.Westfalen",5,12,2025
+"Nordrhein.Westfalen",9,12,2025
 "Rheinland.Pfalz",3,1,2025
 "Rheinland.Pfalz",3,2,2025
 "Rheinland.Pfalz",2,3,2025
