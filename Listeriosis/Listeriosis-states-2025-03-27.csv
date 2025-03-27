@@ -37,7 +37,7 @@
 "Berlin",NA,10,2025
 "Berlin",1,11,2025
 "Berlin",NA,12,2025
-"Berlin",NA,13,2025
+"Berlin",1,13,2025
 "Brandenburg",NA,1,2025
 "Brandenburg",1,2,2025
 "Brandenburg",1,3,2025
@@ -102,7 +102,7 @@
 "Nordrhein.Westfalen",1,10,2025
 "Nordrhein.Westfalen",2,11,2025
 "Nordrhein.Westfalen",3,12,2025
-"Nordrhein.Westfalen",NA,13,2025
+"Nordrhein.Westfalen",1,13,2025
 "Rheinland.Pfalz",NA,1,2025
 "Rheinland.Pfalz",NA,2,2025
 "Rheinland.Pfalz",NA,3,2025
@@ -128,7 +128,7 @@
 "Sachsen",1,10,2025
 "Sachsen",NA,11,2025
 "Sachsen",NA,12,2025
-"Sachsen",NA,13,2025
+"Sachsen",2,13,2025
 "Sachsen.Anhalt",NA,1,2025
 "Sachsen.Anhalt",1,2,2025
 "Sachsen.Anhalt",NA,3,2025
