@@ -12,7 +12,8 @@
 "Baden.WÃ.rttemberg",65,11,2025
 "Baden.WÃ.rttemberg",100,12,2025
 "Baden.WÃ.rttemberg",88,13,2025
-"Baden.WÃ.rttemberg",102,14,2025
+"Baden.WÃ.rttemberg",107,14,2025
+"Baden.WÃ.rttemberg",17,15,2025
 "Bayern",39,1,2025
 "Bayern",100,2,2025
 "Bayern",94,3,2025
@@ -26,7 +27,8 @@
 "Bayern",160,11,2025
 "Bayern",209,12,2025
 "Bayern",207,13,2025
-"Bayern",226,14,2025
+"Bayern",237,14,2025
+"Bayern",29,15,2025
 "Berlin",14,1,2025
 "Berlin",23,2,2025
 "Berlin",52,3,2025
@@ -40,7 +42,8 @@
 "Berlin",55,11,2025
 "Berlin",64,12,2025
 "Berlin",82,13,2025
-"Berlin",65,14,2025
+"Berlin",68,14,2025
+"Berlin",14,15,2025
 "Brandenburg",73,1,2025
 "Brandenburg",71,2,2025
 "Brandenburg",88,3,2025
@@ -54,7 +57,8 @@
 "Brandenburg",74,11,2025
 "Brandenburg",108,12,2025
 "Brandenburg",108,13,2025
-"Brandenburg",70,14,2025
+"Brandenburg",76,14,2025
+"Brandenburg",20,15,2025
 "Bremen",2,1,2025
 "Bremen",2,2,2025
 "Bremen",1,3,2025
@@ -69,6 +73,7 @@
 "Bremen",11,12,2025
 "Bremen",6,13,2025
 "Bremen",16,14,2025
+"Bremen",NA,15,2025
 "Hamburg",13,1,2025
 "Hamburg",23,2,2025
 "Hamburg",11,3,2025
@@ -83,6 +88,7 @@
 "Hamburg",21,12,2025
 "Hamburg",15,13,2025
 "Hamburg",35,14,2025
+"Hamburg",4,15,2025
 "Hessen",60,1,2025
 "Hessen",88,2,2025
 "Hessen",82,3,2025
@@ -97,6 +103,7 @@
 "Hessen",80,12,2025
 "Hessen",73,13,2025
 "Hessen",81,14,2025
+"Hessen",30,15,2025
 "Mecklenburg.Vorpommern",14,1,2025
 "Mecklenburg.Vorpommern",16,2,2025
 "Mecklenburg.Vorpommern",13,3,2025
@@ -110,7 +117,8 @@
 "Mecklenburg.Vorpommern",30,11,2025
 "Mecklenburg.Vorpommern",38,12,2025
 "Mecklenburg.Vorpommern",49,13,2025
-"Mecklenburg.Vorpommern",38,14,2025
+"Mecklenburg.Vorpommern",51,14,2025
+"Mecklenburg.Vorpommern",NA,15,2025
 "Niedersachsen",58,1,2025
 "Niedersachsen",63,2,2025
 "Niedersachsen",119,3,2025
@@ -123,8 +131,9 @@
 "Niedersachsen",117,10,2025
 "Niedersachsen",136,11,2025
 "Niedersachsen",148,12,2025
-"Niedersachsen",213,13,2025
-"Niedersachsen",195,14,2025
+"Niedersachsen",216,13,2025
+"Niedersachsen",272,14,2025
+"Niedersachsen",19,15,2025
 "Nordrhein.Westfalen",90,1,2025
 "Nordrhein.Westfalen",144,2,2025
 "Nordrhein.Westfalen",132,3,2025
@@ -137,8 +146,9 @@
 "Nordrhein.Westfalen",184,10,2025
 "Nordrhein.Westfalen",201,11,2025
 "Nordrhein.Westfalen",254,12,2025
-"Nordrhein.Westfalen",327,13,2025
-"Nordrhein.Westfalen",290,14,2025
+"Nordrhein.Westfalen",328,13,2025
+"Nordrhein.Westfalen",317,14,2025
+"Nordrhein.Westfalen",52,15,2025
 "Rheinland.Pfalz",31,1,2025
 "Rheinland.Pfalz",49,2,2025
 "Rheinland.Pfalz",51,3,2025
@@ -152,7 +162,8 @@
 "Rheinland.Pfalz",30,11,2025
 "Rheinland.Pfalz",62,12,2025
 "Rheinland.Pfalz",62,13,2025
-"Rheinland.Pfalz",63,14,2025
+"Rheinland.Pfalz",82,14,2025
+"Rheinland.Pfalz",2,15,2025
 "Saarland",8,1,2025
 "Saarland",44,2,2025
 "Saarland",32,3,2025
@@ -166,7 +177,8 @@
 "Saarland",31,11,2025
 "Saarland",30,12,2025
 "Saarland",48,13,2025
-"Saarland",55,14,2025
+"Saarland",56,14,2025
+"Saarland",3,15,2025
 "Sachsen",21,1,2025
 "Sachsen",25,2,2025
 "Sachsen",39,3,2025
@@ -180,7 +192,8 @@
 "Sachsen",93,11,2025
 "Sachsen",96,12,2025
 "Sachsen",89,13,2025
-"Sachsen",58,14,2025
+"Sachsen",62,14,2025
+"Sachsen",17,15,2025
 "Sachsen.Anhalt",9,1,2025
 "Sachsen.Anhalt",44,2,2025
 "Sachsen.Anhalt",39,3,2025
@@ -194,7 +207,8 @@
 "Sachsen.Anhalt",112,11,2025
 "Sachsen.Anhalt",120,12,2025
 "Sachsen.Anhalt",178,13,2025
-"Sachsen.Anhalt",149,14,2025
+"Sachsen.Anhalt",159,14,2025
+"Sachsen.Anhalt",34,15,2025
 "Schleswig.Holstein",9,1,2025
 "Schleswig.Holstein",12,2,2025
 "Schleswig.Holstein",25,3,2025
@@ -208,7 +222,8 @@
 "Schleswig.Holstein",17,11,2025
 "Schleswig.Holstein",39,12,2025
 "Schleswig.Holstein",42,13,2025
-"Schleswig.Holstein",35,14,2025
+"Schleswig.Holstein",36,14,2025
+"Schleswig.Holstein",27,15,2025
 "ThÃ.ringen",12,1,2025
 "ThÃ.ringen",54,2,2025
 "ThÃ.ringen",60,3,2025
@@ -222,7 +237,8 @@
 "ThÃ.ringen",82,11,2025
 "ThÃ.ringen",75,12,2025
 "ThÃ.ringen",92,13,2025
-"ThÃ.ringen",74,14,2025
+"ThÃ.ringen",78,14,2025
+"ThÃ.ringen",24,15,2025
 "Baden.WÃ.rttemberg",25,1,2024
 "Baden.WÃ.rttemberg",21,2,2024
 "Baden.WÃ.rttemberg",29,3,2024
