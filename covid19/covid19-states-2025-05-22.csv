@@ -19,7 +19,7 @@
 "Baden.WÃ.rttemberg",51,18,2025
 "Baden.WÃ.rttemberg",43,19,2025
 "Baden.WÃ.rttemberg",49,20,2025
-"Baden.WÃ.rttemberg",18,21,2025
+"Baden.WÃ.rttemberg",25,21,2025
 "Bayern",697,1,2025
 "Bayern",565,2,2025
 "Bayern",464,3,2025
@@ -40,7 +40,7 @@
 "Bayern",86,18,2025
 "Bayern",121,19,2025
 "Bayern",85,20,2025
-"Bayern",33,21,2025
+"Bayern",57,21,2025
 "Berlin",221,1,2025
 "Berlin",325,2,2025
 "Berlin",266,3,2025
@@ -60,8 +60,8 @@
 "Berlin",39,17,2025
 "Berlin",46,18,2025
 "Berlin",43,19,2025
-"Berlin",38,20,2025
-"Berlin",5,21,2025
+"Berlin",39,20,2025
+"Berlin",36,21,2025
 "Brandenburg",246,1,2025
 "Brandenburg",252,2,2025
 "Brandenburg",163,3,2025
@@ -82,7 +82,7 @@
 "Brandenburg",15,18,2025
 "Brandenburg",10,19,2025
 "Brandenburg",17,20,2025
-"Brandenburg",11,21,2025
+"Brandenburg",13,21,2025
 "Bremen",24,1,2025
 "Bremen",18,2,2025
 "Bremen",13,3,2025
@@ -124,7 +124,7 @@
 "Hamburg",19,18,2025
 "Hamburg",23,19,2025
 "Hamburg",28,20,2025
-"Hamburg",11,21,2025
+"Hamburg",16,21,2025
 "Hessen",405,1,2025
 "Hessen",307,2,2025
 "Hessen",208,3,2025
@@ -145,7 +145,7 @@
 "Hessen",44,18,2025
 "Hessen",48,19,2025
 "Hessen",33,20,2025
-"Hessen",19,21,2025
+"Hessen",31,21,2025
 "Mecklenburg.Vorpommern",130,1,2025
 "Mecklenburg.Vorpommern",125,2,2025
 "Mecklenburg.Vorpommern",119,3,2025
@@ -166,7 +166,7 @@
 "Mecklenburg.Vorpommern",15,18,2025
 "Mecklenburg.Vorpommern",7,19,2025
 "Mecklenburg.Vorpommern",7,20,2025
-"Mecklenburg.Vorpommern",NA,21,2025
+"Mecklenburg.Vorpommern",5,21,2025
 "Niedersachsen",325,1,2025
 "Niedersachsen",288,2,2025
 "Niedersachsen",248,3,2025
@@ -186,8 +186,8 @@
 "Niedersachsen",32,17,2025
 "Niedersachsen",47,18,2025
 "Niedersachsen",32,19,2025
-"Niedersachsen",53,20,2025
-"Niedersachsen",NA,21,2025
+"Niedersachsen",55,20,2025
+"Niedersachsen",22,21,2025
 "Nordrhein.Westfalen",883,1,2025
 "Nordrhein.Westfalen",756,2,2025
 "Nordrhein.Westfalen",646,3,2025
@@ -204,11 +204,11 @@
 "Nordrhein.Westfalen",191,14,2025
 "Nordrhein.Westfalen",224,15,2025
 "Nordrhein.Westfalen",145,16,2025
-"Nordrhein.Westfalen",144,17,2025
+"Nordrhein.Westfalen",145,17,2025
 "Nordrhein.Westfalen",102,18,2025
 "Nordrhein.Westfalen",117,19,2025
-"Nordrhein.Westfalen",103,20,2025
-"Nordrhein.Westfalen",40,21,2025
+"Nordrhein.Westfalen",104,20,2025
+"Nordrhein.Westfalen",74,21,2025
 "Rheinland.Pfalz",269,1,2025
 "Rheinland.Pfalz",205,2,2025
 "Rheinland.Pfalz",176,3,2025
@@ -229,7 +229,7 @@
 "Rheinland.Pfalz",16,18,2025
 "Rheinland.Pfalz",32,19,2025
 "Rheinland.Pfalz",29,20,2025
-"Rheinland.Pfalz",9,21,2025
+"Rheinland.Pfalz",16,21,2025
 "Saarland",72,1,2025
 "Saarland",73,2,2025
 "Saarland",59,3,2025
@@ -250,7 +250,7 @@
 "Saarland",7,18,2025
 "Saarland",11,19,2025
 "Saarland",33,20,2025
-"Saarland",13,21,2025
+"Saarland",20,21,2025
 "Sachsen",274,1,2025
 "Sachsen",514,2,2025
 "Sachsen",347,3,2025
@@ -271,7 +271,7 @@
 "Sachsen",16,18,2025
 "Sachsen",25,19,2025
 "Sachsen",30,20,2025
-"Sachsen",15,21,2025
+"Sachsen",24,21,2025
 "Sachsen.Anhalt",194,1,2025
 "Sachsen.Anhalt",151,2,2025
 "Sachsen.Anhalt",158,3,2025
@@ -292,7 +292,7 @@
 "Sachsen.Anhalt",18,18,2025
 "Sachsen.Anhalt",30,19,2025
 "Sachsen.Anhalt",18,20,2025
-"Sachsen.Anhalt",15,21,2025
+"Sachsen.Anhalt",22,21,2025
 "Schleswig.Holstein",181,1,2025
 "Schleswig.Holstein",163,2,2025
 "Schleswig.Holstein",145,3,2025
@@ -313,7 +313,7 @@
 "Schleswig.Holstein",13,18,2025
 "Schleswig.Holstein",14,19,2025
 "Schleswig.Holstein",29,20,2025
-"Schleswig.Holstein",9,21,2025
+"Schleswig.Holstein",17,21,2025
 "ThÃ.ringen",128,1,2025
 "ThÃ.ringen",142,2,2025
 "ThÃ.ringen",101,3,2025
@@ -421,7 +421,7 @@
 "Bayern",924,32,2024
 "Bayern",760,33,2024
 "Bayern",920,34,2024
-"Bayern",1072,35,2024
+"Bayern",1073,35,2024
 "Bayern",1121,36,2024
 "Bayern",1171,37,2024
 "Bayern",1790,38,2024
@@ -1679,7 +1679,7 @@
 "Nordrhein.Westfalen",2436,42,2023
 "Nordrhein.Westfalen",3550,43,2023
 "Nordrhein.Westfalen",3855,44,2023
-"Nordrhein.Westfalen",5493,45,2023
+"Nordrhein.Westfalen",5494,45,2023
 "Nordrhein.Westfalen",6081,46,2023
 "Nordrhein.Westfalen",6334,47,2023
 "Nordrhein.Westfalen",6187,48,2023
