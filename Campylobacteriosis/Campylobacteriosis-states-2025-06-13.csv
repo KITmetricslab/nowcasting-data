@@ -22,7 +22,7 @@
 "Baden.WÃ.rttemberg",148,21,2025
 "Baden.WÃ.rttemberg",133,22,2025
 "Baden.WÃ.rttemberg",131,23,2025
-"Baden.WÃ.rttemberg",69,24,2025
+"Baden.WÃ.rttemberg",86,24,2025
 "Bayern",82,1,2025
 "Bayern",141,2,2025
 "Bayern",163,3,2025
@@ -46,7 +46,7 @@
 "Bayern",181,21,2025
 "Bayern",181,22,2025
 "Bayern",191,23,2025
-"Bayern",101,24,2025
+"Bayern",133,24,2025
 "Berlin",21,1,2025
 "Berlin",51,2,2025
 "Berlin",38,3,2025
@@ -70,7 +70,7 @@
 "Berlin",64,21,2025
 "Berlin",43,22,2025
 "Berlin",43,23,2025
-"Berlin",31,24,2025
+"Berlin",36,24,2025
 "Brandenburg",12,1,2025
 "Brandenburg",48,2,2025
 "Brandenburg",43,3,2025
@@ -94,7 +94,7 @@
 "Brandenburg",33,21,2025
 "Brandenburg",32,22,2025
 "Brandenburg",42,23,2025
-"Brandenburg",20,24,2025
+"Brandenburg",28,24,2025
 "Bremen",1,1,2025
 "Bremen",14,2,2025
 "Bremen",10,3,2025
@@ -142,7 +142,7 @@
 "Hamburg",25,21,2025
 "Hamburg",30,22,2025
 "Hamburg",33,23,2025
-"Hamburg",14,24,2025
+"Hamburg",20,24,2025
 "Hessen",27,1,2025
 "Hessen",74,2,2025
 "Hessen",75,3,2025
@@ -166,7 +166,7 @@
 "Hessen",78,21,2025
 "Hessen",67,22,2025
 "Hessen",88,23,2025
-"Hessen",40,24,2025
+"Hessen",68,24,2025
 "Mecklenburg.Vorpommern",24,1,2025
 "Mecklenburg.Vorpommern",32,2,2025
 "Mecklenburg.Vorpommern",26,3,2025
@@ -190,7 +190,7 @@
 "Mecklenburg.Vorpommern",27,21,2025
 "Mecklenburg.Vorpommern",19,22,2025
 "Mecklenburg.Vorpommern",40,23,2025
-"Mecklenburg.Vorpommern",14,24,2025
+"Mecklenburg.Vorpommern",19,24,2025
 "Niedersachsen",49,1,2025
 "Niedersachsen",118,2,2025
 "Niedersachsen",93,3,2025
@@ -213,8 +213,8 @@
 "Niedersachsen",107,20,2025
 "Niedersachsen",107,21,2025
 "Niedersachsen",120,22,2025
-"Niedersachsen",134,23,2025
-"Niedersachsen",23,24,2025
+"Niedersachsen",135,23,2025
+"Niedersachsen",30,24,2025
 "Nordrhein.Westfalen",118,1,2025
 "Nordrhein.Westfalen",338,2,2025
 "Nordrhein.Westfalen",258,3,2025
@@ -232,13 +232,13 @@
 "Nordrhein.Westfalen",239,15,2025
 "Nordrhein.Westfalen",204,16,2025
 "Nordrhein.Westfalen",176,17,2025
-"Nordrhein.Westfalen",214,18,2025
+"Nordrhein.Westfalen",215,18,2025
 "Nordrhein.Westfalen",289,19,2025
 "Nordrhein.Westfalen",281,20,2025
 "Nordrhein.Westfalen",276,21,2025
 "Nordrhein.Westfalen",194,22,2025
-"Nordrhein.Westfalen",330,23,2025
-"Nordrhein.Westfalen",110,24,2025
+"Nordrhein.Westfalen",328,23,2025
+"Nordrhein.Westfalen",176,24,2025
 "Rheinland.Pfalz",32,1,2025
 "Rheinland.Pfalz",98,2,2025
 "Rheinland.Pfalz",63,3,2025
@@ -262,7 +262,7 @@
 "Rheinland.Pfalz",61,21,2025
 "Rheinland.Pfalz",62,22,2025
 "Rheinland.Pfalz",63,23,2025
-"Rheinland.Pfalz",34,24,2025
+"Rheinland.Pfalz",49,24,2025
 "Saarland",11,1,2025
 "Saarland",24,2,2025
 "Saarland",14,3,2025
@@ -286,7 +286,7 @@
 "Saarland",30,21,2025
 "Saarland",14,22,2025
 "Saarland",18,23,2025
-"Saarland",13,24,2025
+"Saarland",20,24,2025
 "Sachsen",24,1,2025
 "Sachsen",77,2,2025
 "Sachsen",67,3,2025
@@ -309,8 +309,8 @@
 "Sachsen",54,20,2025
 "Sachsen",62,21,2025
 "Sachsen",55,22,2025
-"Sachsen",75,23,2025
-"Sachsen",23,24,2025
+"Sachsen",76,23,2025
+"Sachsen",39,24,2025
 "Sachsen.Anhalt",11,1,2025
 "Sachsen.Anhalt",20,2,2025
 "Sachsen.Anhalt",39,3,2025
@@ -334,7 +334,7 @@
 "Sachsen.Anhalt",29,21,2025
 "Sachsen.Anhalt",22,22,2025
 "Sachsen.Anhalt",33,23,2025
-"Sachsen.Anhalt",13,24,2025
+"Sachsen.Anhalt",17,24,2025
 "Schleswig.Holstein",16,1,2025
 "Schleswig.Holstein",60,2,2025
 "Schleswig.Holstein",58,3,2025
@@ -358,7 +358,7 @@
 "Schleswig.Holstein",58,21,2025
 "Schleswig.Holstein",40,22,2025
 "Schleswig.Holstein",55,23,2025
-"Schleswig.Holstein",14,24,2025
+"Schleswig.Holstein",30,24,2025
 "ThÃ.ringen",14,1,2025
 "ThÃ.ringen",34,2,2025
 "ThÃ.ringen",26,3,2025
@@ -382,7 +382,7 @@
 "ThÃ.ringen",25,21,2025
 "ThÃ.ringen",22,22,2025
 "ThÃ.ringen",44,23,2025
-"ThÃ.ringen",22,24,2025
+"ThÃ.ringen",21,24,2025
 "Baden.WÃ.rttemberg",69,1,2024
 "Baden.WÃ.rttemberg",123,2,2024
 "Baden.WÃ.rttemberg",104,3,2024
@@ -892,7 +892,7 @@
 "Nordrhein.Westfalen",311,39,2024
 "Nordrhein.Westfalen",259,40,2024
 "Nordrhein.Westfalen",320,41,2024
-"Nordrhein.Westfalen",258,42,2024
+"Nordrhein.Westfalen",259,42,2024
 "Nordrhein.Westfalen",252,43,2024
 "Nordrhein.Westfalen",264,44,2024
 "Nordrhein.Westfalen",251,45,2024
