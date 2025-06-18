@@ -22,8 +22,8 @@
 "Baden.WÃ.rttemberg",2,21,2025
 "Baden.WÃ.rttemberg",4,22,2025
 "Baden.WÃ.rttemberg",6,23,2025
-"Baden.WÃ.rttemberg",9,24,2025
-"Baden.WÃ.rttemberg",2,25,2025
+"Baden.WÃ.rttemberg",10,24,2025
+"Baden.WÃ.rttemberg",4,25,2025
 "Bayern",7,1,2025
 "Bayern",8,2,2025
 "Bayern",13,3,2025
@@ -48,7 +48,7 @@
 "Bayern",7,22,2025
 "Bayern",10,23,2025
 "Bayern",11,24,2025
-"Bayern",1,25,2025
+"Bayern",3,25,2025
 "Berlin",3,1,2025
 "Berlin",3,2,2025
 "Berlin",1,3,2025
@@ -73,7 +73,7 @@
 "Berlin",2,22,2025
 "Berlin",NA,23,2025
 "Berlin",5,24,2025
-"Berlin",2,25,2025
+"Berlin",4,25,2025
 "Brandenburg",1,1,2025
 "Brandenburg",NA,2,2025
 "Brandenburg",3,3,2025
@@ -173,7 +173,7 @@
 "Hessen",1,22,2025
 "Hessen",3,23,2025
 "Hessen",2,24,2025
-"Hessen",1,25,2025
+"Hessen",3,25,2025
 "Mecklenburg.Vorpommern",NA,1,2025
 "Mecklenburg.Vorpommern",NA,2,2025
 "Mecklenburg.Vorpommern",1,3,2025
@@ -223,7 +223,7 @@
 "Niedersachsen",NA,22,2025
 "Niedersachsen",8,23,2025
 "Niedersachsen",2,24,2025
-"Niedersachsen",NA,25,2025
+"Niedersachsen",2,25,2025
 "Nordrhein.Westfalen",7,1,2025
 "Nordrhein.Westfalen",10,2,2025
 "Nordrhein.Westfalen",8,3,2025
@@ -247,8 +247,8 @@
 "Nordrhein.Westfalen",5,21,2025
 "Nordrhein.Westfalen",11,22,2025
 "Nordrhein.Westfalen",9,23,2025
-"Nordrhein.Westfalen",12,24,2025
-"Nordrhein.Westfalen",4,25,2025
+"Nordrhein.Westfalen",13,24,2025
+"Nordrhein.Westfalen",9,25,2025
 "Rheinland.Pfalz",3,1,2025
 "Rheinland.Pfalz",3,2,2025
 "Rheinland.Pfalz",2,3,2025
@@ -273,7 +273,7 @@
 "Rheinland.Pfalz",2,22,2025
 "Rheinland.Pfalz",6,23,2025
 "Rheinland.Pfalz",1,24,2025
-"Rheinland.Pfalz",NA,25,2025
+"Rheinland.Pfalz",1,25,2025
 "Saarland",1,1,2025
 "Saarland",1,2,2025
 "Saarland",1,3,2025
@@ -323,7 +323,7 @@
 "Sachsen",6,22,2025
 "Sachsen",3,23,2025
 "Sachsen",5,24,2025
-"Sachsen",NA,25,2025
+"Sachsen",1,25,2025
 "Sachsen.Anhalt",2,1,2025
 "Sachsen.Anhalt",1,2,2025
 "Sachsen.Anhalt",2,3,2025
@@ -1023,7 +1023,7 @@
 "Saarland",NA,50,2024
 "Saarland",1,51,2024
 "Saarland",NA,52,2024
-"Sachsen",7,1,2024
+"Sachsen",6,1,2024
 "Sachsen",4,2,2024
 "Sachsen",2,3,2024
 "Sachsen",2,4,2024
