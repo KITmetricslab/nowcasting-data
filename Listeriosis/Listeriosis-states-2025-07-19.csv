@@ -27,7 +27,7 @@
 "Baden.WÃ.rttemberg",1,26,2025
 "Baden.WÃ.rttemberg",2,27,2025
 "Baden.WÃ.rttemberg",3,28,2025
-"Baden.WÃ.rttemberg",3,29,2025
+"Baden.WÃ.rttemberg",4,29,2025
 "Bayern",1,1,2025
 "Bayern",3,2,2025
 "Bayern",NA,3,2025
@@ -83,7 +83,7 @@
 "Berlin",1,24,2025
 "Berlin",NA,25,2025
 "Berlin",NA,26,2025
-"Berlin",2,27,2025
+"Berlin",3,27,2025
 "Berlin",1,28,2025
 "Berlin",NA,29,2025
 "Brandenburg",NA,1,2025
@@ -230,7 +230,7 @@
 "Mecklenburg.Vorpommern",NA,26,2025
 "Mecklenburg.Vorpommern",1,27,2025
 "Mecklenburg.Vorpommern",NA,28,2025
-"Mecklenburg.Vorpommern",NA,29,2025
+"Mecklenburg.Vorpommern",1,29,2025
 "Niedersachsen",2,1,2025
 "Niedersachsen",NA,2,2025
 "Niedersachsen",NA,3,2025
@@ -375,7 +375,7 @@
 "Sachsen",1,26,2025
 "Sachsen",1,27,2025
 "Sachsen",1,28,2025
-"Sachsen",NA,29,2025
+"Sachsen",1,29,2025
 "Sachsen.Anhalt",NA,1,2025
 "Sachsen.Anhalt",1,2,2025
 "Sachsen.Anhalt",NA,3,2025
