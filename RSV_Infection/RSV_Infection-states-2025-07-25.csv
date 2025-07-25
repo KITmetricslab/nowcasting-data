@@ -58,7 +58,7 @@
 "Bayern",4,27,2025
 "Bayern",1,28,2025
 "Bayern",3,29,2025
-"Bayern",3,30,2025
+"Bayern",4,30,2025
 "Berlin",41,1,2025
 "Berlin",73,2,2025
 "Berlin",84,3,2025
@@ -208,7 +208,7 @@
 "Hessen",3,27,2025
 "Hessen",1,28,2025
 "Hessen",2,29,2025
-"Hessen",NA,30,2025
+"Hessen",1,30,2025
 "Mecklenburg.Vorpommern",12,1,2025
 "Mecklenburg.Vorpommern",34,2,2025
 "Mecklenburg.Vorpommern",50,3,2025
@@ -583,7 +583,7 @@
 "Bayern",107,50,2024
 "Bayern",130,51,2024
 "Bayern",104,52,2024
-"Berlin",153,1,2024
+"Berlin",155,1,2024
 "Berlin",110,2,2024
 "Berlin",94,3,2024
 "Berlin",122,4,2024
