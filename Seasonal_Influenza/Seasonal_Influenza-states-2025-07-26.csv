@@ -28,7 +28,7 @@
 "Baden.WÃ.rttemberg",11,27,2025
 "Baden.WÃ.rttemberg",11,28,2025
 "Baden.WÃ.rttemberg",7,29,2025
-"Baden.WÃ.rttemberg",9,30,2025
+"Baden.WÃ.rttemberg",12,30,2025
 "Bayern",1103,1,2025
 "Bayern",2190,2,2025
 "Bayern",3412,3,2025
@@ -58,7 +58,7 @@
 "Bayern",23,27,2025
 "Bayern",14,28,2025
 "Bayern",15,29,2025
-"Bayern",10,30,2025
+"Bayern",13,30,2025
 "Berlin",320,1,2025
 "Berlin",855,2,2025
 "Berlin",1232,3,2025
@@ -178,7 +178,7 @@
 "Hamburg",25,27,2025
 "Hamburg",4,28,2025
 "Hamburg",3,29,2025
-"Hamburg",2,30,2025
+"Hamburg",5,30,2025
 "Hessen",403,1,2025
 "Hessen",723,2,2025
 "Hessen",935,3,2025
@@ -268,7 +268,7 @@
 "Niedersachsen",8,27,2025
 "Niedersachsen",1,28,2025
 "Niedersachsen",7,29,2025
-"Niedersachsen",5,30,2025
+"Niedersachsen",7,30,2025
 "Nordrhein.Westfalen",982,1,2025
 "Nordrhein.Westfalen",2007,2,2025
 "Nordrhein.Westfalen",2860,3,2025
@@ -298,7 +298,7 @@
 "Nordrhein.Westfalen",18,27,2025
 "Nordrhein.Westfalen",9,28,2025
 "Nordrhein.Westfalen",19,29,2025
-"Nordrhein.Westfalen",15,30,2025
+"Nordrhein.Westfalen",18,30,2025
 "Rheinland.Pfalz",208,1,2025
 "Rheinland.Pfalz",506,2,2025
 "Rheinland.Pfalz",647,3,2025
@@ -328,7 +328,7 @@
 "Rheinland.Pfalz",4,27,2025
 "Rheinland.Pfalz",3,28,2025
 "Rheinland.Pfalz",3,29,2025
-"Rheinland.Pfalz",3,30,2025
+"Rheinland.Pfalz",6,30,2025
 "Saarland",69,1,2025
 "Saarland",121,2,2025
 "Saarland",141,3,2025
@@ -388,7 +388,7 @@
 "Sachsen",15,27,2025
 "Sachsen",6,28,2025
 "Sachsen",8,29,2025
-"Sachsen",5,30,2025
+"Sachsen",6,30,2025
 "Sachsen.Anhalt",156,1,2025
 "Sachsen.Anhalt",436,2,2025
 "Sachsen.Anhalt",932,3,2025
@@ -448,7 +448,7 @@
 "Schleswig.Holstein",5,27,2025
 "Schleswig.Holstein",4,28,2025
 "Schleswig.Holstein",2,29,2025
-"Schleswig.Holstein",2,30,2025
+"Schleswig.Holstein",3,30,2025
 "ThÃ.ringen",139,1,2025
 "ThÃ.ringen",489,2,2025
 "ThÃ.ringen",872,3,2025
@@ -593,7 +593,7 @@
 "Berlin",423,8,2024
 "Berlin",256,9,2024
 "Berlin",136,10,2024
-"Berlin",137,11,2024
+"Berlin",136,11,2024
 "Berlin",93,12,2024
 "Berlin",48,13,2024
 "Berlin",59,14,2024
