@@ -62,7 +62,7 @@
 "Bayern",15,29,2025
 "Bayern",13,30,2025
 "Bayern",14,31,2025
-"Bayern",6,32,2025
+"Bayern",10,32,2025
 "Berlin",320,1,2025
 "Berlin",855,2,2025
 "Berlin",1232,3,2025
@@ -190,7 +190,7 @@
 "Hamburg",3,29,2025
 "Hamburg",5,30,2025
 "Hamburg",6,31,2025
-"Hamburg",4,32,2025
+"Hamburg",6,32,2025
 "Hessen",403,1,2025
 "Hessen",723,2,2025
 "Hessen",935,3,2025
@@ -222,7 +222,7 @@
 "Hessen",8,29,2025
 "Hessen",2,30,2025
 "Hessen",5,31,2025
-"Hessen",2,32,2025
+"Hessen",4,32,2025
 "Mecklenburg.Vorpommern",106,1,2025
 "Mecklenburg.Vorpommern",279,2,2025
 "Mecklenburg.Vorpommern",556,3,2025
@@ -254,7 +254,7 @@
 "Mecklenburg.Vorpommern",NA,29,2025
 "Mecklenburg.Vorpommern",NA,30,2025
 "Mecklenburg.Vorpommern",NA,31,2025
-"Mecklenburg.Vorpommern",NA,32,2025
+"Mecklenburg.Vorpommern",1,32,2025
 "Niedersachsen",262,1,2025
 "Niedersachsen",667,2,2025
 "Niedersachsen",1116,3,2025
@@ -286,10 +286,10 @@
 "Niedersachsen",7,29,2025
 "Niedersachsen",7,30,2025
 "Niedersachsen",3,31,2025
-"Niedersachsen",3,32,2025
+"Niedersachsen",5,32,2025
 "Nordrhein.Westfalen",982,1,2025
 "Nordrhein.Westfalen",2007,2,2025
-"Nordrhein.Westfalen",2860,3,2025
+"Nordrhein.Westfalen",2861,3,2025
 "Nordrhein.Westfalen",5879,4,2025
 "Nordrhein.Westfalen",9285,5,2025
 "Nordrhein.Westfalen",8247,6,2025
@@ -350,7 +350,7 @@
 "Rheinland.Pfalz",3,29,2025
 "Rheinland.Pfalz",6,30,2025
 "Rheinland.Pfalz",4,31,2025
-"Rheinland.Pfalz",5,32,2025
+"Rheinland.Pfalz",6,32,2025
 "Saarland",69,1,2025
 "Saarland",121,2,2025
 "Saarland",141,3,2025
@@ -381,8 +381,8 @@
 "Saarland",NA,28,2025
 "Saarland",1,29,2025
 "Saarland",1,30,2025
-"Saarland",NA,31,2025
-"Saarland",NA,32,2025
+"Saarland",1,31,2025
+"Saarland",1,32,2025
 "Sachsen",304,1,2025
 "Sachsen",1277,2,2025
 "Sachsen",1804,3,2025
@@ -414,7 +414,7 @@
 "Sachsen",8,29,2025
 "Sachsen",7,30,2025
 "Sachsen",13,31,2025
-"Sachsen",3,32,2025
+"Sachsen",6,32,2025
 "Sachsen.Anhalt",156,1,2025
 "Sachsen.Anhalt",436,2,2025
 "Sachsen.Anhalt",932,3,2025
@@ -569,7 +569,7 @@
 "Bayern",5829,4,2024
 "Bayern",7682,5,2024
 "Bayern",8264,6,2024
-"Bayern",5654,7,2024
+"Bayern",5649,7,2024
 "Bayern",4382,8,2024
 "Bayern",2182,9,2024
 "Bayern",1529,10,2024
