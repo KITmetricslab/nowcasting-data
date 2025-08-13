@@ -31,7 +31,7 @@
 "Baden.WÃ.rttemberg",13,30,2025
 "Baden.WÃ.rttemberg",5,31,2025
 "Baden.WÃ.rttemberg",15,32,2025
-"Baden.WÃ.rttemberg",1,33,2025
+"Baden.WÃ.rttemberg",3,33,2025
 "Bayern",1103,1,2025
 "Bayern",2190,2,2025
 "Bayern",3412,3,2025
@@ -64,7 +64,7 @@
 "Bayern",13,30,2025
 "Bayern",14,31,2025
 "Bayern",10,32,2025
-"Bayern",2,33,2025
+"Bayern",4,33,2025
 "Berlin",320,1,2025
 "Berlin",855,2,2025
 "Berlin",1232,3,2025
@@ -97,7 +97,7 @@
 "Berlin",2,30,2025
 "Berlin",5,31,2025
 "Berlin",4,32,2025
-"Berlin",3,33,2025
+"Berlin",5,33,2025
 "Brandenburg",170,1,2025
 "Brandenburg",497,2,2025
 "Brandenburg",902,3,2025
@@ -130,7 +130,7 @@
 "Brandenburg",1,30,2025
 "Brandenburg",4,31,2025
 "Brandenburg",1,32,2025
-"Brandenburg",2,33,2025
+"Brandenburg",3,33,2025
 "Bremen",18,1,2025
 "Bremen",25,2,2025
 "Bremen",36,3,2025
@@ -229,7 +229,7 @@
 "Hessen",2,30,2025
 "Hessen",5,31,2025
 "Hessen",4,32,2025
-"Hessen",NA,33,2025
+"Hessen",1,33,2025
 "Mecklenburg.Vorpommern",106,1,2025
 "Mecklenburg.Vorpommern",279,2,2025
 "Mecklenburg.Vorpommern",556,3,2025
@@ -295,7 +295,7 @@
 "Niedersachsen",7,30,2025
 "Niedersachsen",3,31,2025
 "Niedersachsen",6,32,2025
-"Niedersachsen",2,33,2025
+"Niedersachsen",7,33,2025
 "Nordrhein.Westfalen",982,1,2025
 "Nordrhein.Westfalen",2007,2,2025
 "Nordrhein.Westfalen",2861,3,2025
@@ -327,8 +327,8 @@
 "Nordrhein.Westfalen",19,29,2025
 "Nordrhein.Westfalen",18,30,2025
 "Nordrhein.Westfalen",13,31,2025
-"Nordrhein.Westfalen",13,32,2025
-"Nordrhein.Westfalen",2,33,2025
+"Nordrhein.Westfalen",14,32,2025
+"Nordrhein.Westfalen",4,33,2025
 "Rheinland.Pfalz",208,1,2025
 "Rheinland.Pfalz",506,2,2025
 "Rheinland.Pfalz",647,3,2025
@@ -427,7 +427,7 @@
 "Sachsen",7,30,2025
 "Sachsen",13,31,2025
 "Sachsen",7,32,2025
-"Sachsen",NA,33,2025
+"Sachsen",1,33,2025
 "Sachsen.Anhalt",156,1,2025
 "Sachsen.Anhalt",436,2,2025
 "Sachsen.Anhalt",932,3,2025
@@ -460,7 +460,7 @@
 "Sachsen.Anhalt",1,30,2025
 "Sachsen.Anhalt",1,31,2025
 "Sachsen.Anhalt",4,32,2025
-"Sachsen.Anhalt",NA,33,2025
+"Sachsen.Anhalt",1,33,2025
 "Schleswig.Holstein",219,1,2025
 "Schleswig.Holstein",286,2,2025
 "Schleswig.Holstein",431,3,2025
