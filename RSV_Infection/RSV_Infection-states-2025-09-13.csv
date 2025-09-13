@@ -109,7 +109,7 @@
 "Berlin",2,34,2025
 "Berlin",NA,35,2025
 "Berlin",2,36,2025
-"Berlin",1,37,2025
+"Berlin",2,37,2025
 "Brandenburg",18,1,2025
 "Brandenburg",50,2,2025
 "Brandenburg",69,3,2025
@@ -146,7 +146,7 @@
 "Brandenburg",NA,34,2025
 "Brandenburg",1,35,2025
 "Brandenburg",NA,36,2025
-"Brandenburg",2,37,2025
+"Brandenburg",3,37,2025
 "Bremen",4,1,2025
 "Bremen",4,2,2025
 "Bremen",7,3,2025
@@ -257,7 +257,7 @@
 "Hessen",2,34,2025
 "Hessen",2,35,2025
 "Hessen",3,36,2025
-"Hessen",NA,37,2025
+"Hessen",1,37,2025
 "Mecklenburg.Vorpommern",12,1,2025
 "Mecklenburg.Vorpommern",34,2,2025
 "Mecklenburg.Vorpommern",50,3,2025
@@ -479,7 +479,7 @@
 "Sachsen",4,34,2025
 "Sachsen",11,35,2025
 "Sachsen",5,36,2025
-"Sachsen",6,37,2025
+"Sachsen",9,37,2025
 "Sachsen.Anhalt",36,1,2025
 "Sachsen.Anhalt",81,2,2025
 "Sachsen.Anhalt",124,3,2025
