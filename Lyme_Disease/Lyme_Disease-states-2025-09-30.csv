@@ -36,8 +36,9 @@
 "Bayern",172,35,2025
 "Bayern",175,36,2025
 "Bayern",154,37,2025
-"Bayern",133,38,2025
-"Bayern",113,39,2025
+"Bayern",134,38,2025
+"Bayern",118,39,2025
+"Bayern",11,40,2025
 "Berlin",2,1,2025
 "Berlin",11,2,2025
 "Berlin",10,3,2025
@@ -74,9 +75,10 @@
 "Berlin",62,34,2025
 "Berlin",54,35,2025
 "Berlin",61,36,2025
-"Berlin",45,37,2025
-"Berlin",32,38,2025
-"Berlin",14,39,2025
+"Berlin",49,37,2025
+"Berlin",34,38,2025
+"Berlin",19,39,2025
+"Berlin",3,40,2025
 "Brandenburg",7,1,2025
 "Brandenburg",15,2,2025
 "Brandenburg",13,3,2025
@@ -116,6 +118,7 @@
 "Brandenburg",85,37,2025
 "Brandenburg",81,38,2025
 "Brandenburg",49,39,2025
+"Brandenburg",10,40,2025
 "Mecklenburg.Vorpommern",7,1,2025
 "Mecklenburg.Vorpommern",3,2,2025
 "Mecklenburg.Vorpommern",3,3,2025
@@ -154,7 +157,8 @@
 "Mecklenburg.Vorpommern",18,36,2025
 "Mecklenburg.Vorpommern",12,37,2025
 "Mecklenburg.Vorpommern",14,38,2025
-"Mecklenburg.Vorpommern",11,39,2025
+"Mecklenburg.Vorpommern",12,39,2025
+"Mecklenburg.Vorpommern",1,40,2025
 "Rheinland.Pfalz",1,1,2025
 "Rheinland.Pfalz",4,2,2025
 "Rheinland.Pfalz",2,3,2025
@@ -193,7 +197,8 @@
 "Rheinland.Pfalz",38,36,2025
 "Rheinland.Pfalz",25,37,2025
 "Rheinland.Pfalz",27,38,2025
-"Rheinland.Pfalz",15,39,2025
+"Rheinland.Pfalz",18,39,2025
+"Rheinland.Pfalz",NA,40,2025
 "Saarland",NA,1,2025
 "Saarland",2,2,2025
 "Saarland",NA,3,2025
@@ -233,6 +238,7 @@
 "Saarland",13,37,2025
 "Saarland",10,38,2025
 "Saarland",5,39,2025
+"Saarland",NA,40,2025
 "Sachsen",4,1,2025
 "Sachsen",15,2,2025
 "Sachsen",20,3,2025
@@ -270,8 +276,9 @@
 "Sachsen",134,35,2025
 "Sachsen",109,36,2025
 "Sachsen",90,37,2025
-"Sachsen",84,38,2025
-"Sachsen",47,39,2025
+"Sachsen",86,38,2025
+"Sachsen",56,39,2025
+"Sachsen",1,40,2025
 "Sachsen.Anhalt",4,1,2025
 "Sachsen.Anhalt",17,2,2025
 "Sachsen.Anhalt",19,3,2025
@@ -311,6 +318,7 @@
 "Sachsen.Anhalt",57,37,2025
 "Sachsen.Anhalt",51,38,2025
 "Sachsen.Anhalt",48,39,2025
+"Sachsen.Anhalt",7,40,2025
 "ThÃ.ringen",3,1,2025
 "ThÃ.ringen",3,2,2025
 "ThÃ.ringen",5,3,2025
@@ -348,8 +356,9 @@
 "ThÃ.ringen",32,35,2025
 "ThÃ.ringen",31,36,2025
 "ThÃ.ringen",38,37,2025
-"ThÃ.ringen",19,38,2025
-"ThÃ.ringen",14,39,2025
+"ThÃ.ringen",20,38,2025
+"ThÃ.ringen",17,39,2025
+"ThÃ.ringen",3,40,2025
 "Bayern",22,1,2024
 "Bayern",19,2,2024
 "Bayern",9,3,2024
