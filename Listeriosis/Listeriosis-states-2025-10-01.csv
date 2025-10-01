@@ -78,7 +78,7 @@
 "Bayern",3,37,2025
 "Bayern",2,38,2025
 "Bayern",1,39,2025
-"Bayern",NA,40,2025
+"Bayern",1,40,2025
 "Berlin",NA,1,2025
 "Berlin",NA,2,2025
 "Berlin",NA,3,2025
@@ -158,7 +158,7 @@
 "Brandenburg",1,37,2025
 "Brandenburg",NA,38,2025
 "Brandenburg",NA,39,2025
-"Brandenburg",1,40,2025
+"Brandenburg",2,40,2025
 "Bremen",NA,1,2025
 "Bremen",NA,2,2025
 "Bremen",NA,3,2025
@@ -397,8 +397,8 @@
 "Nordrhein.Westfalen",1,36,2025
 "Nordrhein.Westfalen",3,37,2025
 "Nordrhein.Westfalen",1,38,2025
-"Nordrhein.Westfalen",1,39,2025
-"Nordrhein.Westfalen",NA,40,2025
+"Nordrhein.Westfalen",2,39,2025
+"Nordrhein.Westfalen",1,40,2025
 "Rheinland.Pfalz",NA,1,2025
 "Rheinland.Pfalz",NA,2,2025
 "Rheinland.Pfalz",NA,3,2025
