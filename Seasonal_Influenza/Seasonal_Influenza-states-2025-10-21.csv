@@ -40,7 +40,8 @@
 "Baden.WÃ.rttemberg",22,39,2025
 "Baden.WÃ.rttemberg",28,40,2025
 "Baden.WÃ.rttemberg",47,41,2025
-"Baden.WÃ.rttemberg",65,42,2025
+"Baden.WÃ.rttemberg",69,42,2025
+"Baden.WÃ.rttemberg",23,43,2025
 "Bayern",1103,1,2025
 "Bayern",2190,2,2025
 "Bayern",3412,3,2025
@@ -82,7 +83,8 @@
 "Bayern",41,39,2025
 "Bayern",52,40,2025
 "Bayern",119,41,2025
-"Bayern",150,42,2025
+"Bayern",160,42,2025
+"Bayern",39,43,2025
 "Berlin",320,1,2025
 "Berlin",855,2,2025
 "Berlin",1232,3,2025
@@ -124,7 +126,8 @@
 "Berlin",8,39,2025
 "Berlin",18,40,2025
 "Berlin",27,41,2025
-"Berlin",29,42,2025
+"Berlin",30,42,2025
+"Berlin",11,43,2025
 "Brandenburg",170,1,2025
 "Brandenburg",497,2,2025
 "Brandenburg",902,3,2025
@@ -166,7 +169,8 @@
 "Brandenburg",5,39,2025
 "Brandenburg",11,40,2025
 "Brandenburg",19,41,2025
-"Brandenburg",16,42,2025
+"Brandenburg",19,42,2025
+"Brandenburg",10,43,2025
 "Bremen",18,1,2025
 "Bremen",25,2,2025
 "Bremen",36,3,2025
@@ -209,6 +213,7 @@
 "Bremen",2,40,2025
 "Bremen",NA,41,2025
 "Bremen",2,42,2025
+"Bremen",1,43,2025
 "Hamburg",178,1,2025
 "Hamburg",317,2,2025
 "Hamburg",487,3,2025
@@ -248,9 +253,10 @@
 "Hamburg",7,37,2025
 "Hamburg",9,38,2025
 "Hamburg",11,39,2025
-"Hamburg",7,40,2025
+"Hamburg",8,40,2025
 "Hamburg",30,41,2025
 "Hamburg",20,42,2025
+"Hamburg",4,43,2025
 "Hessen",403,1,2025
 "Hessen",723,2,2025
 "Hessen",935,3,2025
@@ -292,7 +298,8 @@
 "Hessen",4,39,2025
 "Hessen",10,40,2025
 "Hessen",22,41,2025
-"Hessen",35,42,2025
+"Hessen",36,42,2025
+"Hessen",6,43,2025
 "Mecklenburg.Vorpommern",106,1,2025
 "Mecklenburg.Vorpommern",279,2,2025
 "Mecklenburg.Vorpommern",556,3,2025
@@ -334,7 +341,8 @@
 "Mecklenburg.Vorpommern",2,39,2025
 "Mecklenburg.Vorpommern",12,40,2025
 "Mecklenburg.Vorpommern",23,41,2025
-"Mecklenburg.Vorpommern",13,42,2025
+"Mecklenburg.Vorpommern",16,42,2025
+"Mecklenburg.Vorpommern",NA,43,2025
 "Niedersachsen",262,1,2025
 "Niedersachsen",667,2,2025
 "Niedersachsen",1116,3,2025
@@ -376,7 +384,8 @@
 "Niedersachsen",9,39,2025
 "Niedersachsen",11,40,2025
 "Niedersachsen",28,41,2025
-"Niedersachsen",24,42,2025
+"Niedersachsen",25,42,2025
+"Niedersachsen",4,43,2025
 "Nordrhein.Westfalen",982,1,2025
 "Nordrhein.Westfalen",2007,2,2025
 "Nordrhein.Westfalen",2861,3,2025
@@ -418,7 +427,8 @@
 "Nordrhein.Westfalen",36,39,2025
 "Nordrhein.Westfalen",37,40,2025
 "Nordrhein.Westfalen",78,41,2025
-"Nordrhein.Westfalen",59,42,2025
+"Nordrhein.Westfalen",66,42,2025
+"Nordrhein.Westfalen",12,43,2025
 "Rheinland.Pfalz",208,1,2025
 "Rheinland.Pfalz",506,2,2025
 "Rheinland.Pfalz",647,3,2025
@@ -461,6 +471,7 @@
 "Rheinland.Pfalz",7,40,2025
 "Rheinland.Pfalz",12,41,2025
 "Rheinland.Pfalz",14,42,2025
+"Rheinland.Pfalz",NA,43,2025
 "Saarland",69,1,2025
 "Saarland",121,2,2025
 "Saarland",141,3,2025
@@ -502,7 +513,8 @@
 "Saarland",3,39,2025
 "Saarland",3,40,2025
 "Saarland",1,41,2025
-"Saarland",2,42,2025
+"Saarland",3,42,2025
+"Saarland",1,43,2025
 "Sachsen",304,1,2025
 "Sachsen",1277,2,2025
 "Sachsen",1804,3,2025
@@ -545,6 +557,7 @@
 "Sachsen",18,40,2025
 "Sachsen",30,41,2025
 "Sachsen",37,42,2025
+"Sachsen",4,43,2025
 "Sachsen.Anhalt",156,1,2025
 "Sachsen.Anhalt",436,2,2025
 "Sachsen.Anhalt",932,3,2025
@@ -586,7 +599,8 @@
 "Sachsen.Anhalt",7,39,2025
 "Sachsen.Anhalt",12,40,2025
 "Sachsen.Anhalt",28,41,2025
-"Sachsen.Anhalt",18,42,2025
+"Sachsen.Anhalt",20,42,2025
+"Sachsen.Anhalt",6,43,2025
 "Schleswig.Holstein",219,1,2025
 "Schleswig.Holstein",286,2,2025
 "Schleswig.Holstein",431,3,2025
@@ -629,6 +643,7 @@
 "Schleswig.Holstein",4,40,2025
 "Schleswig.Holstein",15,41,2025
 "Schleswig.Holstein",15,42,2025
+"Schleswig.Holstein",1,43,2025
 "ThÃ.ringen",139,1,2025
 "ThÃ.ringen",489,2,2025
 "ThÃ.ringen",872,3,2025
@@ -670,7 +685,8 @@
 "ThÃ.ringen",4,39,2025
 "ThÃ.ringen",4,40,2025
 "ThÃ.ringen",18,41,2025
-"ThÃ.ringen",17,42,2025
+"ThÃ.ringen",19,42,2025
+"ThÃ.ringen",3,43,2025
 "Baden.WÃ.rttemberg",793,1,2024
 "Baden.WÃ.rttemberg",840,2,2024
 "Baden.WÃ.rttemberg",1722,3,2024
@@ -1671,7 +1687,7 @@
 "Brandenburg",115,10,2023
 "Brandenburg",114,11,2023
 "Brandenburg",148,12,2023
-"Brandenburg",120,13,2023
+"Brandenburg",121,13,2023
 "Brandenburg",43,14,2023
 "Brandenburg",44,15,2023
 "Brandenburg",33,16,2023
