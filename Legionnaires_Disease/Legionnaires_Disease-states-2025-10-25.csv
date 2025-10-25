@@ -41,7 +41,7 @@
 "Baden.WÃ.rttemberg",7,40,2025
 "Baden.WÃ.rttemberg",17,41,2025
 "Baden.WÃ.rttemberg",12,42,2025
-"Baden.WÃ.rttemberg",4,43,2025
+"Baden.WÃ.rttemberg",5,43,2025
 "Bayern",7,1,2025
 "Bayern",8,2,2025
 "Bayern",13,3,2025
@@ -170,7 +170,7 @@
 "Brandenburg",NA,40,2025
 "Brandenburg",5,41,2025
 "Brandenburg",NA,42,2025
-"Brandenburg",1,43,2025
+"Brandenburg",2,43,2025
 "Bremen",NA,1,2025
 "Bremen",NA,2,2025
 "Bremen",1,3,2025
@@ -256,7 +256,7 @@
 "Hamburg",1,40,2025
 "Hamburg",3,41,2025
 "Hamburg",2,42,2025
-"Hamburg",1,43,2025
+"Hamburg",3,43,2025
 "Hessen",2,1,2025
 "Hessen",3,2,2025
 "Hessen",4,3,2025
@@ -299,7 +299,7 @@
 "Hessen",3,40,2025
 "Hessen",12,41,2025
 "Hessen",6,42,2025
-"Hessen",2,43,2025
+"Hessen",3,43,2025
 "Mecklenburg.Vorpommern",NA,1,2025
 "Mecklenburg.Vorpommern",NA,2,2025
 "Mecklenburg.Vorpommern",1,3,2025
@@ -385,7 +385,7 @@
 "Niedersachsen",1,40,2025
 "Niedersachsen",5,41,2025
 "Niedersachsen",2,42,2025
-"Niedersachsen",5,43,2025
+"Niedersachsen",7,43,2025
 "Nordrhein.Westfalen",7,1,2025
 "Nordrhein.Westfalen",10,2,2025
 "Nordrhein.Westfalen",8,3,2025
@@ -428,7 +428,7 @@
 "Nordrhein.Westfalen",22,40,2025
 "Nordrhein.Westfalen",15,41,2025
 "Nordrhein.Westfalen",9,42,2025
-"Nordrhein.Westfalen",17,43,2025
+"Nordrhein.Westfalen",19,43,2025
 "Rheinland.Pfalz",3,1,2025
 "Rheinland.Pfalz",3,2,2025
 "Rheinland.Pfalz",2,3,2025
@@ -471,7 +471,7 @@
 "Rheinland.Pfalz",3,40,2025
 "Rheinland.Pfalz",1,41,2025
 "Rheinland.Pfalz",3,42,2025
-"Rheinland.Pfalz",1,43,2025
+"Rheinland.Pfalz",2,43,2025
 "Saarland",1,1,2025
 "Saarland",1,2,2025
 "Saarland",1,3,2025
@@ -557,7 +557,7 @@
 "Sachsen",4,40,2025
 "Sachsen",2,41,2025
 "Sachsen",4,42,2025
-"Sachsen",4,43,2025
+"Sachsen",6,43,2025
 "Sachsen.Anhalt",2,1,2025
 "Sachsen.Anhalt",1,2,2025
 "Sachsen.Anhalt",2,3,2025
@@ -643,7 +643,7 @@
 "Schleswig.Holstein",3,40,2025
 "Schleswig.Holstein",3,41,2025
 "Schleswig.Holstein",4,42,2025
-"Schleswig.Holstein",1,43,2025
+"Schleswig.Holstein",2,43,2025
 "ThÃ.ringen",1,1,2025
 "ThÃ.ringen",1,2,2025
 "ThÃ.ringen",1,3,2025
