@@ -45,7 +45,7 @@
 "Baden.WÃ.rttemberg",20,44,2025
 "Baden.WÃ.rttemberg",18,45,2025
 "Baden.WÃ.rttemberg",19,46,2025
-"Baden.WÃ.rttemberg",14,47,2025
+"Baden.WÃ.rttemberg",15,47,2025
 "Bayern",51,1,2025
 "Bayern",63,2,2025
 "Bayern",43,3,2025
@@ -92,7 +92,7 @@
 "Bayern",34,44,2025
 "Bayern",34,45,2025
 "Bayern",29,46,2025
-"Bayern",11,47,2025
+"Bayern",17,47,2025
 "Berlin",17,1,2025
 "Berlin",16,2,2025
 "Berlin",12,3,2025
@@ -139,7 +139,7 @@
 "Berlin",7,44,2025
 "Berlin",10,45,2025
 "Berlin",10,46,2025
-"Berlin",5,47,2025
+"Berlin",7,47,2025
 "Brandenburg",11,1,2025
 "Brandenburg",11,2,2025
 "Brandenburg",4,3,2025
@@ -327,7 +327,7 @@
 "Hessen",12,44,2025
 "Hessen",5,45,2025
 "Hessen",10,46,2025
-"Hessen",10,47,2025
+"Hessen",11,47,2025
 "Mecklenburg.Vorpommern",5,1,2025
 "Mecklenburg.Vorpommern",10,2,2025
 "Mecklenburg.Vorpommern",6,3,2025
@@ -421,7 +421,7 @@
 "Niedersachsen",16,44,2025
 "Niedersachsen",20,45,2025
 "Niedersachsen",15,46,2025
-"Niedersachsen",10,47,2025
+"Niedersachsen",14,47,2025
 "Nordrhein.Westfalen",74,1,2025
 "Nordrhein.Westfalen",93,2,2025
 "Nordrhein.Westfalen",38,3,2025
@@ -467,8 +467,8 @@
 "Nordrhein.Westfalen",45,43,2025
 "Nordrhein.Westfalen",37,44,2025
 "Nordrhein.Westfalen",45,45,2025
-"Nordrhein.Westfalen",42,46,2025
-"Nordrhein.Westfalen",24,47,2025
+"Nordrhein.Westfalen",43,46,2025
+"Nordrhein.Westfalen",32,47,2025
 "Rheinland.Pfalz",18,1,2025
 "Rheinland.Pfalz",19,2,2025
 "Rheinland.Pfalz",10,3,2025
@@ -515,7 +515,7 @@
 "Rheinland.Pfalz",6,44,2025
 "Rheinland.Pfalz",4,45,2025
 "Rheinland.Pfalz",5,46,2025
-"Rheinland.Pfalz",NA,47,2025
+"Rheinland.Pfalz",1,47,2025
 "Saarland",5,1,2025
 "Saarland",4,2,2025
 "Saarland",2,3,2025
@@ -750,7 +750,7 @@
 "ThÃ.ringen",NA,44,2025
 "ThÃ.ringen",2,45,2025
 "ThÃ.ringen",2,46,2025
-"ThÃ.ringen",5,47,2025
+"ThÃ.ringen",6,47,2025
 "Baden.WÃ.rttemberg",49,1,2024
 "Baden.WÃ.rttemberg",34,2,2024
 "Baden.WÃ.rttemberg",26,3,2024
