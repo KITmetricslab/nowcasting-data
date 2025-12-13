@@ -48,7 +48,7 @@
 "Bayern",65,47,2025
 "Bayern",36,48,2025
 "Bayern",31,49,2025
-"Bayern",15,50,2025
+"Bayern",24,50,2025
 "Berlin",2,1,2025
 "Berlin",11,2,2025
 "Berlin",10,3,2025
@@ -98,7 +98,7 @@
 "Berlin",18,47,2025
 "Berlin",15,48,2025
 "Berlin",12,49,2025
-"Berlin",4,50,2025
+"Berlin",6,50,2025
 "Brandenburg",7,1,2025
 "Brandenburg",15,2,2025
 "Brandenburg",13,3,2025
@@ -145,10 +145,10 @@
 "Brandenburg",33,44,2025
 "Brandenburg",59,45,2025
 "Brandenburg",43,46,2025
-"Brandenburg",30,47,2025
+"Brandenburg",31,47,2025
 "Brandenburg",36,48,2025
-"Brandenburg",30,49,2025
-"Brandenburg",9,50,2025
+"Brandenburg",31,49,2025
+"Brandenburg",14,50,2025
 "Mecklenburg.Vorpommern",7,1,2025
 "Mecklenburg.Vorpommern",3,2,2025
 "Mecklenburg.Vorpommern",3,3,2025
@@ -248,7 +248,7 @@
 "Rheinland.Pfalz",14,47,2025
 "Rheinland.Pfalz",7,48,2025
 "Rheinland.Pfalz",12,49,2025
-"Rheinland.Pfalz",4,50,2025
+"Rheinland.Pfalz",6,50,2025
 "Saarland",NA,1,2025
 "Saarland",2,2,2025
 "Saarland",NA,3,2025
@@ -298,7 +298,7 @@
 "Saarland",4,47,2025
 "Saarland",NA,48,2025
 "Saarland",2,49,2025
-"Saarland",NA,50,2025
+"Saarland",1,50,2025
 "Sachsen",4,1,2025
 "Sachsen",15,2,2025
 "Sachsen",20,3,2025
@@ -341,14 +341,14 @@
 "Sachsen",79,40,2025
 "Sachsen",54,41,2025
 "Sachsen",49,42,2025
-"Sachsen",54,43,2025
+"Sachsen",55,43,2025
 "Sachsen",55,44,2025
 "Sachsen",50,45,2025
 "Sachsen",55,46,2025
 "Sachsen",32,47,2025
 "Sachsen",31,48,2025
-"Sachsen",30,49,2025
-"Sachsen",9,50,2025
+"Sachsen",31,49,2025
+"Sachsen",16,50,2025
 "Sachsen.Anhalt",4,1,2025
 "Sachsen.Anhalt",17,2,2025
 "Sachsen.Anhalt",19,3,2025
@@ -397,8 +397,8 @@
 "Sachsen.Anhalt",22,46,2025
 "Sachsen.Anhalt",29,47,2025
 "Sachsen.Anhalt",36,48,2025
-"Sachsen.Anhalt",22,49,2025
-"Sachsen.Anhalt",25,50,2025
+"Sachsen.Anhalt",23,49,2025
+"Sachsen.Anhalt",31,50,2025
 "ThÃ.ringen",3,1,2025
 "ThÃ.ringen",3,2,2025
 "ThÃ.ringen",5,3,2025
@@ -448,7 +448,7 @@
 "ThÃ.ringen",16,47,2025
 "ThÃ.ringen",5,48,2025
 "ThÃ.ringen",6,49,2025
-"ThÃ.ringen",2,50,2025
+"ThÃ.ringen",4,50,2025
 "Bayern",22,1,2024
 "Bayern",19,2,2024
 "Bayern",9,3,2024
