@@ -1,6 +1,7 @@
 "stratum","value","week","year"
-"Bayern",2,1,2026
-"Brandenburg",5,1,2026
+"Bayern",4,1,2026
+"Brandenburg",11,1,2026
+"Saarland",1,1,2026
 "Sachsen",2,1,2026
 "Sachsen.Anhalt",2,1,2026
 "Bayern",9,1,2025
@@ -102,8 +103,8 @@
 "Berlin",22,45,2025
 "Berlin",29,46,2025
 "Berlin",19,47,2025
-"Berlin",17,48,2025
-"Berlin",15,49,2025
+"Berlin",18,48,2025
+"Berlin",16,49,2025
 "Berlin",13,50,2025
 "Berlin",12,51,2025
 "Berlin",3,52,2025
