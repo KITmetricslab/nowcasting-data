@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /home/wolffram/nowcasting-data/
+cd /home/stat-health/nowcasting-data/
 git pull --no-rebase
 git add covid19/*
 git add RSV_Infection/*
