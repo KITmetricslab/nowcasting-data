@@ -1,7 +1,7 @@
 "stratum","value","week","year"
 "Bayern",5,1,2026
 "Bayern",8,2,2026
-"Bayern",3,3,2026
+"Bayern",5,3,2026
 "Berlin",2,1,2026
 "Berlin",1,2,2026
 "Berlin",1,3,2026
@@ -19,10 +19,10 @@
 "Saarland",1,3,2026
 "Sachsen",5,1,2026
 "Sachsen",8,2,2026
-"Sachsen",NA,3,2026
+"Sachsen",3,3,2026
 "Sachsen.Anhalt",2,1,2026
-"Sachsen.Anhalt",9,2,2026
-"Sachsen.Anhalt",1,3,2026
+"Sachsen.Anhalt",10,2,2026
+"Sachsen.Anhalt",3,3,2026
 "ThÃ.ringen",NA,1,2026
 "ThÃ.ringen",1,2,2026
 "ThÃ.ringen",NA,3,2026
@@ -387,7 +387,7 @@
 "Sachsen",32,47,2025
 "Sachsen",32,48,2025
 "Sachsen",33,49,2025
-"Sachsen",26,50,2025
+"Sachsen",27,50,2025
 "Sachsen",18,51,2025
 "Sachsen",8,52,2025
 "Sachsen.Anhalt",4,1,2025
