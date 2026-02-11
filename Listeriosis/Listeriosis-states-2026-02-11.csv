@@ -11,7 +11,7 @@
 "Bayern",NA,3,2026
 "Bayern",1,4,2026
 "Bayern",NA,5,2026
-"Bayern",3,6,2026
+"Bayern",4,6,2026
 "Bayern",NA,7,2026
 "Berlin",NA,1,2026
 "Berlin",1,2,2026
@@ -53,7 +53,7 @@
 "Niedersachsen",NA,3,2026
 "Niedersachsen",NA,4,2026
 "Niedersachsen",1,5,2026
-"Niedersachsen",2,6,2026
+"Niedersachsen",3,6,2026
 "Niedersachsen",NA,7,2026
 "Nordrhein.Westfalen",1,1,2026
 "Nordrhein.Westfalen",3,2,2026
@@ -61,7 +61,7 @@
 "Nordrhein.Westfalen",1,4,2026
 "Nordrhein.Westfalen",1,5,2026
 "Nordrhein.Westfalen",1,6,2026
-"Nordrhein.Westfalen",2,7,2026
+"Nordrhein.Westfalen",3,7,2026
 "Rheinland.Pfalz",NA,1,2026
 "Rheinland.Pfalz",1,2,2026
 "Rheinland.Pfalz",NA,3,2026
@@ -90,6 +90,13 @@
 "Sachsen.Anhalt",NA,5,2026
 "Sachsen.Anhalt",NA,6,2026
 "Sachsen.Anhalt",NA,7,2026
+"Schleswig.Holstein",NA,1,2026
+"Schleswig.Holstein",NA,2,2026
+"Schleswig.Holstein",NA,3,2026
+"Schleswig.Holstein",NA,4,2026
+"Schleswig.Holstein",NA,5,2026
+"Schleswig.Holstein",NA,6,2026
+"Schleswig.Holstein",1,7,2026
 "ThÃ.ringen",NA,1,2026
 "ThÃ.ringen",NA,2,2026
 "ThÃ.ringen",NA,3,2026
