@@ -1,12 +1,12 @@
 "stratum","value","week","year"
-"Baden.WÃ.rttemberg",601,1,2026
+"Baden.WÃ.rttemberg",600,1,2026
 "Baden.WÃ.rttemberg",511,2,2026
 "Baden.WÃ.rttemberg",356,3,2026
 "Baden.WÃ.rttemberg",293,4,2026
 "Baden.WÃ.rttemberg",224,5,2026
 "Baden.WÃ.rttemberg",172,6,2026
-"Baden.WÃ.rttemberg",129,7,2026
-"Baden.WÃ.rttemberg",75,8,2026
+"Baden.WÃ.rttemberg",130,7,2026
+"Baden.WÃ.rttemberg",88,8,2026
 "Bayern",872,1,2026
 "Bayern",773,2,2026
 "Bayern",531,3,2026
@@ -22,7 +22,7 @@
 "Berlin",119,5,2026
 "Berlin",86,6,2026
 "Berlin",82,7,2026
-"Berlin",58,8,2026
+"Berlin",67,8,2026
 "Brandenburg",233,1,2026
 "Brandenburg",280,2,2026
 "Brandenburg",218,3,2026
@@ -38,7 +38,7 @@
 "Bremen",10,5,2026
 "Bremen",12,6,2026
 "Bremen",4,7,2026
-"Bremen",6,8,2026
+"Bremen",7,8,2026
 "Hamburg",92,1,2026
 "Hamburg",79,2,2026
 "Hamburg",48,3,2026
@@ -46,7 +46,7 @@
 "Hamburg",43,5,2026
 "Hamburg",30,6,2026
 "Hamburg",31,7,2026
-"Hamburg",17,8,2026
+"Hamburg",20,8,2026
 "Hessen",283,1,2026
 "Hessen",373,2,2026
 "Hessen",211,3,2026
@@ -54,7 +54,7 @@
 "Hessen",164,5,2026
 "Hessen",141,6,2026
 "Hessen",85,7,2026
-"Hessen",51,8,2026
+"Hessen",54,8,2026
 "Mecklenburg.Vorpommern",158,1,2026
 "Mecklenburg.Vorpommern",218,2,2026
 "Mecklenburg.Vorpommern",130,3,2026
@@ -78,7 +78,7 @@
 "Nordrhein.Westfalen",362,5,2026
 "Nordrhein.Westfalen",368,6,2026
 "Nordrhein.Westfalen",292,7,2026
-"Nordrhein.Westfalen",241,8,2026
+"Nordrhein.Westfalen",244,8,2026
 "Rheinland.Pfalz",206,1,2026
 "Rheinland.Pfalz",290,2,2026
 "Rheinland.Pfalz",183,3,2026
@@ -110,7 +110,7 @@
 "Sachsen.Anhalt",154,5,2026
 "Sachsen.Anhalt",93,6,2026
 "Sachsen.Anhalt",95,7,2026
-"Sachsen.Anhalt",68,8,2026
+"Sachsen.Anhalt",76,8,2026
 "Schleswig.Holstein",145,1,2026
 "Schleswig.Holstein",186,2,2026
 "Schleswig.Holstein",161,3,2026
@@ -118,7 +118,7 @@
 "Schleswig.Holstein",99,5,2026
 "Schleswig.Holstein",96,6,2026
 "Schleswig.Holstein",97,7,2026
-"Schleswig.Holstein",74,8,2026
+"Schleswig.Holstein",76,8,2026
 "ThÃ.ringen",204,1,2026
 "ThÃ.ringen",239,2,2026
 "ThÃ.ringen",144,3,2026
@@ -126,7 +126,7 @@
 "ThÃ.ringen",121,5,2026
 "ThÃ.ringen",81,6,2026
 "ThÃ.ringen",87,7,2026
-"ThÃ.ringen",59,8,2026
+"ThÃ.ringen",60,8,2026
 "Baden.WÃ.rttemberg",531,1,2025
 "Baden.WÃ.rttemberg",455,2,2025
 "Baden.WÃ.rttemberg",351,3,2025
@@ -1063,7 +1063,7 @@
 "Bayern",887,50,2024
 "Bayern",876,51,2024
 "Bayern",490,52,2024
-"Berlin",595,1,2024
+"Berlin",594,1,2024
 "Berlin",346,2,2024
 "Berlin",283,3,2024
 "Berlin",209,4,2024
@@ -1109,7 +1109,7 @@
 "Berlin",519,44,2024
 "Berlin",396,45,2024
 "Berlin",417,46,2024
-"Berlin",407,47,2024
+"Berlin",406,47,2024
 "Berlin",470,48,2024
 "Berlin",419,49,2024
 "Berlin",522,50,2024
