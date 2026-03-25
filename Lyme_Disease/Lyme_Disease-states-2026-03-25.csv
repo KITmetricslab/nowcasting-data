@@ -23,7 +23,7 @@
 "Berlin",7,9,2026
 "Berlin",2,10,2026
 "Berlin",5,11,2026
-"Berlin",7,12,2026
+"Berlin",6,12,2026
 "Berlin",NA,13,2026
 "Brandenburg",15,1,2026
 "Brandenburg",24,2,2026
@@ -35,9 +35,9 @@
 "Brandenburg",12,8,2026
 "Brandenburg",8,9,2026
 "Brandenburg",9,10,2026
-"Brandenburg",4,11,2026
+"Brandenburg",5,11,2026
 "Brandenburg",12,12,2026
-"Brandenburg",1,13,2026
+"Brandenburg",6,13,2026
 "Mecklenburg.Vorpommern",NA,1,2026
 "Mecklenburg.Vorpommern",5,2,2026
 "Mecklenburg.Vorpommern",3,3,2026
@@ -88,8 +88,8 @@
 "Sachsen",6,9,2026
 "Sachsen",14,10,2026
 "Sachsen",9,11,2026
-"Sachsen",8,12,2026
-"Sachsen",1,13,2026
+"Sachsen",9,12,2026
+"Sachsen",3,13,2026
 "Sachsen.Anhalt",2,1,2026
 "Sachsen.Anhalt",11,2,2026
 "Sachsen.Anhalt",7,3,2026
