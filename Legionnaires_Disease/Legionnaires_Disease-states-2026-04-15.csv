@@ -14,7 +14,7 @@
 "Baden.WÃ.rttemberg",5,13,2026
 "Baden.WÃ.rttemberg",6,14,2026
 "Baden.WÃ.rttemberg",5,15,2026
-"Baden.WÃ.rttemberg",1,16,2026
+"Baden.WÃ.rttemberg",3,16,2026
 "Bayern",11,1,2026
 "Bayern",4,2,2026
 "Bayern",3,3,2026
@@ -29,8 +29,8 @@
 "Bayern",3,12,2026
 "Bayern",3,13,2026
 "Bayern",6,14,2026
-"Bayern",2,15,2026
-"Bayern",NA,16,2026
+"Bayern",3,15,2026
+"Bayern",2,16,2026
 "Berlin",4,1,2026
 "Berlin",3,2,2026
 "Berlin",3,3,2026
@@ -94,7 +94,7 @@
 "Hamburg",1,13,2026
 "Hamburg",1,14,2026
 "Hamburg",NA,15,2026
-"Hamburg",NA,16,2026
+"Hamburg",1,16,2026
 "Hessen",NA,1,2026
 "Hessen",6,2,2026
 "Hessen",3,3,2026
@@ -108,7 +108,7 @@
 "Hessen",3,11,2026
 "Hessen",5,12,2026
 "Hessen",2,13,2026
-"Hessen",NA,14,2026
+"Hessen",1,14,2026
 "Hessen",3,15,2026
 "Hessen",NA,16,2026
 "Mecklenburg.Vorpommern",1,1,2026
@@ -141,8 +141,8 @@
 "Niedersachsen",1,12,2026
 "Niedersachsen",NA,13,2026
 "Niedersachsen",3,14,2026
-"Niedersachsen",4,15,2026
-"Niedersachsen",NA,16,2026
+"Niedersachsen",5,15,2026
+"Niedersachsen",1,16,2026
 "Nordrhein.Westfalen",3,1,2026
 "Nordrhein.Westfalen",9,2,2026
 "Nordrhein.Westfalen",8,3,2026
@@ -157,8 +157,8 @@
 "Nordrhein.Westfalen",7,12,2026
 "Nordrhein.Westfalen",12,13,2026
 "Nordrhein.Westfalen",4,14,2026
-"Nordrhein.Westfalen",7,15,2026
-"Nordrhein.Westfalen",2,16,2026
+"Nordrhein.Westfalen",8,15,2026
+"Nordrhein.Westfalen",3,16,2026
 "Rheinland.Pfalz",3,1,2026
 "Rheinland.Pfalz",2,2,2026
 "Rheinland.Pfalz",3,3,2026
@@ -174,7 +174,7 @@
 "Rheinland.Pfalz",NA,13,2026
 "Rheinland.Pfalz",2,14,2026
 "Rheinland.Pfalz",5,15,2026
-"Rheinland.Pfalz",NA,16,2026
+"Rheinland.Pfalz",1,16,2026
 "Saarland",NA,1,2026
 "Saarland",1,2,2026
 "Saarland",NA,3,2026
@@ -222,7 +222,7 @@
 "Sachsen.Anhalt",1,13,2026
 "Sachsen.Anhalt",NA,14,2026
 "Sachsen.Anhalt",NA,15,2026
-"Sachsen.Anhalt",NA,16,2026
+"Sachsen.Anhalt",1,16,2026
 "Schleswig.Holstein",4,1,2026
 "Schleswig.Holstein",1,2,2026
 "Schleswig.Holstein",1,3,2026
@@ -238,7 +238,7 @@
 "Schleswig.Holstein",NA,13,2026
 "Schleswig.Holstein",2,14,2026
 "Schleswig.Holstein",2,15,2026
-"Schleswig.Holstein",NA,16,2026
+"Schleswig.Holstein",1,16,2026
 "ThÃ.ringen",NA,1,2026
 "ThÃ.ringen",2,2,2026
 "ThÃ.ringen",2,3,2026
