@@ -3,7 +3,7 @@
 "Baden.WÃ.rttemberg",10,2,2026
 "Baden.WÃ.rttemberg",21,3,2026
 "Baden.WÃ.rttemberg",21,4,2026
-"Baden.WÃ.rttemberg",23,5,2026
+"Baden.WÃ.rttemberg",24,5,2026
 "Baden.WÃ.rttemberg",20,6,2026
 "Baden.WÃ.rttemberg",24,7,2026
 "Baden.WÃ.rttemberg",21,8,2026
@@ -14,7 +14,7 @@
 "Baden.WÃ.rttemberg",21,13,2026
 "Baden.WÃ.rttemberg",16,14,2026
 "Baden.WÃ.rttemberg",21,15,2026
-"Baden.WÃ.rttemberg",8,16,2026
+"Baden.WÃ.rttemberg",19,16,2026
 "Bayern",17,1,2026
 "Bayern",22,2,2026
 "Bayern",34,3,2026
@@ -28,9 +28,9 @@
 "Bayern",42,11,2026
 "Bayern",26,12,2026
 "Bayern",33,13,2026
-"Bayern",18,14,2026
+"Bayern",19,14,2026
 "Bayern",19,15,2026
-"Bayern",32,16,2026
+"Bayern",39,16,2026
 "Berlin",2,1,2026
 "Berlin",7,2,2026
 "Berlin",3,3,2026
@@ -46,7 +46,7 @@
 "Berlin",9,13,2026
 "Berlin",6,14,2026
 "Berlin",5,15,2026
-"Berlin",9,16,2026
+"Berlin",10,16,2026
 "Brandenburg",NA,1,2026
 "Brandenburg",7,2,2026
 "Brandenburg",3,3,2026
@@ -94,7 +94,7 @@
 "Hamburg",8,13,2026
 "Hamburg",2,14,2026
 "Hamburg",2,15,2026
-"Hamburg",5,16,2026
+"Hamburg",4,16,2026
 "Hessen",9,1,2026
 "Hessen",9,2,2026
 "Hessen",15,3,2026
@@ -110,7 +110,7 @@
 "Hessen",21,13,2026
 "Hessen",9,14,2026
 "Hessen",7,15,2026
-"Hessen",20,16,2026
+"Hessen",22,16,2026
 "Mecklenburg.Vorpommern",5,1,2026
 "Mecklenburg.Vorpommern",4,2,2026
 "Mecklenburg.Vorpommern",5,3,2026
@@ -126,7 +126,7 @@
 "Mecklenburg.Vorpommern",3,13,2026
 "Mecklenburg.Vorpommern",2,14,2026
 "Mecklenburg.Vorpommern",3,15,2026
-"Mecklenburg.Vorpommern",5,16,2026
+"Mecklenburg.Vorpommern",7,16,2026
 "Niedersachsen",10,1,2026
 "Niedersachsen",25,2,2026
 "Niedersachsen",18,3,2026
@@ -142,7 +142,7 @@
 "Niedersachsen",11,13,2026
 "Niedersachsen",15,14,2026
 "Niedersachsen",11,15,2026
-"Niedersachsen",13,16,2026
+"Niedersachsen",17,16,2026
 "Nordrhein.Westfalen",17,1,2026
 "Nordrhein.Westfalen",21,2,2026
 "Nordrhein.Westfalen",29,3,2026
@@ -157,8 +157,8 @@
 "Nordrhein.Westfalen",36,12,2026
 "Nordrhein.Westfalen",27,13,2026
 "Nordrhein.Westfalen",29,14,2026
-"Nordrhein.Westfalen",31,15,2026
-"Nordrhein.Westfalen",27,16,2026
+"Nordrhein.Westfalen",32,15,2026
+"Nordrhein.Westfalen",37,16,2026
 "Rheinland.Pfalz",4,1,2026
 "Rheinland.Pfalz",10,2,2026
 "Rheinland.Pfalz",9,3,2026
@@ -206,7 +206,7 @@
 "Sachsen",13,13,2026
 "Sachsen",5,14,2026
 "Sachsen",8,15,2026
-"Sachsen",7,16,2026
+"Sachsen",8,16,2026
 "Sachsen.Anhalt",5,1,2026
 "Sachsen.Anhalt",4,2,2026
 "Sachsen.Anhalt",5,3,2026
@@ -222,7 +222,7 @@
 "Sachsen.Anhalt",3,13,2026
 "Sachsen.Anhalt",4,14,2026
 "Sachsen.Anhalt",13,15,2026
-"Sachsen.Anhalt",9,16,2026
+"Sachsen.Anhalt",10,16,2026
 "Schleswig.Holstein",3,1,2026
 "Schleswig.Holstein",8,2,2026
 "Schleswig.Holstein",6,3,2026
@@ -254,7 +254,7 @@
 "ThÃ.ringen",9,13,2026
 "ThÃ.ringen",5,14,2026
 "ThÃ.ringen",8,15,2026
-"ThÃ.ringen",6,16,2026
+"ThÃ.ringen",8,16,2026
 "Baden.WÃ.rttemberg",16,1,2025
 "Baden.WÃ.rttemberg",16,2,2025
 "Baden.WÃ.rttemberg",11,3,2025
