@@ -112,7 +112,7 @@
 "Hamburg",3,16,2026
 "Hamburg",1,17,2026
 "Hamburg",2,18,2026
-"Hamburg",NA,19,2026
+"Hamburg",1,19,2026
 "Hessen",NA,1,2026
 "Hessen",6,2,2026
 "Hessen",3,3,2026
@@ -169,7 +169,7 @@
 "Niedersachsen",3,16,2026
 "Niedersachsen",1,17,2026
 "Niedersachsen",2,18,2026
-"Niedersachsen",NA,19,2026
+"Niedersachsen",2,19,2026
 "Nordrhein.Westfalen",3,1,2026
 "Nordrhein.Westfalen",9,2,2026
 "Nordrhein.Westfalen",8,3,2026
@@ -187,8 +187,8 @@
 "Nordrhein.Westfalen",8,15,2026
 "Nordrhein.Westfalen",8,16,2026
 "Nordrhein.Westfalen",7,17,2026
-"Nordrhein.Westfalen",9,18,2026
-"Nordrhein.Westfalen",1,19,2026
+"Nordrhein.Westfalen",10,18,2026
+"Nordrhein.Westfalen",3,19,2026
 "Rheinland.Pfalz",3,1,2026
 "Rheinland.Pfalz",2,2,2026
 "Rheinland.Pfalz",3,3,2026
@@ -207,7 +207,7 @@
 "Rheinland.Pfalz",1,16,2026
 "Rheinland.Pfalz",3,17,2026
 "Rheinland.Pfalz",1,18,2026
-"Rheinland.Pfalz",NA,19,2026
+"Rheinland.Pfalz",1,19,2026
 "Saarland",NA,1,2026
 "Saarland",1,2,2026
 "Saarland",NA,3,2026
@@ -283,7 +283,7 @@
 "Schleswig.Holstein",1,16,2026
 "Schleswig.Holstein",2,17,2026
 "Schleswig.Holstein",NA,18,2026
-"Schleswig.Holstein",NA,19,2026
+"Schleswig.Holstein",1,19,2026
 "ThÃ.ringen",NA,1,2026
 "ThÃ.ringen",2,2,2026
 "ThÃ.ringen",2,3,2026
