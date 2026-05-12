@@ -17,7 +17,8 @@
 "Bayern",35,16,2026
 "Bayern",51,17,2026
 "Bayern",64,18,2026
-"Bayern",78,19,2026
+"Bayern",81,19,2026
+"Bayern",12,20,2026
 "Berlin",5,1,2026
 "Berlin",5,2,2026
 "Berlin",7,3,2026
@@ -27,7 +28,7 @@
 "Berlin",9,7,2026
 "Berlin",7,8,2026
 "Berlin",7,9,2026
-"Berlin",2,10,2026
+"Berlin",3,10,2026
 "Berlin",7,11,2026
 "Berlin",9,12,2026
 "Berlin",3,13,2026
@@ -35,8 +36,9 @@
 "Berlin",3,15,2026
 "Berlin",1,16,2026
 "Berlin",6,17,2026
-"Berlin",4,18,2026
+"Berlin",5,18,2026
 "Berlin",4,19,2026
+"Berlin",2,20,2026
 "Brandenburg",15,1,2026
 "Brandenburg",24,2,2026
 "Brandenburg",16,3,2026
@@ -55,7 +57,8 @@
 "Brandenburg",13,16,2026
 "Brandenburg",19,17,2026
 "Brandenburg",23,18,2026
-"Brandenburg",21,19,2026
+"Brandenburg",28,19,2026
+"Brandenburg",3,20,2026
 "Mecklenburg.Vorpommern",NA,1,2026
 "Mecklenburg.Vorpommern",5,2,2026
 "Mecklenburg.Vorpommern",3,3,2026
@@ -75,6 +78,7 @@
 "Mecklenburg.Vorpommern",1,17,2026
 "Mecklenburg.Vorpommern",2,18,2026
 "Mecklenburg.Vorpommern",4,19,2026
+"Mecklenburg.Vorpommern",NA,20,2026
 "Rheinland.Pfalz",3,1,2026
 "Rheinland.Pfalz",5,2,2026
 "Rheinland.Pfalz",3,3,2026
@@ -93,7 +97,8 @@
 "Rheinland.Pfalz",5,16,2026
 "Rheinland.Pfalz",10,17,2026
 "Rheinland.Pfalz",7,18,2026
-"Rheinland.Pfalz",12,19,2026
+"Rheinland.Pfalz",14,19,2026
+"Rheinland.Pfalz",1,20,2026
 "Saarland",1,1,2026
 "Saarland",2,2,2026
 "Saarland",1,3,2026
@@ -113,6 +118,7 @@
 "Saarland",2,17,2026
 "Saarland",2,18,2026
 "Saarland",2,19,2026
+"Saarland",1,20,2026
 "Sachsen",5,1,2026
 "Sachsen",16,2,2026
 "Sachsen",21,3,2026
@@ -131,7 +137,8 @@
 "Sachsen",12,16,2026
 "Sachsen",21,17,2026
 "Sachsen",15,18,2026
-"Sachsen",13,19,2026
+"Sachsen",16,19,2026
+"Sachsen",NA,20,2026
 "Sachsen.Anhalt",2,1,2026
 "Sachsen.Anhalt",11,2,2026
 "Sachsen.Anhalt",7,3,2026
@@ -151,6 +158,7 @@
 "Sachsen.Anhalt",15,17,2026
 "Sachsen.Anhalt",19,18,2026
 "Sachsen.Anhalt",19,19,2026
+"Sachsen.Anhalt",2,20,2026
 "ThÃ.ringen",NA,1,2026
 "ThÃ.ringen",3,2,2026
 "ThÃ.ringen",4,3,2026
@@ -170,6 +178,7 @@
 "ThÃ.ringen",4,17,2026
 "ThÃ.ringen",6,18,2026
 "ThÃ.ringen",7,19,2026
+"ThÃ.ringen",NA,20,2026
 "Bayern",9,1,2025
 "Bayern",21,2,2025
 "Bayern",20,3,2025
